@@ -1,6 +1,6 @@
 [{
   "customerNumber": "27548105610",
-  "customerName": "Ronnie Symmons",
+  "customerName": "Vijay",
   "creditFacilities": [
     {
       "id": 1,
@@ -11,7 +11,7 @@
       "installmentCharge": "29",
       "installmentChargePeriod": "Annual",
       "coBorrower": "1",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "installmentCharge": "39",
       "installmentChargePeriod": "Quarterly",
       "coBorrower": "8",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "installmentCharge": "85",
       "installmentChargePeriod": "Annual",
       "coBorrower": "3",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     },
     {
       "id": 4,
@@ -44,7 +44,7 @@
       "installmentCharge": "13",
       "installmentChargePeriod": "Annual",
       "coBorrower": "1",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     },
     {
       "id": 5,
@@ -55,7 +55,7 @@
       "installmentCharge": "17",
       "installmentChargePeriod": "Half-Yearly",
       "coBorrower": "4",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     },
     {
       "id": 6,
@@ -66,7 +66,7 @@
       "installmentCharge": "59",
       "installmentChargePeriod": "Half-Yearly",
       "coBorrower": "7",
-      "isDanskeBankAccount": "YES "
+      "isDanskeBankAccount": "Yes "
     },
     {
       "id": 7,
@@ -77,7 +77,7 @@
       "installmentCharge": "90",
       "installmentChargePeriod": "Half-Yearly",
       "coBorrower": "8",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     }
   ],
   "repaymentLoans": [
@@ -90,7 +90,7 @@
       "installmentCharge": "91",
       "installmentChargePeriod": "Quarterly",
       "coBorrower": "2",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     },
     {
       "id": 2,
@@ -101,7 +101,7 @@
       "installmentCharge": "71",
       "installmentChargePeriod": "Annual",
       "coBorrower": "7",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     },
     {
       "id": 3,
@@ -112,7 +112,7 @@
       "installmentCharge": "24",
       "installmentChargePeriod": "Half-Yearly",
       "coBorrower": "5",
-      "isDanskeBankAccount": "YES "
+      "isDanskeBankAccount": "Yes "
     },
     {
       "id": 4,
@@ -123,7 +123,7 @@
       "installmentCharge": "99",
       "installmentChargePeriod": "Annual",
       "coBorrower": "2",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     },
     {
       "id": 5,
@@ -134,7 +134,7 @@
       "installmentCharge": "28",
       "installmentChargePeriod": "Annual",
       "coBorrower": "1",
-      "isDanskeBankAccount": "YES "
+      "isDanskeBankAccount": "Yes "
     }
   ],
   "chargeCards": [
@@ -143,42 +143,42 @@
       "interestBearingBalance": "6409",
       "non_interestBearingBalance": "804",
       "coBorrower": "1",
-      "isDanskeBankAccount": "YES "
+      "isDanskeBankAccount": "Yes "
     },
     {
       "id": 2,
       "interestBearingBalance": "2891",
       "non_interestBearingBalance": "365",
       "coBorrower": "3",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     },
     {
       "id": 3,
       "interestBearingBalance": "2991",
       "non_interestBearingBalance": "131",
       "coBorrower": "7",
-      "isDanskeBankAccount": "YES "
+      "isDanskeBankAccount": "Yes "
     },
     {
       "id": 4,
       "interestBearingBalance": "2671",
       "non_interestBearingBalance": "988",
       "coBorrower": "6",
-      "isDanskeBankAccount": "YES "
+      "isDanskeBankAccount": "Yes "
     },
     {
       "id": 5,
       "interestBearingBalance": "4218",
       "non_interestBearingBalance": "648",
       "coBorrower": "7",
-      "isDanskeBankAccount": "YES "
+      "isDanskeBankAccount": "Yes "
     },
     {
       "id": 6,
       "interestBearingBalance": "3861",
       "non_interestBearingBalance": "199",
       "coBorrower": "4",
-      "isDanskeBankAccount": "NO"
+      "isDanskeBankAccount": "No"
     }
   ]
 }]
