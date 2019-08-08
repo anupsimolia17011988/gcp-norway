@@ -1,0 +1,894 @@
+[{
+   "returnMessage": "",
+   "externalCustomerNumber": "18017749532",
+   "customerConsentKey": "2019-07-29-12.27.08.721307",
+   "translationText": "",
+   "employer":    [
+            {
+         "employerName": "",
+         "cVRNumber": "811094242",
+         "salary":          [
+                        {
+               "caledarMonth": "2018-09",
+               "category":                [
+                                    {
+                     "name": "forskuddstrekk",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "forskuddstrekk",
+                        "detail": [                        {
+                           "description": "",
+                           "amount": -15000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "fradrag",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "fradrag",
+                        "detail": [                        {
+                           "description": "brakkeleie",
+                           "amount": 4000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "inntekt",
+                     "incomeTaxRule": "",
+                     "paymentType": "utgiftsgodtgjoerelse",
+                     "promEmployerTax": "1",
+                     "basisForTaxCalculation": "1",
+                     "subCategory": [                     {
+                        "name": "loennsinntekt",
+                        "detail":                         [
+                                                      {
+                              "description": "annet",
+                              "amount": 300,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "bil",
+                              "amount": 6000,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "fastloenn",
+                              "amount": 2400,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "hyretillegg",
+                              "amount": 2500,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "timeloenn",
+                              "amount": 150000,
+                              "specification":                               {
+                                 "numberOfUnits": "150",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           }
+                        ]
+                     }]
+                  }
+               ]
+            },
+                        {
+               "caledarMonth": "2018-08",
+               "category":                [
+                                    {
+                     "name": "forskuddstrekk",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "forskuddstrekk",
+                        "detail": [                        {
+                           "description": "",
+                           "amount": -15000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "fradrag",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "fradrag",
+                        "detail": [                        {
+                           "description": "brakkeleie",
+                           "amount": 4000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "inntekt",
+                     "incomeTaxRule": "",
+                     "paymentType": "utgiftsgodtgjoerelse",
+                     "promEmployerTax": "1",
+                     "basisForTaxCalculation": "1",
+                     "subCategory": [                     {
+                        "name": "loennsinntekt",
+                        "detail":                         [
+                                                      {
+                              "description": "annet",
+                              "amount": 300,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "bil",
+                              "amount": 6000,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "fastloenn",
+                              "amount": 2400,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "hyretillegg",
+                              "amount": 2500,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "timeloenn",
+                              "amount": 150000,
+                              "specification":                               {
+                                 "numberOfUnits": "150",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           }
+                        ]
+                     }]
+                  }
+               ]
+            },
+                        {
+               "caledarMonth": "2018-07",
+               "category":                [
+                                    {
+                     "name": "forskuddstrekk",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "forskuddstrekk",
+                        "detail": [                        {
+                           "description": "",
+                           "amount": -15000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "fradrag",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "fradrag",
+                        "detail": [                        {
+                           "description": "brakkeleie",
+                           "amount": 4000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "inntekt",
+                     "incomeTaxRule": "",
+                     "paymentType": "utgiftsgodtgjoerelse",
+                     "promEmployerTax": "1",
+                     "basisForTaxCalculation": "1",
+                     "subCategory": [                     {
+                        "name": "loennsinntekt",
+                        "detail":                         [
+                                                      {
+                              "description": "annet",
+                              "amount": 300,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "bil",
+                              "amount": 6000,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "fastloenn",
+                              "amount": 2400,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "hyretillegg",
+                              "amount": 2500,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "timeloenn",
+                              "amount": 150000,
+                              "specification":                               {
+                                 "numberOfUnits": "150",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           }
+                        ]
+                     }]
+                  }
+               ]
+            },
+                        {
+               "caledarMonth": "2018-06",
+               "category":                [
+                                    {
+                     "name": "forskuddstrekk",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "forskuddstrekk",
+                        "detail": [                        {
+                           "description": "",
+                           "amount": -15000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "fradrag",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "fradrag",
+                        "detail": [                        {
+                           "description": "brakkeleie",
+                           "amount": 4000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "inntekt",
+                     "incomeTaxRule": "",
+                     "paymentType": "utgiftsgodtgjoerelse",
+                     "promEmployerTax": "1",
+                     "basisForTaxCalculation": "1",
+                     "subCategory": [                     {
+                        "name": "loennsinntekt",
+                        "detail":                         [
+                                                      {
+                              "description": "annet",
+                              "amount": 300,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "bil",
+                              "amount": 6000,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "fastloenn",
+                              "amount": 2400,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "hyretillegg",
+                              "amount": 2500,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "timeloenn",
+                              "amount": 150000,
+                              "specification":                               {
+                                 "numberOfUnits": "150",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           }
+                        ]
+                     }]
+                  }
+               ]
+            },
+                        {
+               "caledarMonth": "2018-05",
+               "category":                [
+                                    {
+                     "name": "forskuddstrekk",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "forskuddstrekk",
+                        "detail": [                        {
+                           "description": "",
+                           "amount": -15000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "fradrag",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "fradrag",
+                        "detail": [                        {
+                           "description": "brakkeleie",
+                           "amount": 4000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "inntekt",
+                     "incomeTaxRule": "",
+                     "paymentType": "utgiftsgodtgjoerelse",
+                     "promEmployerTax": "1",
+                     "basisForTaxCalculation": "1",
+                     "subCategory": [                     {
+                        "name": "loennsinntekt",
+                        "detail":                         [
+                                                      {
+                              "description": "annet",
+                              "amount": 300,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "bil",
+                              "amount": 6000,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "fastloenn",
+                              "amount": 2400,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "hyretillegg",
+                              "amount": 2500,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "timeloenn",
+                              "amount": 150000,
+                              "specification":                               {
+                                 "numberOfUnits": "150",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           }
+                        ]
+                     }]
+                  }
+               ]
+            },
+                        {
+               "caledarMonth": "2018-04",
+               "category":                [
+                                    {
+                     "name": "forskuddstrekk",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "forskuddstrekk",
+                        "detail": [                        {
+                           "description": "",
+                           "amount": -15000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "fradrag",
+                     "incomeTaxRule": "",
+                     "paymentType": "",
+                     "promEmployerTax": "",
+                     "basisForTaxCalculation": "",
+                     "subCategory": [                     {
+                        "name": "fradrag",
+                        "detail": [                        {
+                           "description": "brakkeleie",
+                           "amount": 4000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }]
+                     }]
+                  },
+                                    {
+                     "name": "inntekt",
+                     "incomeTaxRule": "",
+                     "paymentType": "utgiftsgodtgjoerelse",
+                     "promEmployerTax": "1",
+                     "basisForTaxCalculation": "1",
+                     "subCategory": [                     {
+                        "name": "loennsinntekt",
+                        "detail":                         [
+                                                      {
+                              "description": "annet",
+                              "amount": 300,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "bil",
+                              "amount": 6000,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "fastloenn",
+                              "amount": 2400,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "hyretillegg",
+                              "amount": 2500,
+                              "specification":                               {
+                                 "numberOfUnits": "",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           },
+                                                      {
+                              "description": "timeloenn",
+                              "amount": 150000,
+                              "specification":                               {
+                                 "numberOfUnits": "150",
+                                 "taxResidenceCountry": "",
+                                 "vestingCountry": "",
+                                 "earnedSupportVessel": "",
+                                 "earnedOnContinent": ""
+                              },
+                              "additionalInformation": []
+                           }
+                        ]
+                     }]
+                  }
+               ]
+            }
+         ]
+      },
+            {
+         "employerName": "",
+         "cVRNumber": "911270374",
+         "salary": [         {
+            "caledarMonth": "2019-01",
+            "category":             [
+                              {
+                  "name": "forskuddstrekk",
+                  "incomeTaxRule": "",
+                  "paymentType": "",
+                  "promEmployerTax": "",
+                  "basisForTaxCalculation": "",
+                  "subCategory": [                  {
+                     "name": "forskuddstrekk",
+                     "detail":                      [
+                                                {
+                           "description": "",
+                           "amount": -5012,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        },
+                                                {
+                           "description": "",
+                           "amount": -5012,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }
+                     ]
+                  }]
+               },
+                              {
+                  "name": "inntekt",
+                  "incomeTaxRule": "",
+                  "paymentType": "kontantytelse",
+                  "promEmployerTax": "1",
+                  "basisForTaxCalculation": "1",
+                  "subCategory": [                  {
+                     "name": "loennsinntekt",
+                     "detail":                      [
+                                                {
+                           "description": "fastloenn",
+                           "amount": 20000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        },
+                                                {
+                           "description": "fastloenn",
+                           "amount": 20000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        },
+                                                {
+                           "description": "honorarAkkordProsentProvisjon",
+                           "amount": 15000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        },
+                                                {
+                           "description": "honorarAkkordProsentProvisjon",
+                           "amount": 15000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        },
+                                                {
+                           "description": "skattepliktigPersonalrabatt",
+                           "amount": 5000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        },
+                                                {
+                           "description": "skattepliktigPersonalrabatt",
+                           "amount": 5000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        },
+                                                {
+                           "description": "tips",
+                           "amount": 6000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        },
+                                                {
+                           "description": "tips",
+                           "amount": 6000,
+                           "specification":                            {
+                              "numberOfUnits": "",
+                              "taxResidenceCountry": "",
+                              "vestingCountry": "",
+                              "earnedSupportVessel": "",
+                              "earnedOnContinent": ""
+                           },
+                           "additionalInformation": []
+                        }
+                     ]
+                  }]
+               }
+            ]
+         }]
+      }
+   ]
+}
+]
