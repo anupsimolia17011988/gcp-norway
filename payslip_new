@@ -1,0 +1,783 @@
+{
+	"returnMessage": "",
+	"externalCustomerNumber": "18017749532",
+	"customerConsentKey": "2019-07-09-15.35.41.917387",
+	"translationText": "",
+	"employer": [{
+			"employerName": "",
+			"cVRNumber": "811094242",
+			"category": [{
+					"name": "inntekt",
+					"incomeTaxRule": "",
+					"paymentType": "kontantytelse",
+					"promEmployerTax": "1",
+					"basisForTaxCalculation": "1",
+					"subCategory": [{
+							"name": "loennsinntekt",
+							"detail": [{
+								"salary": [{
+										"caledarMonth": "2018-09",
+										"description": "fastloenn",
+										"amount": 2400,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-08",
+										"description": "fastloenn",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-07",
+										"description": "fastloenn",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-06",
+										"description": "fastloenn",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-05",
+										"description": "fastloenn",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-04",
+										"description": "fastloenn",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-09",
+										"description": "hyretillegg",
+										"amount": 2500,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-08",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-07",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-06",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-05",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-04",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-09",
+										"description": "smusstillegg",
+										"amount": 2900,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									}
+								]
+							}]
+						}
+
+					]
+				},
+				{
+					"name": "fradrag",
+					"incomeTaxRule": "",
+					"paymentType": "",
+					"promEmployerTax": "",
+					"basisForTaxCalculation": "",
+					"subCategory": [{
+							"name": "fradrag",
+							"detail": [{
+								"salary": [{
+										"caledarMonth": "2018-09",
+										"description": "brakkeleie",
+										"amount": 2400,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-08",
+										"description": "brakkeleie",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-07",
+										"description": "brakkeleie",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-06",
+										"description": "brakkeleie",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-05",
+										"description": "brakkeleie",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-04",
+										"description": "brakkeleie",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									}
+
+								]
+							}]
+						}
+
+					]
+				}
+			]
+		},
+		{
+			"employerName": "",
+			"cVRNumber": "811222712",
+			"category": [{
+					"name": "inntekt",
+					"incomeTaxRule": "",
+					"paymentType": "kontantytelse",
+					"promEmployerTax": "1",
+					"basisForTaxCalculation": "1",
+					"subCategory": [{
+							"name": "loennsinntekt",
+							"detail": [{
+								"salary": [{
+										"caledarMonth": "2018-09",
+										"description": "fastloenn",
+										"amount": 2400,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-08",
+										"description": "fastloenn",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-07",
+										"description": "fastloenn",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-06",
+										"description": "fastloenn",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-05",
+										"description": "fastloenn",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-04",
+										"description": "fastloenn",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "AF",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-09",
+										"description": "hyretillegg",
+										"amount": 2500,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-08",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-07",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-06",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-05",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-04",
+										"description": "hyretillegg",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									},
+									{
+										"caledarMonth": "2018-09",
+										"description": "smusstillegg",
+										"amount": 2900,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "",
+											"element": []
+										}]
+									}
+								]
+							}]
+						}
+
+					]
+				},
+				{
+					"name": "fradrag",
+					"incomeTaxRule": "",
+					"paymentType": "",
+					"promEmployerTax": "",
+					"basisForTaxCalculation": "",
+					"subCategory": [{
+							"name": "fradrag",
+							"detail": [{
+								"salary": [{
+										"caledarMonth": "2018-09",
+										"description": "brakkeleie",
+										"amount": 2400,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-08",
+										"description": "brakkeleie",
+										"amount": 2600,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-07",
+										"description": "brakkeleie",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-06",
+										"description": "brakkeleie",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-05",
+										"description": "brakkeleie",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									},
+									{
+										"caledarMonth": "2018-04",
+										"description": "brakkeleie",
+										"amount": 2800,
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": [{
+											"elementGroupName": "inntjeningsforhold",
+											"element": [{
+												"elementName": "inntjeningsforhold",
+												"elementValue": "utenlandskeSjoefolkSomIkkeErSkattepliktig",
+												"elementDataTypeIndicator": "C"
+											}]
+										}]
+									}
+
+								]
+							}]
+						}
+
+					]
+				}
+			]
+		}
+	]
+}
