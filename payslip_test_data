@@ -1,1 +1,4963 @@
-[{"employer":[{"name":"Wilburn","subcategory":[{"name":"Kaycee","detail":[{"name":"Jc","salary":[{"month":"02/11/2019","amount":14,"category":[{"name":"Shu"}]},{"month":"05/05/2019","amount":29,"category":[{"name":"Darline"},{"name":"Pasty"}]},{"month":"01/29/2019","amount":6,"category":[{"name":"Kenny"}]},{"month":"12/25/2018","amount":80,"category":[{"name":"Herschel"},{"name":"Kenny"},{"name":"Brigette"}]},{"month":"03/19/2019","amount":10,"category":[{"name":"Catarina"}]},{"month":"09/07/2018","amount":90,"category":[{"name":"Lai"},{"name":"Roxanna"},{"name":"Deshawn"}]}]}]},{"name":"Carlton","detail":[{"name":"Hortense","salary":[{"month":"10/14/2018","amount":47,"category":[{"name":"Viola"},{"name":"Gaylord"}]},{"month":"02/02/2019","amount":27,"category":[{"name":"Catrina"},{"name":"Darren"}]},{"month":"09/29/2018","amount":24,"category":[{"name":"Daria"},{"name":"Shelby"},{"name":"Jazmine"}]},{"month":"07/11/2019","amount":88,"category":[{"name":"Brenton"},{"name":"Darrel"},{"name":"Armando"}]},{"month":"04/11/2019","amount":50,"category":[{"name":"Roger"},{"name":"Jasper"},{"name":"Mildred"}]},{"month":"11/25/2018","amount":30,"category":[{"name":"Fermin"},{"name":"Conrad"}]}]},{"name":"Josue","salary":[{"month":"08/27/2018","amount":1,"category":[{"name":"Lino"},{"name":"Gordon"},{"name":"Aracelis"}]},{"month":"05/08/2019","amount":23,"category":[{"name":"Arlie"},{"name":"Lisha"}]},{"month":"04/09/2019","amount":1,"category":[{"name":"Patricia"}]},{"month":"12/29/2018","amount":46,"category":[{"name":"Alysa"},{"name":"Ellyn"},{"name":"Karin"}]},{"month":"10/10/2018","amount":54,"category":[{"name":"Joey"},{"name":"Abigail"}]},{"month":"08/22/2018","amount":86,"category":[{"name":"Micheal"},{"name":"Ardella"}]}]}]}]},{"name":"Tommie","subcategory":[{"name":"Dexter","detail":[{"name":"Rhea","salary":[{"month":"10/20/2018","amount":24,"category":[{"name":"Jacob"},{"name":"Emmanuel"},{"name":"Cristobal"}]},{"month":"02/26/2019","amount":33,"category":[{"name":"Gregory"},{"name":"Nilda"}]},{"month":"04/05/2019","amount":42,"category":[{"name":"Malika"},{"name":"Yevette"}]},{"month":"05/21/2019","amount":51,"category":[{"name":"Luis"}]},{"month":"07/16/2019","amount":89,"category":[{"name":"Laticia"},{"name":"Josef"},{"name":"Ruth"}]},{"month":"02/20/2019","amount":48,"category":[{"name":"Ruben"},{"name":"Dallas"},{"name":"Monte"}]}]},{"name":"Darrell","salary":[{"month":"12/19/2018","amount":26,"category":[{"name":"Sherly"}]},{"month":"12/25/2018","amount":27,"category":[{"name":"Joseph"}]},{"month":"10/11/2018","amount":47,"category":[{"name":"Allison"}]},{"month":"05/01/2019","amount":25,"category":[{"name":"Orlando"},{"name":"Leatrice"},{"name":"Yajaira"}]},{"month":"09/08/2018","amount":33,"category":[{"name":"Agripina"}]},{"month":"06/29/2019","amount":42,"category":[{"name":"Jerrie"},{"name":"Margrett"}]}]},{"name":"Joey","salary":[{"month":"07/07/2019","amount":44,"category":[{"name":"Janette"},{"name":"Marlin"},{"name":"Sean"}]},{"month":"02/25/2019","amount":25,"category":[{"name":"Antione"},{"name":"Jacquelyne"},{"name":"Sanford"}]},{"month":"04/18/2019","amount":67,"category":[{"name":"Alonso"},{"name":"Mickey"}]},{"month":"04/15/2019","amount":65,"category":[{"name":"Dominique"},{"name":"Vivian"}]},{"month":"09/23/2018","amount":96,"category":[{"name":"Ulysses"},{"name":"Dagmar"}]},{"month":"07/05/2019","amount":88,"category":[{"name":"Lasandra"}]}]},{"name":"Danielle","salary":[{"month":"06/04/2019","amount":33,"category":[{"name":"Kerry"},{"name":"Richie"}]},{"month":"07/18/2019","amount":53,"category":[{"name":"Matthew"}]},{"month":"03/25/2019","amount":21,"category":[{"name":"Rubie"},{"name":"Antonetta"},{"name":"Pierre"}]},{"month":"09/06/2018","amount":37,"category":[{"name":"Titus"}]},{"month":"03/19/2019","amount":58,"category":[{"name":"Lorretta"},{"name":"Shari"}]},{"month":"06/17/2019","amount":75,"category":[{"name":"Brendon"},{"name":"Gary"}]}]}]},{"name":"Arnulfo","detail":[{"name":"Lance","salary":[{"month":"09/08/2018","amount":57,"category":[{"name":"Marisela"},{"name":"Johnathon"}]},{"month":"08/24/2018","amount":23,"category":[{"name":"Geraldo"},{"name":"Luke"}]},{"month":"09/26/2018","amount":19,"category":[{"name":"Genie"},{"name":"Goldie"}]},{"month":"09/28/2018","amount":27,"category":[{"name":"Ward"},{"name":"Blake"}]},{"month":"06/09/2019","amount":66,"category":[{"name":"Juliane"},{"name":"Mitch"}]},{"month":"01/23/2019","amount":10,"category":[{"name":"Karole"},{"name":"Graham"},{"name":"Marketta"}]}]},{"name":"Kathern","salary":[{"month":"10/15/2018","amount":37,"category":[{"name":"Kirby"}]},{"month":"03/24/2019","amount":53,"category":[{"name":"Pok"},{"name":"Basil"}]},{"month":"08/22/2018","amount":81,"category":[{"name":"Ozie"},{"name":"Man"},{"name":"Tasia"}]},{"month":"02/11/2019","amount":26,"category":[{"name":"Zana"}]},{"month":"02/05/2019","amount":56,"category":[{"name":"Kera"}]},{"month":"05/04/2019","amount":82,"category":[{"name":"Marketta"},{"name":"Sheridan"},{"name":"Grant"}]}]}]}]},{"name":"Ian","subcategory":[{"name":"Neda","detail":[{"name":"Gwenda","salary":[{"month":"07/28/2019","amount":31,"category":[{"name":"Rona"},{"name":"Darrell"}]},{"month":"05/05/2019","amount":59,"category":[{"name":"Wm"}]},{"month":"10/05/2018","amount":17,"category":[{"name":"Lila"},{"name":"Richelle"}]},{"month":"11/12/2018","amount":15,"category":[{"name":"Renita"},{"name":"Vinnie"},{"name":"Mireille"}]},{"month":"11/16/2018","amount":86,"category":[{"name":"Wade"},{"name":"Zoraida"}]},{"month":"11/23/2018","amount":55,"category":[{"name":"See"}]}]},{"name":"Rupert","salary":[{"month":"10/12/2018","amount":44,"category":[{"name":"Tyree"},{"name":"Mohamed"}]},{"month":"08/11/2019","amount":85,"category":[{"name":"Issac"},{"name":"Shiloh"},{"name":"Mistie"}]},{"month":"02/13/2019","amount":100,"category":[{"name":"Florentino"},{"name":"Tracey"}]},{"month":"11/02/2018","amount":18,"category":[{"name":"Son"},{"name":"Alex"}]},{"month":"12/31/2018","amount":12,"category":[{"name":"Fredrick"},{"name":"Rossana"}]},{"month":"11/09/2018","amount":28,"category":[{"name":"Gregorio"},{"name":"Rheba"}]}]},{"name":"Jerome","salary":[{"month":"09/03/2018","amount":25,"category":[{"name":"Cuc"},{"name":"Carrol"},{"name":"Tashina"}]},{"month":"03/16/2019","amount":85,"category":[{"name":"Ivory"},{"name":"Gigi"},{"name":"Adelaida"}]},{"month":"06/07/2019","amount":97,"category":[{"name":"Mary"},{"name":"Paul"},{"name":"Janise"}]},{"month":"10/02/2018","amount":6,"category":[{"name":"Jordan"},{"name":"Christi"}]},{"month":"10/09/2018","amount":44,"category":[{"name":"Charissa"},{"name":"Demetria"},{"name":"Jeffrey"}]},{"month":"04/21/2019","amount":20,"category":[{"name":"Frances"},{"name":"Eddy"},{"name":"Kirk"}]}]},{"name":"Ruben","salary":[{"month":"12/11/2018","amount":62,"category":[{"name":"Barrie"},{"name":"Lonnie"},{"name":"Mathew"}]},{"month":"06/02/2019","amount":15,"category":[{"name":"Bobby"}]},{"month":"07/26/2019","amount":34,"category":[{"name":"Mel"},{"name":"Charlsie"}]},{"month":"05/30/2019","amount":83,"category":[{"name":"Reynaldo"},{"name":"Tona"},{"name":"Berry"}]},{"month":"11/26/2018","amount":29,"category":[{"name":"Whitney"},{"name":"Lou"},{"name":"Erich"}]},{"month":"12/13/2018","amount":14,"category":[{"name":"Mario"},{"name":"Chantelle"},{"name":"Deeann"}]}]}]},{"name":"Dong","detail":[{"name":"Danica","salary":[{"month":"08/22/2018","amount":12,"category":[{"name":"Colleen"},{"name":"Odis"}]},{"month":"02/28/2019","amount":1,"category":[{"name":"Alvaro"}]},{"month":"11/20/2018","amount":61,"category":[{"name":"Greg"}]},{"month":"01/11/2019","amount":11,"category":[{"name":"Un"},{"name":"Henry"},{"name":"Rodger"}]},{"month":"03/31/2019","amount":30,"category":[{"name":"Buster"}]},{"month":"03/02/2019","amount":55,"category":[{"name":"Digna"}]}]},{"name":"Shakia","salary":[{"month":"05/29/2019","amount":35,"category":[{"name":"Nichol"},{"name":"Shelli"},{"name":"Jutta"}]},{"month":"05/31/2019","amount":75,"category":[{"name":"Lilliam"},{"name":"Donnette"}]},{"month":"10/01/2018","amount":52,"category":[{"name":"Zane"},{"name":"Pat"},{"name":"Danny"}]},{"month":"05/18/2019","amount":48,"category":[{"name":"Wilbert"}]},{"month":"07/28/2019","amount":95,"category":[{"name":"Samuel"},{"name":"Lai"}]},{"month":"11/17/2018","amount":15,"category":[{"name":"Eugene"}]}]},{"name":"Juliane","salary":[{"month":"11/06/2018","amount":59,"category":[{"name":"Darrel"},{"name":"Lawanna"}]},{"month":"02/14/2019","amount":41,"category":[{"name":"Mikel"},{"name":"Consuelo"},{"name":"Hermine"}]},{"month":"11/11/2018","amount":20,"category":[{"name":"Johnny"},{"name":"Roberto"},{"name":"Carol"}]},{"month":"08/30/2018","amount":28,"category":[{"name":"Pablo"},{"name":"Cody"}]},{"month":"11/16/2018","amount":7,"category":[{"name":"Tomeka"},{"name":"Trevor"},{"name":"Emogene"}]},{"month":"08/05/2019","amount":16,"category":[{"name":"Andres"}]}]},{"name":"Denese","salary":[{"month":"12/12/2018","amount":16,"category":[{"name":"Vannessa"},{"name":"Regine"},{"name":"Ute"}]},{"month":"11/25/2018","amount":58,"category":[{"name":"Emmitt"},{"name":"Michal"},{"name":"Ben"}]},{"month":"04/09/2019","amount":73,"category":[{"name":"Joleen"},{"name":"Adelia"}]},{"month":"06/12/2019","amount":11,"category":[{"name":"Elana"}]},{"month":"05/13/2019","amount":12,"category":[{"name":"Lekisha"},{"name":"Lavera"},{"name":"Carl"}]},{"month":"02/01/2019","amount":68,"category":[{"name":"Clarisa"},{"name":"Mark"}]}]},{"name":"Dalia","salary":[{"month":"03/18/2019","amount":70,"category":[{"name":"Alfonzo"},{"name":"Althea"}]},{"month":"12/25/2018","amount":42,"category":[{"name":"Christian"},{"name":"Harlan"}]},{"month":"02/22/2019","amount":20,"category":[{"name":"Roderick"},{"name":"Georgetta"}]},{"month":"09/19/2018","amount":3,"category":[{"name":"Davis"}]},{"month":"06/24/2019","amount":95,"category":[{"name":"Timmy"},{"name":"Walker"}]},{"month":"12/17/2018","amount":56,"category":[{"name":"Sheri"},{"name":"Domingo"},{"name":"Shaunda"}]}]},{"name":"Valorie","salary":[{"month":"04/01/2019","amount":23,"category":[{"name":"Deeanna"}]},{"month":"03/21/2019","amount":9,"category":[{"name":"Dalton"},{"name":"Charlena"}]},{"month":"03/29/2019","amount":4,"category":[{"name":"Victoria"}]},{"month":"03/18/2019","amount":21,"category":[{"name":"Nicholas"},{"name":"Kathaleen"},{"name":"Hyo"}]},{"month":"03/02/2019","amount":20,"category":[{"name":"Glenn"},{"name":"Marcelino"},{"name":"Estella"}]},{"month":"04/21/2019","amount":41,"category":[{"name":"Carrol"}]}]},{"name":"Bruno","salary":[{"month":"01/03/2019","amount":45,"category":[{"name":"Alva"},{"name":"Keri"}]},{"month":"08/22/2018","amount":40,"category":[{"name":"Tamra"},{"name":"Junie"}]},{"month":"02/11/2019","amount":46,"category":[{"name":"Lynwood"},{"name":"Gary"},{"name":"Goldie"}]},{"month":"01/31/2019","amount":49,"category":[{"name":"Pamula"}]},{"month":"07/15/2019","amount":86,"category":[{"name":"Kayleigh"},{"name":"Chun"}]},{"month":"06/21/2019","amount":95,"category":[{"name":"Petrina"},{"name":"Arlie"},{"name":"Val"}]}]},{"name":"Garrett","salary":[{"month":"03/14/2019","amount":36,"category":[{"name":"Cristopher"},{"name":"Brunilda"}]},{"month":"01/20/2019","amount":80,"category":[{"name":"Edwardo"}]},{"month":"04/08/2019","amount":42,"category":[{"name":"Rashad"},{"name":"Abel"}]},{"month":"12/16/2018","amount":28,"category":[{"name":"Cameron"},{"name":"Cathie"}]},{"month":"09/23/2018","amount":31,"category":[{"name":"Janay"},{"name":"Maryellen"},{"name":"Mindy"}]},{"month":"09/08/2018","amount":15,"category":[{"name":"Magda"},{"name":"Lane"},{"name":"Veronika"}]}]},{"name":"Lou","salary":[{"month":"05/11/2019","amount":88,"category":[{"name":"Vonnie"},{"name":"Jamie"},{"name":"Hank"}]},{"month":"04/28/2019","amount":87,"category":[{"name":"Trey"},{"name":"Kimbery"}]},{"month":"12/28/2018","amount":16,"category":[{"name":"Tiffaney"},{"name":"Ellena"}]},{"month":"12/02/2018","amount":88,"category":[{"name":"Kathrin"},{"name":"Vincent"},{"name":"Kenny"}]},{"month":"04/03/2019","amount":83,"category":[{"name":"Fredda"},{"name":"Julius"},{"name":"Reena"}]},{"month":"09/13/2018","amount":60,"category":[{"name":"Gerry"}]}]},{"name":"Wilhelmina","salary":[{"month":"11/05/2018","amount":25,"category":[{"name":"Melva"},{"name":"Roberta"},{"name":"Ezekiel"}]},{"month":"01/24/2019","amount":61,"category":[{"name":"Claude"},{"name":"Lilli"},{"name":"Khadijah"}]},{"month":"04/13/2019","amount":28,"category":[{"name":"Johnathan"}]},{"month":"04/11/2019","amount":80,"category":[{"name":"Lamont"},{"name":"Alfredo"}]},{"month":"11/27/2018","amount":36,"category":[{"name":"Joel"}]},{"month":"08/12/2019","amount":76,"category":[{"name":"Jonathan"}]}]}]},{"name":"Adrien","detail":[{"name":"Everett","salary":[{"month":"07/19/2019","amount":85,"category":[{"name":"Alexander"},{"name":"Meri"},{"name":"Genaro"}]},{"month":"04/05/2019","amount":39,"category":[{"name":"Barry"}]},{"month":"12/15/2018","amount":51,"category":[{"name":"Zenaida"},{"name":"Hollis"}]},{"month":"11/30/2018","amount":76,"category":[{"name":"Teddy"}]},{"month":"02/16/2019","amount":15,"category":[{"name":"Vera"},{"name":"Sindy"},{"name":"Mike"}]},{"month":"10/05/2018","amount":24,"category":[{"name":"Dannie"},{"name":"Sanford"},{"name":"Hildred"}]}]},{"name":"Hilario","salary":[{"month":"04/26/2019","amount":21,"category":[{"name":"Fay"}]},{"month":"07/28/2019","amount":95,"category":[{"name":"Rasheeda"}]},{"month":"03/20/2019","amount":79,"category":[{"name":"Isidro"}]},{"month":"03/20/2019","amount":64,"category":[{"name":"Belva"}]},{"month":"10/24/2018","amount":75,"category":[{"name":"Paulina"}]},{"month":"01/29/2019","amount":68,"category":[{"name":"Jama"},{"name":"Sanford"}]}]},{"name":"Glinda","salary":[{"month":"09/13/2018","amount":70,"category":[{"name":"Lonny"}]},{"month":"01/01/2019","amount":96,"category":[{"name":"Ricardo"}]},{"month":"02/17/2019","amount":87,"category":[{"name":"Dakota"},{"name":"Yvonne"}]},{"month":"12/04/2018","amount":54,"category":[{"name":"Amee"},{"name":"Hosea"}]},{"month":"03/01/2019","amount":33,"category":[{"name":"James"}]},{"month":"06/26/2019","amount":90,"category":[{"name":"Kory"}]}]},{"name":"Sophia","salary":[{"month":"04/03/2019","amount":57,"category":[{"name":"Jordan"},{"name":"Lynne"}]},{"month":"06/21/2019","amount":3,"category":[{"name":"Stanley"}]},{"month":"09/16/2018","amount":79,"category":[{"name":"Roscoe"}]},{"month":"06/02/2019","amount":17,"category":[{"name":"Jeramy"},{"name":"Rachal"},{"name":"Freddie"}]},{"month":"05/23/2019","amount":42,"category":[{"name":"Wade"},{"name":"Ricki"}]},{"month":"10/31/2018","amount":50,"category":[{"name":"Wilford"},{"name":"Bibi"},{"name":"Hortensia"}]}]},{"name":"Jackqueline","salary":[{"month":"04/28/2019","amount":66,"category":[{"name":"Darron"},{"name":"Tamica"},{"name":"Jaunita"}]},{"month":"07/28/2019","amount":29,"category":[{"name":"Scotty"},{"name":"Francisco"}]},{"month":"08/24/2018","amount":65,"category":[{"name":"Jong"},{"name":"Gregg"}]},{"month":"12/21/2018","amount":95,"category":[{"name":"Dave"}]},{"month":"02/25/2019","amount":26,"category":[{"name":"Lynelle"},{"name":"Malik"},{"name":"Fransisca"}]},{"month":"05/03/2019","amount":84,"category":[{"name":"Kina"},{"name":"Carmelina"}]}]},{"name":"Melba","salary":[{"month":"10/16/2018","amount":87,"category":[{"name":"Maren"}]},{"month":"11/28/2018","amount":73,"category":[{"name":"Matthew"}]},{"month":"02/12/2019","amount":14,"category":[{"name":"Hans"},{"name":"Beckie"}]},{"month":"09/10/2018","amount":25,"category":[{"name":"Sherita"},{"name":"Francis"},{"name":"Dennis"}]},{"month":"05/19/2019","amount":3,"category":[{"name":"Dora"},{"name":"Donya"},{"name":"Jack"}]},{"month":"07/08/2019","amount":8,"category":[{"name":"Carlo"},{"name":"Mirtha"},{"name":"Daren"}]}]}]}]},{"name":"Kathlyn","subcategory":[{"name":"Alexis","detail":[{"name":"Jamaal","salary":[{"month":"11/02/2018","amount":7,"category":[{"name":"Homer"}]},{"month":"12/12/2018","amount":27,"category":[{"name":"Karlene"},{"name":"Charis"},{"name":"Howard"}]},{"month":"08/07/2019","amount":84,"category":[{"name":"Jordan"},{"name":"Catarina"},{"name":"Corey"}]},{"month":"05/26/2019","amount":51,"category":[{"name":"Bryon"}]},{"month":"12/21/2018","amount":78,"category":[{"name":"Dick"},{"name":"Benny"}]},{"month":"08/15/2019","amount":63,"category":[{"name":"Carson"},{"name":"Daron"}]}]},{"name":"Melvina","salary":[{"month":"06/16/2019","amount":73,"category":[{"name":"Theola"}]},{"month":"03/11/2019","amount":99,"category":[{"name":"Carroll"}]},{"month":"04/22/2019","amount":57,"category":[{"name":"Jayson"},{"name":"Brain"}]},{"month":"12/23/2018","amount":31,"category":[{"name":"Hank"},{"name":"Lindsey"}]},{"month":"02/07/2019","amount":75,"category":[{"name":"Johnathon"},{"name":"Ruben"}]},{"month":"10/29/2018","amount":37,"category":[{"name":"Barrett"},{"name":"Nathaniel"},{"name":"Teodoro"}]}]}]},{"name":"Torri","detail":[{"name":"Sid","salary":[{"month":"01/02/2019","amount":31,"category":[{"name":"Pasquale"},{"name":"Corine"}]},{"month":"03/11/2019","amount":31,"category":[{"name":"Wendell"},{"name":"Lynna"},{"name":"Anderson"}]},{"month":"04/24/2019","amount":3,"category":[{"name":"Jesse"},{"name":"Sergio"},{"name":"Leopoldo"}]},{"month":"06/09/2019","amount":54,"category":[{"name":"Gabriel"},{"name":"Chase"},{"name":"Minerva"}]},{"month":"09/07/2018","amount":73,"category":[{"name":"Sonia"},{"name":"Major"}]},{"month":"10/07/2018","amount":67,"category":[{"name":"Christene"},{"name":"Eliseo"},{"name":"Dustin"}]}]},{"name":"Georgeann","salary":[{"month":"10/27/2018","amount":96,"category":[{"name":"Henry"},{"name":"Geoffrey"}]},{"month":"03/03/2019","amount":51,"category":[{"name":"Victorina"},{"name":"Esperanza"}]},{"month":"04/05/2019","amount":52,"category":[{"name":"Marguerita"},{"name":"Foster"}]},{"month":"05/03/2019","amount":2,"category":[{"name":"Darron"}]},{"month":"12/22/2018","amount":39,"category":[{"name":"Yolande"}]},{"month":"09/30/2018","amount":50,"category":[{"name":"Hazel"}]}]},{"name":"Domingo","salary":[{"month":"12/14/2018","amount":43,"category":[{"name":"Dorian"}]},{"month":"09/12/2018","amount":42,"category":[{"name":"Logan"}]},{"month":"08/09/2019","amount":40,"category":[{"name":"Ellie"},{"name":"Nicky"}]},{"month":"11/30/2018","amount":33,"category":[{"name":"Stefanie"},{"name":"Danna"},{"name":"Quinn"}]},{"month":"10/30/2018","amount":59,"category":[{"name":"Gustavo"},{"name":"Kaye"},{"name":"Tish"}]},{"month":"04/01/2019","amount":83,"category":[{"name":"Damien"}]}]},{"name":"Rosita","salary":[{"month":"01/09/2019","amount":64,"category":[{"name":"Talisha"}]},{"month":"11/19/2018","amount":92,"category":[{"name":"Celestine"},{"name":"Leena"},{"name":"Jolynn"}]},{"month":"05/21/2019","amount":38,"category":[{"name":"Kristopher"},{"name":"Adam"},{"name":"Pamela"}]},{"month":"09/03/2018","amount":55,"category":[{"name":"Florinda"}]},{"month":"05/10/2019","amount":49,"category":[{"name":"Cleo"},{"name":"Cleveland"}]},{"month":"09/14/2018","amount":22,"category":[{"name":"Eusebio"},{"name":"Terrilyn"}]}]},{"name":"Damian","salary":[{"month":"04/25/2019","amount":68,"category":[{"name":"Rich"}]},{"month":"12/02/2018","amount":61,"category":[{"name":"Marlon"},{"name":"Amos"},{"name":"Milan"}]},{"month":"02/22/2019","amount":8,"category":[{"name":"Ingeborg"}]},{"month":"12/31/2018","amount":80,"category":[{"name":"Edward"}]},{"month":"05/17/2019","amount":93,"category":[{"name":"Bunny"},{"name":"Sharri"},{"name":"Ara"}]},{"month":"07/17/2019","amount":5,"category":[{"name":"Emmanuel"},{"name":"Bo"},{"name":"Blaine"}]}]},{"name":"Karima","salary":[{"month":"05/23/2019","amount":4,"category":[{"name":"Meagan"}]},{"month":"05/10/2019","amount":14,"category":[{"name":"Garrett"},{"name":"Shavon"}]},{"month":"07/21/2019","amount":51,"category":[{"name":"Robby"}]},{"month":"12/30/2018","amount":78,"category":[{"name":"Elmer"}]},{"month":"08/30/2018","amount":52,"category":[{"name":"Keith"},{"name":"Ernie"},{"name":"Shelton"}]},{"month":"07/13/2019","amount":34,"category":[{"name":"Pablo"}]}]}]},{"name":"Elena","detail":[{"name":"Wm","salary":[{"month":"12/06/2018","amount":29,"category":[{"name":"Tad"}]},{"month":"05/14/2019","amount":39,"category":[{"name":"Walker"},{"name":"Ian"},{"name":"Cedrick"}]},{"month":"12/06/2018","amount":36,"category":[{"name":"Bernetta"}]},{"month":"02/16/2019","amount":19,"category":[{"name":"Charlie"},{"name":"Carla"},{"name":"Cecil"}]},{"month":"11/09/2018","amount":34,"category":[{"name":"Windy"},{"name":"Tad"},{"name":"Manual"}]},{"month":"11/21/2018","amount":64,"category":[{"name":"Katheryn"}]}]},{"name":"Herb","salary":[{"month":"09/24/2018","amount":42,"category":[{"name":"Ezekiel"}]},{"month":"07/02/2019","amount":95,"category":[{"name":"Shara"}]},{"month":"10/23/2018","amount":93,"category":[{"name":"Romeo"},{"name":"Violette"},{"name":"Stan"}]},{"month":"04/08/2019","amount":41,"category":[{"name":"Ira"},{"name":"Florentino"},{"name":"Gwyneth"}]},{"month":"10/31/2018","amount":45,"category":[{"name":"Nathaniel"},{"name":"Esmeralda"},{"name":"Ignacio"}]},{"month":"04/05/2019","amount":54,"category":[{"name":"Tanisha"}]}]}]}]}]}]
+[{
+  "employer": [
+    {
+      "name": "Jonah",
+      "subcategory": [
+        {
+          "name": "Madie",
+          "detail": [
+            {
+              "name": "Demetrius",
+              "salary": [
+                {
+                  "month": "08/20/2019",
+                  "amount": 46,
+                  "category": [
+                    {
+                      "name": "Jason"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/18/2019",
+                  "amount": 61,
+                  "category": [
+                    {
+                      "name": "Catina"
+                    },
+                    {
+                      "name": "Ira"
+                    },
+                    {
+                      "name": "Alfonzo"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/31/2019",
+                  "amount": 12,
+                  "category": [
+                    {
+                      "name": "Curt"
+                    },
+                    {
+                      "name": "Gaylord"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/08/2019",
+                  "amount": 70,
+                  "category": [
+                    {
+                      "name": "Walter"
+                    },
+                    {
+                      "name": "Agustin"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/24/2018",
+                  "amount": 61,
+                  "category": [
+                    {
+                      "name": "Henry"
+                    },
+                    {
+                      "name": "Giovanni"
+                    },
+                    {
+                      "name": "Adriane"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/17/2019",
+                  "amount": 66,
+                  "category": [
+                    {
+                      "name": "Harold"
+                    },
+                    {
+                      "name": "Felton"
+                    },
+                    {
+                      "name": "Kieth"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lezlie",
+              "salary": [
+                {
+                  "month": "03/20/2019",
+                  "amount": 66,
+                  "category": [
+                    {
+                      "name": "Earle"
+                    },
+                    {
+                      "name": "Christopher"
+                    },
+                    {
+                      "name": "Casandra"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/11/2019",
+                  "amount": 16,
+                  "category": [
+                    {
+                      "name": "Louise"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/29/2019",
+                  "amount": 89,
+                  "category": [
+                    {
+                      "name": "Malka"
+                    },
+                    {
+                      "name": "Barabara"
+                    },
+                    {
+                      "name": "Merle"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/21/2019",
+                  "amount": 9,
+                  "category": [
+                    {
+                      "name": "Andres"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/07/2019",
+                  "amount": 21,
+                  "category": [
+                    {
+                      "name": "Richard"
+                    },
+                    {
+                      "name": "Floyd"
+                    },
+                    {
+                      "name": "Antonio"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/17/2019",
+                  "amount": 66,
+                  "category": [
+                    {
+                      "name": "Wilfred"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jose",
+              "salary": [
+                {
+                  "month": "04/20/2019",
+                  "amount": 43,
+                  "category": [
+                    {
+                      "name": "Tyrell"
+                    },
+                    {
+                      "name": "Ardell"
+                    },
+                    {
+                      "name": "Connie"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/09/2019",
+                  "amount": 53,
+                  "category": [
+                    {
+                      "name": "Zoe"
+                    },
+                    {
+                      "name": "Timmy"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/05/2018",
+                  "amount": 52,
+                  "category": [
+                    {
+                      "name": "Ellan"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/05/2018",
+                  "amount": 13,
+                  "category": [
+                    {
+                      "name": "Jose"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/08/2019",
+                  "amount": 38,
+                  "category": [
+                    {
+                      "name": "Terry"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/05/2019",
+                  "amount": 39,
+                  "category": [
+                    {
+                      "name": "Palmer"
+                    },
+                    {
+                      "name": "Giovanna"
+                    },
+                    {
+                      "name": "Neoma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Quintin",
+              "salary": [
+                {
+                  "month": "10/08/2018",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Jack"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/24/2018",
+                  "amount": 15,
+                  "category": [
+                    {
+                      "name": "Crystle"
+                    },
+                    {
+                      "name": "Milford"
+                    },
+                    {
+                      "name": "Lauren"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/15/2019",
+                  "amount": 6,
+                  "category": [
+                    {
+                      "name": "Mason"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/10/2019",
+                  "amount": 100,
+                  "category": [
+                    {
+                      "name": "Lane"
+                    },
+                    {
+                      "name": "Saul"
+                    },
+                    {
+                      "name": "Ricky"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/04/2019",
+                  "amount": 5,
+                  "category": [
+                    {
+                      "name": "Emely"
+                    },
+                    {
+                      "name": "Casey"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/06/2019",
+                  "amount": 60,
+                  "category": [
+                    {
+                      "name": "Gregory"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Curt",
+              "salary": [
+                {
+                  "month": "01/16/2019",
+                  "amount": 95,
+                  "category": [
+                    {
+                      "name": "Junior"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/14/2018",
+                  "amount": 13,
+                  "category": [
+                    {
+                      "name": "Leo"
+                    },
+                    {
+                      "name": "Harland"
+                    },
+                    {
+                      "name": "Dwayne"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/22/2018",
+                  "amount": 27,
+                  "category": [
+                    {
+                      "name": "Rodney"
+                    },
+                    {
+                      "name": "Sal"
+                    },
+                    {
+                      "name": "Marlon"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/24/2019",
+                  "amount": 95,
+                  "category": [
+                    {
+                      "name": "Stacy"
+                    },
+                    {
+                      "name": "Maira"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/17/2019",
+                  "amount": 74,
+                  "category": [
+                    {
+                      "name": "Misti"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/23/2019",
+                  "amount": 66,
+                  "category": [
+                    {
+                      "name": "Tashina"
+                    },
+                    {
+                      "name": "Bari"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Stuart",
+              "salary": [
+                {
+                  "month": "02/23/2019",
+                  "amount": 34,
+                  "category": [
+                    {
+                      "name": "Debbie"
+                    },
+                    {
+                      "name": "Jonas"
+                    },
+                    {
+                      "name": "Kallie"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/19/2018",
+                  "amount": 13,
+                  "category": [
+                    {
+                      "name": "Leandro"
+                    },
+                    {
+                      "name": "Jerold"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/13/2019",
+                  "amount": 54,
+                  "category": [
+                    {
+                      "name": "Tommy"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/03/2018",
+                  "amount": 37,
+                  "category": [
+                    {
+                      "name": "Zachery"
+                    },
+                    {
+                      "name": "Beatriz"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/27/2018",
+                  "amount": 1,
+                  "category": [
+                    {
+                      "name": "Julio"
+                    },
+                    {
+                      "name": "Mickie"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/18/2019",
+                  "amount": 49,
+                  "category": [
+                    {
+                      "name": "Devin"
+                    },
+                    {
+                      "name": "Nancie"
+                    },
+                    {
+                      "name": "Andrea"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Stuart",
+              "salary": [
+                {
+                  "month": "10/05/2018",
+                  "amount": 27,
+                  "category": [
+                    {
+                      "name": "Guillermo"
+                    },
+                    {
+                      "name": "Jessie"
+                    },
+                    {
+                      "name": "Maisie"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/15/2019",
+                  "amount": 42,
+                  "category": [
+                    {
+                      "name": "Emanuel"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/02/2019",
+                  "amount": 55,
+                  "category": [
+                    {
+                      "name": "Margareta"
+                    },
+                    {
+                      "name": "Zachariah"
+                    },
+                    {
+                      "name": "Curtis"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/29/2018",
+                  "amount": 78,
+                  "category": [
+                    {
+                      "name": "Fernando"
+                    },
+                    {
+                      "name": "Michale"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/27/2019",
+                  "amount": 49,
+                  "category": [
+                    {
+                      "name": "Wilburn"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/06/2019",
+                  "amount": 46,
+                  "category": [
+                    {
+                      "name": "Carlo"
+                    },
+                    {
+                      "name": "Renetta"
+                    },
+                    {
+                      "name": "Loreen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Freida",
+              "salary": [
+                {
+                  "month": "11/23/2018",
+                  "amount": 56,
+                  "category": [
+                    {
+                      "name": "Tyrone"
+                    },
+                    {
+                      "name": "Gilberto"
+                    },
+                    {
+                      "name": "Noel"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/04/2019",
+                  "amount": 16,
+                  "category": [
+                    {
+                      "name": "Euna"
+                    },
+                    {
+                      "name": "Rashad"
+                    },
+                    {
+                      "name": "Erich"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/04/2018",
+                  "amount": 78,
+                  "category": [
+                    {
+                      "name": "Wes"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/02/2018",
+                  "amount": 71,
+                  "category": [
+                    {
+                      "name": "Pauletta"
+                    },
+                    {
+                      "name": "Merlene"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/16/2019",
+                  "amount": 39,
+                  "category": [
+                    {
+                      "name": "Ricardo"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/03/2019",
+                  "amount": 85,
+                  "category": [
+                    {
+                      "name": "Callie"
+                    },
+                    {
+                      "name": "Josh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Glenn",
+          "detail": [
+            {
+              "name": "Anibal",
+              "salary": [
+                {
+                  "month": "02/18/2019",
+                  "amount": 39,
+                  "category": [
+                    {
+                      "name": "Rolanda"
+                    },
+                    {
+                      "name": "Myron"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/20/2019",
+                  "amount": 52,
+                  "category": [
+                    {
+                      "name": "Solomon"
+                    },
+                    {
+                      "name": "Judi"
+                    },
+                    {
+                      "name": "Malisa"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/01/2018",
+                  "amount": 84,
+                  "category": [
+                    {
+                      "name": "Vince"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/25/2019",
+                  "amount": 38,
+                  "category": [
+                    {
+                      "name": "Luz"
+                    },
+                    {
+                      "name": "Florene"
+                    },
+                    {
+                      "name": "Percy"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/09/2019",
+                  "amount": 23,
+                  "category": [
+                    {
+                      "name": "Walton"
+                    },
+                    {
+                      "name": "Bryant"
+                    },
+                    {
+                      "name": "Amado"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/15/2019",
+                  "amount": 34,
+                  "category": [
+                    {
+                      "name": "Lorelei"
+                    },
+                    {
+                      "name": "Marnie"
+                    },
+                    {
+                      "name": "Sharika"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Serena",
+              "salary": [
+                {
+                  "month": "06/12/2019",
+                  "amount": 51,
+                  "category": [
+                    {
+                      "name": "Tammara"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/09/2019",
+                  "amount": 70,
+                  "category": [
+                    {
+                      "name": "Trudi"
+                    },
+                    {
+                      "name": "Ethel"
+                    },
+                    {
+                      "name": "Efrain"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/28/2019",
+                  "amount": 55,
+                  "category": [
+                    {
+                      "name": "Nathan"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/02/2018",
+                  "amount": 81,
+                  "category": [
+                    {
+                      "name": "Zack"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/15/2019",
+                  "amount": 44,
+                  "category": [
+                    {
+                      "name": "Marvel"
+                    },
+                    {
+                      "name": "Eric"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/28/2018",
+                  "amount": 100,
+                  "category": [
+                    {
+                      "name": "Garrett"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sung",
+          "detail": [
+            {
+              "name": "Alphonso",
+              "salary": [
+                {
+                  "month": "06/01/2019",
+                  "amount": 76,
+                  "category": [
+                    {
+                      "name": "Sue"
+                    },
+                    {
+                      "name": "Dewitt"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/06/2019",
+                  "amount": 5,
+                  "category": [
+                    {
+                      "name": "Kimi"
+                    },
+                    {
+                      "name": "Vernie"
+                    },
+                    {
+                      "name": "Kacey"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/24/2019",
+                  "amount": 82,
+                  "category": [
+                    {
+                      "name": "Ronnie"
+                    },
+                    {
+                      "name": "Margy"
+                    },
+                    {
+                      "name": "Madison"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/17/2019",
+                  "amount": 24,
+                  "category": [
+                    {
+                      "name": "Ivory"
+                    },
+                    {
+                      "name": "Willard"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/17/2019",
+                  "amount": 58,
+                  "category": [
+                    {
+                      "name": "Carroll"
+                    },
+                    {
+                      "name": "Edmond"
+                    },
+                    {
+                      "name": "Ouida"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/03/2019",
+                  "amount": 5,
+                  "category": [
+                    {
+                      "name": "Travis"
+                    },
+                    {
+                      "name": "Verlie"
+                    },
+                    {
+                      "name": "Oralee"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Garth",
+              "salary": [
+                {
+                  "month": "10/28/2018",
+                  "amount": 32,
+                  "category": [
+                    {
+                      "name": "Ty"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/03/2019",
+                  "amount": 87,
+                  "category": [
+                    {
+                      "name": "Barbra"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/01/2018",
+                  "amount": 64,
+                  "category": [
+                    {
+                      "name": "Zachary"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/09/2019",
+                  "amount": 100,
+                  "category": [
+                    {
+                      "name": "Deeann"
+                    },
+                    {
+                      "name": "Lester"
+                    },
+                    {
+                      "name": "Jeffery"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/27/2018",
+                  "amount": 2,
+                  "category": [
+                    {
+                      "name": "Lisa"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/02/2018",
+                  "amount": 81,
+                  "category": [
+                    {
+                      "name": "Christen"
+                    },
+                    {
+                      "name": "Vernice"
+                    },
+                    {
+                      "name": "Rudolph"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Yee",
+              "salary": [
+                {
+                  "month": "05/23/2019",
+                  "amount": 46,
+                  "category": [
+                    {
+                      "name": "Pedro"
+                    },
+                    {
+                      "name": "Roselyn"
+                    },
+                    {
+                      "name": "Gerardo"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/15/2019",
+                  "amount": 66,
+                  "category": [
+                    {
+                      "name": "Irena"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/24/2018",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Jordan"
+                    },
+                    {
+                      "name": "Isaias"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/23/2019",
+                  "amount": 37,
+                  "category": [
+                    {
+                      "name": "Shaun"
+                    },
+                    {
+                      "name": "Morgan"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/15/2019",
+                  "amount": 89,
+                  "category": [
+                    {
+                      "name": "Dori"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/23/2018",
+                  "amount": 29,
+                  "category": [
+                    {
+                      "name": "Rory"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Marianela",
+              "salary": [
+                {
+                  "month": "07/12/2019",
+                  "amount": 76,
+                  "category": [
+                    {
+                      "name": "Priscilla"
+                    },
+                    {
+                      "name": "Phillip"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/28/2019",
+                  "amount": 6,
+                  "category": [
+                    {
+                      "name": "Thomasena"
+                    },
+                    {
+                      "name": "Lilliam"
+                    },
+                    {
+                      "name": "Clement"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/16/2019",
+                  "amount": 95,
+                  "category": [
+                    {
+                      "name": "Juli"
+                    },
+                    {
+                      "name": "Holley"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/02/2019",
+                  "amount": 93,
+                  "category": [
+                    {
+                      "name": "Clara"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/21/2019",
+                  "amount": 56,
+                  "category": [
+                    {
+                      "name": "Sydney"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/06/2019",
+                  "amount": 89,
+                  "category": [
+                    {
+                      "name": "Ludivina"
+                    },
+                    {
+                      "name": "Laurinda"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stacie",
+      "subcategory": [
+        {
+          "name": "Cody",
+          "detail": [
+            {
+              "name": "Moira",
+              "salary": [
+                {
+                  "month": "12/06/2018",
+                  "amount": 12,
+                  "category": [
+                    {
+                      "name": "Woodrow"
+                    },
+                    {
+                      "name": "Nigel"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/08/2018",
+                  "amount": 17,
+                  "category": [
+                    {
+                      "name": "Augustus"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/16/2019",
+                  "amount": 7,
+                  "category": [
+                    {
+                      "name": "Thea"
+                    },
+                    {
+                      "name": "Yolanda"
+                    },
+                    {
+                      "name": "Arthur"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/25/2019",
+                  "amount": 38,
+                  "category": [
+                    {
+                      "name": "Roger"
+                    },
+                    {
+                      "name": "Dannie"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/06/2019",
+                  "amount": 83,
+                  "category": [
+                    {
+                      "name": "Micah"
+                    },
+                    {
+                      "name": "Ed"
+                    },
+                    {
+                      "name": "Donnetta"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/04/2018",
+                  "amount": 72,
+                  "category": [
+                    {
+                      "name": "Marceline"
+                    },
+                    {
+                      "name": "Rocky"
+                    },
+                    {
+                      "name": "Li"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "David",
+              "salary": [
+                {
+                  "month": "05/05/2019",
+                  "amount": 11,
+                  "category": [
+                    {
+                      "name": "Antonio"
+                    },
+                    {
+                      "name": "Dante"
+                    },
+                    {
+                      "name": "Terrance"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/18/2019",
+                  "amount": 32,
+                  "category": [
+                    {
+                      "name": "Rene"
+                    },
+                    {
+                      "name": "Flavia"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/07/2019",
+                  "amount": 39,
+                  "category": [
+                    {
+                      "name": "Malena"
+                    },
+                    {
+                      "name": "Donny"
+                    },
+                    {
+                      "name": "Cammie"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/14/2018",
+                  "amount": 60,
+                  "category": [
+                    {
+                      "name": "Debrah"
+                    },
+                    {
+                      "name": "Carroll"
+                    },
+                    {
+                      "name": "Reyes"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/10/2018",
+                  "amount": 27,
+                  "category": [
+                    {
+                      "name": "Carson"
+                    },
+                    {
+                      "name": "Eldridge"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/11/2019",
+                  "amount": 97,
+                  "category": [
+                    {
+                      "name": "Love"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bulah",
+              "salary": [
+                {
+                  "month": "02/28/2019",
+                  "amount": 73,
+                  "category": [
+                    {
+                      "name": "Kendall"
+                    },
+                    {
+                      "name": "Roberto"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/03/2019",
+                  "amount": 6,
+                  "category": [
+                    {
+                      "name": "Vella"
+                    },
+                    {
+                      "name": "Eddie"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/28/2019",
+                  "amount": 11,
+                  "category": [
+                    {
+                      "name": "Laurie"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/01/2019",
+                  "amount": 18,
+                  "category": [
+                    {
+                      "name": "Nikki"
+                    },
+                    {
+                      "name": "Reyes"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/25/2019",
+                  "amount": 27,
+                  "category": [
+                    {
+                      "name": "Merlin"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/16/2019",
+                  "amount": 7,
+                  "category": [
+                    {
+                      "name": "Barbie"
+                    },
+                    {
+                      "name": "Gene"
+                    },
+                    {
+                      "name": "Cruz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Alease",
+              "salary": [
+                {
+                  "month": "04/19/2019",
+                  "amount": 77,
+                  "category": [
+                    {
+                      "name": "William"
+                    },
+                    {
+                      "name": "Tristan"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/30/2019",
+                  "amount": 17,
+                  "category": [
+                    {
+                      "name": "Edgardo"
+                    },
+                    {
+                      "name": "Valrie"
+                    },
+                    {
+                      "name": "Eldon"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/11/2019",
+                  "amount": 65,
+                  "category": [
+                    {
+                      "name": "Johnathon"
+                    },
+                    {
+                      "name": "Demetrius"
+                    },
+                    {
+                      "name": "Camila"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/26/2018",
+                  "amount": 37,
+                  "category": [
+                    {
+                      "name": "Gustavo"
+                    },
+                    {
+                      "name": "Tommie"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/13/2018",
+                  "amount": 34,
+                  "category": [
+                    {
+                      "name": "Hong"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/11/2019",
+                  "amount": 76,
+                  "category": [
+                    {
+                      "name": "Yuki"
+                    },
+                    {
+                      "name": "Javier"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ned",
+              "salary": [
+                {
+                  "month": "09/10/2018",
+                  "amount": 94,
+                  "category": [
+                    {
+                      "name": "Vernita"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/17/2019",
+                  "amount": 6,
+                  "category": [
+                    {
+                      "name": "Lucius"
+                    },
+                    {
+                      "name": "Hal"
+                    },
+                    {
+                      "name": "Miki"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/30/2019",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Joline"
+                    },
+                    {
+                      "name": "Damian"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/20/2018",
+                  "amount": 30,
+                  "category": [
+                    {
+                      "name": "Nolan"
+                    },
+                    {
+                      "name": "Joel"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/23/2019",
+                  "amount": 62,
+                  "category": [
+                    {
+                      "name": "Vance"
+                    },
+                    {
+                      "name": "Numbers"
+                    },
+                    {
+                      "name": "Lincoln"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/15/2019",
+                  "amount": 67,
+                  "category": [
+                    {
+                      "name": "Frances"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Moises",
+              "salary": [
+                {
+                  "month": "10/31/2018",
+                  "amount": 73,
+                  "category": [
+                    {
+                      "name": "Larue"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/19/2018",
+                  "amount": 100,
+                  "category": [
+                    {
+                      "name": "Summer"
+                    },
+                    {
+                      "name": "Nicky"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/15/2019",
+                  "amount": 27,
+                  "category": [
+                    {
+                      "name": "Jessie"
+                    },
+                    {
+                      "name": "Gertude"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/14/2018",
+                  "amount": 23,
+                  "category": [
+                    {
+                      "name": "Gaston"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/11/2019",
+                  "amount": 11,
+                  "category": [
+                    {
+                      "name": "Mario"
+                    },
+                    {
+                      "name": "Brenda"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/05/2019",
+                  "amount": 7,
+                  "category": [
+                    {
+                      "name": "Hoyt"
+                    },
+                    {
+                      "name": "Norman"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Candie",
+              "salary": [
+                {
+                  "month": "04/15/2019",
+                  "amount": 97,
+                  "category": [
+                    {
+                      "name": "Leroy"
+                    },
+                    {
+                      "name": "Morton"
+                    },
+                    {
+                      "name": "Seymour"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/27/2018",
+                  "amount": 9,
+                  "category": [
+                    {
+                      "name": "Herbert"
+                    },
+                    {
+                      "name": "Bertie"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/31/2018",
+                  "amount": 49,
+                  "category": [
+                    {
+                      "name": "Jettie"
+                    },
+                    {
+                      "name": "Mohammed"
+                    },
+                    {
+                      "name": "Quyen"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/24/2019",
+                  "amount": 67,
+                  "category": [
+                    {
+                      "name": "Eda"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/28/2018",
+                  "amount": 97,
+                  "category": [
+                    {
+                      "name": "Jaclyn"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/19/2018",
+                  "amount": 73,
+                  "category": [
+                    {
+                      "name": "Ariel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sanford",
+              "salary": [
+                {
+                  "month": "07/11/2019",
+                  "amount": 70,
+                  "category": [
+                    {
+                      "name": "Otto"
+                    },
+                    {
+                      "name": "Latisha"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/09/2019",
+                  "amount": 50,
+                  "category": [
+                    {
+                      "name": "Alexandria"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/06/2019",
+                  "amount": 85,
+                  "category": [
+                    {
+                      "name": "Andrew"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/05/2018",
+                  "amount": 93,
+                  "category": [
+                    {
+                      "name": "Kurt"
+                    },
+                    {
+                      "name": "Lilian"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/25/2019",
+                  "amount": 79,
+                  "category": [
+                    {
+                      "name": "Jan"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/09/2019",
+                  "amount": 20,
+                  "category": [
+                    {
+                      "name": "Val"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ty",
+          "detail": [
+            {
+              "name": "Deeanna",
+              "salary": [
+                {
+                  "month": "02/15/2019",
+                  "amount": 55,
+                  "category": [
+                    {
+                      "name": "Ethyl"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/30/2019",
+                  "amount": 89,
+                  "category": [
+                    {
+                      "name": "Sean"
+                    },
+                    {
+                      "name": "Floria"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/12/2019",
+                  "amount": 4,
+                  "category": [
+                    {
+                      "name": "Young"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/07/2019",
+                  "amount": 42,
+                  "category": [
+                    {
+                      "name": "Karly"
+                    },
+                    {
+                      "name": "Cornelius"
+                    },
+                    {
+                      "name": "Otelia"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/03/2019",
+                  "amount": 57,
+                  "category": [
+                    {
+                      "name": "Ivan"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/11/2018",
+                  "amount": 38,
+                  "category": [
+                    {
+                      "name": "Tressie"
+                    },
+                    {
+                      "name": "Brook"
+                    },
+                    {
+                      "name": "Adan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rosanne",
+              "salary": [
+                {
+                  "month": "02/17/2019",
+                  "amount": 9,
+                  "category": [
+                    {
+                      "name": "Roman"
+                    },
+                    {
+                      "name": "Darby"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/26/2019",
+                  "amount": 3,
+                  "category": [
+                    {
+                      "name": "Ilona"
+                    },
+                    {
+                      "name": "Majorie"
+                    },
+                    {
+                      "name": "Margot"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/27/2018",
+                  "amount": 24,
+                  "category": [
+                    {
+                      "name": "Stephan"
+                    },
+                    {
+                      "name": "Yang"
+                    },
+                    {
+                      "name": "Blake"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/19/2019",
+                  "amount": 53,
+                  "category": [
+                    {
+                      "name": "Lesley"
+                    },
+                    {
+                      "name": "Emiko"
+                    },
+                    {
+                      "name": "Jesus"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/27/2018",
+                  "amount": 82,
+                  "category": [
+                    {
+                      "name": "Willena"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/28/2019",
+                  "amount": 78,
+                  "category": [
+                    {
+                      "name": "Sherilyn"
+                    },
+                    {
+                      "name": "Keeley"
+                    },
+                    {
+                      "name": "Willian"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ivette",
+      "subcategory": [
+        {
+          "name": "Garry",
+          "detail": [
+            {
+              "name": "Kristofer",
+              "salary": [
+                {
+                  "month": "09/02/2018",
+                  "amount": 95,
+                  "category": [
+                    {
+                      "name": "Maxwell"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/07/2018",
+                  "amount": 81,
+                  "category": [
+                    {
+                      "name": "Alvin"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/01/2019",
+                  "amount": 8,
+                  "category": [
+                    {
+                      "name": "Fritz"
+                    },
+                    {
+                      "name": "Star"
+                    },
+                    {
+                      "name": "Shenna"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/14/2019",
+                  "amount": 74,
+                  "category": [
+                    {
+                      "name": "Elsy"
+                    },
+                    {
+                      "name": "Quintin"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/30/2018",
+                  "amount": 13,
+                  "category": [
+                    {
+                      "name": "Carroll"
+                    },
+                    {
+                      "name": "Carson"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/24/2018",
+                  "amount": 28,
+                  "category": [
+                    {
+                      "name": "Doloris"
+                    },
+                    {
+                      "name": "Dean"
+                    },
+                    {
+                      "name": "Thu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lizeth",
+              "salary": [
+                {
+                  "month": "04/28/2019",
+                  "amount": 61,
+                  "category": [
+                    {
+                      "name": "Kyung"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/27/2018",
+                  "amount": 100,
+                  "category": [
+                    {
+                      "name": "Darcel"
+                    },
+                    {
+                      "name": "Cleveland"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/12/2018",
+                  "amount": 80,
+                  "category": [
+                    {
+                      "name": "Margarito"
+                    },
+                    {
+                      "name": "Cole"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/19/2019",
+                  "amount": 64,
+                  "category": [
+                    {
+                      "name": "Tereasa"
+                    },
+                    {
+                      "name": "Shawnda"
+                    },
+                    {
+                      "name": "Tyrell"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/09/2018",
+                  "amount": 70,
+                  "category": [
+                    {
+                      "name": "Amira"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/08/2018",
+                  "amount": 82,
+                  "category": [
+                    {
+                      "name": "Delma"
+                    },
+                    {
+                      "name": "Emory"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Erasmo",
+          "detail": [
+            {
+              "name": "Brian",
+              "salary": [
+                {
+                  "month": "05/11/2019",
+                  "amount": 81,
+                  "category": [
+                    {
+                      "name": "Susanna"
+                    },
+                    {
+                      "name": "Lina"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/06/2019",
+                  "amount": 51,
+                  "category": [
+                    {
+                      "name": "Peg"
+                    },
+                    {
+                      "name": "Verlie"
+                    },
+                    {
+                      "name": "Leonora"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/04/2019",
+                  "amount": 20,
+                  "category": [
+                    {
+                      "name": "Angelyn"
+                    },
+                    {
+                      "name": "Elmer"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/12/2019",
+                  "amount": 40,
+                  "category": [
+                    {
+                      "name": "Connie"
+                    },
+                    {
+                      "name": "Kristy"
+                    },
+                    {
+                      "name": "Allan"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/17/2019",
+                  "amount": 45,
+                  "category": [
+                    {
+                      "name": "Scotty"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/17/2019",
+                  "amount": 95,
+                  "category": [
+                    {
+                      "name": "Loren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Maile",
+              "salary": [
+                {
+                  "month": "08/03/2019",
+                  "amount": 58,
+                  "category": [
+                    {
+                      "name": "Janetta"
+                    },
+                    {
+                      "name": "Lamont"
+                    },
+                    {
+                      "name": "Angelique"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/12/2018",
+                  "amount": 59,
+                  "category": [
+                    {
+                      "name": "Korey"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/04/2019",
+                  "amount": 21,
+                  "category": [
+                    {
+                      "name": "Iesha"
+                    },
+                    {
+                      "name": "Kyle"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/06/2018",
+                  "amount": 92,
+                  "category": [
+                    {
+                      "name": "Ahmed"
+                    },
+                    {
+                      "name": "Kymberly"
+                    },
+                    {
+                      "name": "Christel"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/15/2018",
+                  "amount": 34,
+                  "category": [
+                    {
+                      "name": "Stacie"
+                    },
+                    {
+                      "name": "Marilyn"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/11/2019",
+                  "amount": 4,
+                  "category": [
+                    {
+                      "name": "Frederic"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Delmar",
+              "salary": [
+                {
+                  "month": "08/08/2019",
+                  "amount": 80,
+                  "category": [
+                    {
+                      "name": "Evangeline"
+                    },
+                    {
+                      "name": "Sally"
+                    },
+                    {
+                      "name": "Wes"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/29/2018",
+                  "amount": 7,
+                  "category": [
+                    {
+                      "name": "Osvaldo"
+                    },
+                    {
+                      "name": "Charissa"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/26/2019",
+                  "amount": 35,
+                  "category": [
+                    {
+                      "name": "Eveline"
+                    },
+                    {
+                      "name": "Donnetta"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/01/2019",
+                  "amount": 79,
+                  "category": [
+                    {
+                      "name": "Shaquana"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/26/2018",
+                  "amount": 25,
+                  "category": [
+                    {
+                      "name": "Courtney"
+                    },
+                    {
+                      "name": "Jarvis"
+                    },
+                    {
+                      "name": "Parker"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/30/2019",
+                  "amount": 5,
+                  "category": [
+                    {
+                      "name": "Anastasia"
+                    },
+                    {
+                      "name": "Doreen"
+                    },
+                    {
+                      "name": "Ed"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Osvaldo",
+      "subcategory": [
+        {
+          "name": "Ervin",
+          "detail": [
+            {
+              "name": "Dylan",
+              "salary": [
+                {
+                  "month": "04/02/2019",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Debby"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/30/2018",
+                  "amount": 66,
+                  "category": [
+                    {
+                      "name": "Mohammad"
+                    },
+                    {
+                      "name": "Suzie"
+                    },
+                    {
+                      "name": "Hong"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/22/2018",
+                  "amount": 7,
+                  "category": [
+                    {
+                      "name": "Tiara"
+                    },
+                    {
+                      "name": "Felix"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/03/2018",
+                  "amount": 61,
+                  "category": [
+                    {
+                      "name": "Rodrigo"
+                    },
+                    {
+                      "name": "Malena"
+                    },
+                    {
+                      "name": "Julieann"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/14/2018",
+                  "amount": 59,
+                  "category": [
+                    {
+                      "name": "Duane"
+                    },
+                    {
+                      "name": "Hershel"
+                    },
+                    {
+                      "name": "Zola"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/28/2019",
+                  "amount": 48,
+                  "category": [
+                    {
+                      "name": "Margarite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lavada",
+              "salary": [
+                {
+                  "month": "10/23/2018",
+                  "amount": 52,
+                  "category": [
+                    {
+                      "name": "Flo"
+                    },
+                    {
+                      "name": "Freddie"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/09/2018",
+                  "amount": 80,
+                  "category": [
+                    {
+                      "name": "Shannon"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/30/2019",
+                  "amount": 19,
+                  "category": [
+                    {
+                      "name": "Soon"
+                    },
+                    {
+                      "name": "Erasmo"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/09/2019",
+                  "amount": 27,
+                  "category": [
+                    {
+                      "name": "Ryan"
+                    },
+                    {
+                      "name": "Libby"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/11/2018",
+                  "amount": 90,
+                  "category": [
+                    {
+                      "name": "Frederick"
+                    },
+                    {
+                      "name": "Rueben"
+                    },
+                    {
+                      "name": "Denny"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/10/2019",
+                  "amount": 41,
+                  "category": [
+                    {
+                      "name": "Ming"
+                    },
+                    {
+                      "name": "Tosha"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Marty",
+              "salary": [
+                {
+                  "month": "08/04/2019",
+                  "amount": 24,
+                  "category": [
+                    {
+                      "name": "Nakesha"
+                    },
+                    {
+                      "name": "Billie"
+                    },
+                    {
+                      "name": "Bobby"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/05/2019",
+                  "amount": 67,
+                  "category": [
+                    {
+                      "name": "Demetrius"
+                    },
+                    {
+                      "name": "Carey"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/07/2018",
+                  "amount": 26,
+                  "category": [
+                    {
+                      "name": "Dulce"
+                    },
+                    {
+                      "name": "Adriene"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/13/2019",
+                  "amount": 12,
+                  "category": [
+                    {
+                      "name": "Deane"
+                    },
+                    {
+                      "name": "Donnette"
+                    },
+                    {
+                      "name": "Rubin"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/25/2018",
+                  "amount": 30,
+                  "category": [
+                    {
+                      "name": "Rocco"
+                    },
+                    {
+                      "name": "Charlie"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/07/2019",
+                  "amount": 58,
+                  "category": [
+                    {
+                      "name": "Ismael"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Elke",
+              "salary": [
+                {
+                  "month": "07/12/2019",
+                  "amount": 49,
+                  "category": [
+                    {
+                      "name": "Sabra"
+                    },
+                    {
+                      "name": "Buena"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/19/2019",
+                  "amount": 46,
+                  "category": [
+                    {
+                      "name": "Harold"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/28/2019",
+                  "amount": 70,
+                  "category": [
+                    {
+                      "name": "Tracy"
+                    },
+                    {
+                      "name": "Lauren"
+                    },
+                    {
+                      "name": "Ross"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/20/2018",
+                  "amount": 65,
+                  "category": [
+                    {
+                      "name": "Jamie"
+                    },
+                    {
+                      "name": "Hisako"
+                    },
+                    {
+                      "name": "Marlon"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/08/2019",
+                  "amount": 83,
+                  "category": [
+                    {
+                      "name": "Latoria"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/22/2019",
+                  "amount": 34,
+                  "category": [
+                    {
+                      "name": "Todd"
+                    },
+                    {
+                      "name": "Oren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mae",
+              "salary": [
+                {
+                  "month": "01/15/2019",
+                  "amount": 7,
+                  "category": [
+                    {
+                      "name": "Marna"
+                    },
+                    {
+                      "name": "Shawnee"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/17/2019",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Jacinta"
+                    },
+                    {
+                      "name": "Billy"
+                    },
+                    {
+                      "name": "Mitch"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/30/2019",
+                  "amount": 81,
+                  "category": [
+                    {
+                      "name": "Madelyn"
+                    },
+                    {
+                      "name": "Joesph"
+                    },
+                    {
+                      "name": "Odis"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/10/2019",
+                  "amount": 9,
+                  "category": [
+                    {
+                      "name": "Darrin"
+                    },
+                    {
+                      "name": "Tuan"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/12/2018",
+                  "amount": 32,
+                  "category": [
+                    {
+                      "name": "Roberta"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/31/2018",
+                  "amount": 53,
+                  "category": [
+                    {
+                      "name": "Bruna"
+                    },
+                    {
+                      "name": "Leif"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Boyd",
+              "salary": [
+                {
+                  "month": "01/27/2019",
+                  "amount": 35,
+                  "category": [
+                    {
+                      "name": "Saturnina"
+                    },
+                    {
+                      "name": "Sylvie"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/02/2019",
+                  "amount": 64,
+                  "category": [
+                    {
+                      "name": "Teisha"
+                    },
+                    {
+                      "name": "Gayle"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/26/2019",
+                  "amount": 56,
+                  "category": [
+                    {
+                      "name": "Rosalina"
+                    },
+                    {
+                      "name": "Neil"
+                    },
+                    {
+                      "name": "Tameka"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/30/2018",
+                  "amount": 26,
+                  "category": [
+                    {
+                      "name": "Larissa"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/21/2019",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Aisha"
+                    },
+                    {
+                      "name": "Alejandro"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/16/2019",
+                  "amount": 93,
+                  "category": [
+                    {
+                      "name": "Denny"
+                    },
+                    {
+                      "name": "Enola"
+                    },
+                    {
+                      "name": "Aubrey"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Prince",
+              "salary": [
+                {
+                  "month": "03/02/2019",
+                  "amount": 74,
+                  "category": [
+                    {
+                      "name": "Brendan"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/25/2018",
+                  "amount": 14,
+                  "category": [
+                    {
+                      "name": "Man"
+                    },
+                    {
+                      "name": "Bethanie"
+                    },
+                    {
+                      "name": "Darron"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/16/2018",
+                  "amount": 19,
+                  "category": [
+                    {
+                      "name": "Rodolfo"
+                    },
+                    {
+                      "name": "Elijah"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/31/2018",
+                  "amount": 94,
+                  "category": [
+                    {
+                      "name": "Jong"
+                    },
+                    {
+                      "name": "Athena"
+                    },
+                    {
+                      "name": "Jarrett"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/05/2018",
+                  "amount": 5,
+                  "category": [
+                    {
+                      "name": "Cletus"
+                    },
+                    {
+                      "name": "Enda"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/11/2019",
+                  "amount": 91,
+                  "category": [
+                    {
+                      "name": "Leonardo"
+                    },
+                    {
+                      "name": "Justine"
+                    },
+                    {
+                      "name": "Darryl"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Brinda",
+          "detail": [
+            {
+              "name": "Joan",
+              "salary": [
+                {
+                  "month": "12/11/2018",
+                  "amount": 65,
+                  "category": [
+                    {
+                      "name": "Robin"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/30/2018",
+                  "amount": 49,
+                  "category": [
+                    {
+                      "name": "Filiberto"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/10/2019",
+                  "amount": 81,
+                  "category": [
+                    {
+                      "name": "Aldo"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/20/2019",
+                  "amount": 83,
+                  "category": [
+                    {
+                      "name": "Marybelle"
+                    },
+                    {
+                      "name": "Renita"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/06/2019",
+                  "amount": 67,
+                  "category": [
+                    {
+                      "name": "Velma"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/11/2019",
+                  "amount": 73,
+                  "category": [
+                    {
+                      "name": "Jasmine"
+                    },
+                    {
+                      "name": "Leonida"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Miguel",
+              "salary": [
+                {
+                  "month": "09/06/2018",
+                  "amount": 26,
+                  "category": [
+                    {
+                      "name": "Hai"
+                    },
+                    {
+                      "name": "Brandee"
+                    },
+                    {
+                      "name": "Arthur"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/02/2019",
+                  "amount": 35,
+                  "category": [
+                    {
+                      "name": "Alan"
+                    },
+                    {
+                      "name": "Cleveland"
+                    },
+                    {
+                      "name": "Joey"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/11/2019",
+                  "amount": 34,
+                  "category": [
+                    {
+                      "name": "Ty"
+                    },
+                    {
+                      "name": "Carolyne"
+                    },
+                    {
+                      "name": "Laurine"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/20/2019",
+                  "amount": 90,
+                  "category": [
+                    {
+                      "name": "Bernadette"
+                    },
+                    {
+                      "name": "Vivien"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/14/2019",
+                  "amount": 55,
+                  "category": [
+                    {
+                      "name": "Kurtis"
+                    },
+                    {
+                      "name": "Philip"
+                    },
+                    {
+                      "name": "Shu"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/26/2019",
+                  "amount": 41,
+                  "category": [
+                    {
+                      "name": "Porter"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Tracey",
+              "salary": [
+                {
+                  "month": "04/09/2019",
+                  "amount": 8,
+                  "category": [
+                    {
+                      "name": "Mauricio"
+                    },
+                    {
+                      "name": "Lai"
+                    },
+                    {
+                      "name": "Dong"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/04/2019",
+                  "amount": 32,
+                  "category": [
+                    {
+                      "name": "Gerard"
+                    },
+                    {
+                      "name": "Jackie"
+                    },
+                    {
+                      "name": "Zenobia"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/17/2018",
+                  "amount": 52,
+                  "category": [
+                    {
+                      "name": "Lesley"
+                    },
+                    {
+                      "name": "Ewa"
+                    },
+                    {
+                      "name": "Todd"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/14/2019",
+                  "amount": 90,
+                  "category": [
+                    {
+                      "name": "Hildegarde"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/18/2018",
+                  "amount": 6,
+                  "category": [
+                    {
+                      "name": "Charlie"
+                    },
+                    {
+                      "name": "Saturnina"
+                    },
+                    {
+                      "name": "Cecilia"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/21/2019",
+                  "amount": 72,
+                  "category": [
+                    {
+                      "name": "Teresita"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Vicenta",
+              "salary": [
+                {
+                  "month": "01/23/2019",
+                  "amount": 16,
+                  "category": [
+                    {
+                      "name": "Kirby"
+                    },
+                    {
+                      "name": "Shamika"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/15/2018",
+                  "amount": 74,
+                  "category": [
+                    {
+                      "name": "Jermaine"
+                    },
+                    {
+                      "name": "Kasandra"
+                    },
+                    {
+                      "name": "Marry"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/02/2019",
+                  "amount": 14,
+                  "category": [
+                    {
+                      "name": "Kermit"
+                    },
+                    {
+                      "name": "Dave"
+                    },
+                    {
+                      "name": "Daron"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/18/2019",
+                  "amount": 10,
+                  "category": [
+                    {
+                      "name": "Astrid"
+                    },
+                    {
+                      "name": "Carmen"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/31/2018",
+                  "amount": 5,
+                  "category": [
+                    {
+                      "name": "Avery"
+                    },
+                    {
+                      "name": "Armandina"
+                    },
+                    {
+                      "name": "Verla"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/26/2018",
+                  "amount": 92,
+                  "category": [
+                    {
+                      "name": "Marci"
+                    },
+                    {
+                      "name": "Joesph"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Odis",
+              "salary": [
+                {
+                  "month": "11/04/2018",
+                  "amount": 2,
+                  "category": [
+                    {
+                      "name": "Harold"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/09/2019",
+                  "amount": 76,
+                  "category": [
+                    {
+                      "name": "Major"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/23/2019",
+                  "amount": 48,
+                  "category": [
+                    {
+                      "name": "Hugo"
+                    },
+                    {
+                      "name": "Arnoldo"
+                    },
+                    {
+                      "name": "Cathryn"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/24/2019",
+                  "amount": 43,
+                  "category": [
+                    {
+                      "name": "Darcey"
+                    },
+                    {
+                      "name": "Mai"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/12/2019",
+                  "amount": 39,
+                  "category": [
+                    {
+                      "name": "Ronald"
+                    },
+                    {
+                      "name": "Mitchell"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/18/2019",
+                  "amount": 86,
+                  "category": [
+                    {
+                      "name": "Hortencia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Tommy",
+              "salary": [
+                {
+                  "month": "05/13/2019",
+                  "amount": 81,
+                  "category": [
+                    {
+                      "name": "Kristofer"
+                    },
+                    {
+                      "name": "Tama"
+                    },
+                    {
+                      "name": "Marjorie"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/28/2019",
+                  "amount": 79,
+                  "category": [
+                    {
+                      "name": "Rodney"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/08/2019",
+                  "amount": 76,
+                  "category": [
+                    {
+                      "name": "Gayle"
+                    },
+                    {
+                      "name": "Ollie"
+                    },
+                    {
+                      "name": "Erasmo"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/27/2018",
+                  "amount": 24,
+                  "category": [
+                    {
+                      "name": "Marion"
+                    },
+                    {
+                      "name": "Elmo"
+                    },
+                    {
+                      "name": "Hassan"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/25/2019",
+                  "amount": 49,
+                  "category": [
+                    {
+                      "name": "Gregory"
+                    },
+                    {
+                      "name": "Johnathan"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/22/2019",
+                  "amount": 33,
+                  "category": [
+                    {
+                      "name": "Tami"
+                    },
+                    {
+                      "name": "Sandra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lilliam",
+              "salary": [
+                {
+                  "month": "09/23/2018",
+                  "amount": 21,
+                  "category": [
+                    {
+                      "name": "Hugh"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/18/2019",
+                  "amount": 43,
+                  "category": [
+                    {
+                      "name": "Arlen"
+                    },
+                    {
+                      "name": "Cortez"
+                    },
+                    {
+                      "name": "Theodora"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/04/2018",
+                  "amount": 46,
+                  "category": [
+                    {
+                      "name": "Berta"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/04/2019",
+                  "amount": 59,
+                  "category": [
+                    {
+                      "name": "Risa"
+                    },
+                    {
+                      "name": "Leeann"
+                    },
+                    {
+                      "name": "Honey"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/23/2019",
+                  "amount": 30,
+                  "category": [
+                    {
+                      "name": "Lucile"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/14/2019",
+                  "amount": 12,
+                  "category": [
+                    {
+                      "name": "Gail"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dewey",
+              "salary": [
+                {
+                  "month": "01/30/2019",
+                  "amount": 99,
+                  "category": [
+                    {
+                      "name": "Clarisa"
+                    },
+                    {
+                      "name": "Edythe"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/09/2019",
+                  "amount": 10,
+                  "category": [
+                    {
+                      "name": "Max"
+                    },
+                    {
+                      "name": "Randal"
+                    },
+                    {
+                      "name": "Hung"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/15/2019",
+                  "amount": 46,
+                  "category": [
+                    {
+                      "name": "Danial"
+                    },
+                    {
+                      "name": "Elsy"
+                    },
+                    {
+                      "name": "Elizabet"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/31/2018",
+                  "amount": 40,
+                  "category": [
+                    {
+                      "name": "Julissa"
+                    },
+                    {
+                      "name": "Marlene"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/18/2019",
+                  "amount": 81,
+                  "category": [
+                    {
+                      "name": "Tasia"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/08/2019",
+                  "amount": 43,
+                  "category": [
+                    {
+                      "name": "Harold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Moses",
+              "salary": [
+                {
+                  "month": "06/05/2019",
+                  "amount": 42,
+                  "category": [
+                    {
+                      "name": "Yasmine"
+                    },
+                    {
+                      "name": "Suzanna"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/07/2018",
+                  "amount": 39,
+                  "category": [
+                    {
+                      "name": "Steffanie"
+                    },
+                    {
+                      "name": "Anibal"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/05/2019",
+                  "amount": 100,
+                  "category": [
+                    {
+                      "name": "Ralph"
+                    },
+                    {
+                      "name": "Bryant"
+                    },
+                    {
+                      "name": "Kathleen"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/14/2019",
+                  "amount": 85,
+                  "category": [
+                    {
+                      "name": "Oscar"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/16/2019",
+                  "amount": 61,
+                  "category": [
+                    {
+                      "name": "Jeffrey"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/06/2019",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Emil"
+                    },
+                    {
+                      "name": "Merlin"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bethel",
+          "detail": [
+            {
+              "name": "Carmon",
+              "salary": [
+                {
+                  "month": "05/24/2019",
+                  "amount": 48,
+                  "category": [
+                    {
+                      "name": "Saul"
+                    },
+                    {
+                      "name": "Bennie"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/12/2019",
+                  "amount": 97,
+                  "category": [
+                    {
+                      "name": "Lorine"
+                    },
+                    {
+                      "name": "Morris"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/19/2019",
+                  "amount": 4,
+                  "category": [
+                    {
+                      "name": "Adelaide"
+                    },
+                    {
+                      "name": "Debbie"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/24/2019",
+                  "amount": 19,
+                  "category": [
+                    {
+                      "name": "Hilario"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/27/2018",
+                  "amount": 74,
+                  "category": [
+                    {
+                      "name": "Yong"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/20/2019",
+                  "amount": 29,
+                  "category": [
+                    {
+                      "name": "Sammie"
+                    },
+                    {
+                      "name": "Maye"
+                    },
+                    {
+                      "name": "Drew"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Vennie",
+              "salary": [
+                {
+                  "month": "05/18/2019",
+                  "amount": 25,
+                  "category": [
+                    {
+                      "name": "Cornelius"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/23/2018",
+                  "amount": 12,
+                  "category": [
+                    {
+                      "name": "Nana"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/14/2018",
+                  "amount": 38,
+                  "category": [
+                    {
+                      "name": "Han"
+                    },
+                    {
+                      "name": "Carolina"
+                    },
+                    {
+                      "name": "Charley"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/06/2018",
+                  "amount": 76,
+                  "category": [
+                    {
+                      "name": "Raquel"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/09/2018",
+                  "amount": 91,
+                  "category": [
+                    {
+                      "name": "Pearlene"
+                    },
+                    {
+                      "name": "Mariette"
+                    },
+                    {
+                      "name": "Katrice"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/12/2019",
+                  "amount": 11,
+                  "category": [
+                    {
+                      "name": "Hank"
+                    },
+                    {
+                      "name": "Donnie"
+                    },
+                    {
+                      "name": "Shay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Joaquin",
+              "salary": [
+                {
+                  "month": "09/06/2018",
+                  "amount": 38,
+                  "category": [
+                    {
+                      "name": "Bryant"
+                    },
+                    {
+                      "name": "Terry"
+                    },
+                    {
+                      "name": "Jeanett"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/16/2019",
+                  "amount": 68,
+                  "category": [
+                    {
+                      "name": "Melda"
+                    },
+                    {
+                      "name": "Destiny"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/27/2018",
+                  "amount": 5,
+                  "category": [
+                    {
+                      "name": "Ronnie"
+                    },
+                    {
+                      "name": "Harrison"
+                    },
+                    {
+                      "name": "Jerry"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/08/2019",
+                  "amount": 86,
+                  "category": [
+                    {
+                      "name": "Pura"
+                    },
+                    {
+                      "name": "Fredda"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/13/2019",
+                  "amount": 68,
+                  "category": [
+                    {
+                      "name": "Cornelius"
+                    },
+                    {
+                      "name": "Rosalva"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/02/2019",
+                  "amount": 96,
+                  "category": [
+                    {
+                      "name": "Annalisa"
+                    },
+                    {
+                      "name": "Scottie"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Randy",
+              "salary": [
+                {
+                  "month": "05/31/2019",
+                  "amount": 49,
+                  "category": [
+                    {
+                      "name": "Jospeh"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/25/2019",
+                  "amount": 18,
+                  "category": [
+                    {
+                      "name": "Darius"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/12/2018",
+                  "amount": 86,
+                  "category": [
+                    {
+                      "name": "Rayford"
+                    },
+                    {
+                      "name": "Garrett"
+                    },
+                    {
+                      "name": "Quintin"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/27/2018",
+                  "amount": 63,
+                  "category": [
+                    {
+                      "name": "Marx"
+                    },
+                    {
+                      "name": "Mee"
+                    },
+                    {
+                      "name": "Abraham"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/07/2019",
+                  "amount": 26,
+                  "category": [
+                    {
+                      "name": "Frieda"
+                    },
+                    {
+                      "name": "Domingo"
+                    },
+                    {
+                      "name": "Walton"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/13/2019",
+                  "amount": 67,
+                  "category": [
+                    {
+                      "name": "Chantel"
+                    },
+                    {
+                      "name": "Akilah"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Claudio",
+              "salary": [
+                {
+                  "month": "08/16/2019",
+                  "amount": 53,
+                  "category": [
+                    {
+                      "name": "Elijah"
+                    },
+                    {
+                      "name": "Ralph"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/28/2019",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Garry"
+                    },
+                    {
+                      "name": "Krystina"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/22/2019",
+                  "amount": 72,
+                  "category": [
+                    {
+                      "name": "Alayna"
+                    },
+                    {
+                      "name": "Dante"
+                    },
+                    {
+                      "name": "Davis"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/21/2019",
+                  "amount": 67,
+                  "category": [
+                    {
+                      "name": "Elvera"
+                    },
+                    {
+                      "name": "Zachery"
+                    },
+                    {
+                      "name": "Rafael"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/10/2018",
+                  "amount": 13,
+                  "category": [
+                    {
+                      "name": "Stanton"
+                    },
+                    {
+                      "name": "Ayako"
+                    },
+                    {
+                      "name": "Eugena"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/11/2019",
+                  "amount": 26,
+                  "category": [
+                    {
+                      "name": "Nancee"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Leone",
+              "salary": [
+                {
+                  "month": "01/22/2019",
+                  "amount": 57,
+                  "category": [
+                    {
+                      "name": "Ula"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/03/2018",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Reinaldo"
+                    },
+                    {
+                      "name": "Chong"
+                    },
+                    {
+                      "name": "Helen"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/18/2019",
+                  "amount": 75,
+                  "category": [
+                    {
+                      "name": "Angelia"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/18/2019",
+                  "amount": 17,
+                  "category": [
+                    {
+                      "name": "Golden"
+                    },
+                    {
+                      "name": "Bradly"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/16/2019",
+                  "amount": 56,
+                  "category": [
+                    {
+                      "name": "Lou"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/02/2018",
+                  "amount": 2,
+                  "category": [
+                    {
+                      "name": "Carly"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lawerence",
+              "salary": [
+                {
+                  "month": "10/22/2018",
+                  "amount": 5,
+                  "category": [
+                    {
+                      "name": "Kimberly"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/06/2019",
+                  "amount": 76,
+                  "category": [
+                    {
+                      "name": "Michaele"
+                    },
+                    {
+                      "name": "Owen"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/09/2018",
+                  "amount": 94,
+                  "category": [
+                    {
+                      "name": "Nicholas"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/29/2019",
+                  "amount": 83,
+                  "category": [
+                    {
+                      "name": "Jaunita"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/01/2019",
+                  "amount": 29,
+                  "category": [
+                    {
+                      "name": "Juliet"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/22/2019",
+                  "amount": 93,
+                  "category": [
+                    {
+                      "name": "Le"
+                    },
+                    {
+                      "name": "Rusty"
+                    },
+                    {
+                      "name": "Melaine"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rafaela",
+              "salary": [
+                {
+                  "month": "04/08/2019",
+                  "amount": 77,
+                  "category": [
+                    {
+                      "name": "Royal"
+                    },
+                    {
+                      "name": "Gwendolyn"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/11/2019",
+                  "amount": 57,
+                  "category": [
+                    {
+                      "name": "Ollie"
+                    },
+                    {
+                      "name": "Meda"
+                    },
+                    {
+                      "name": "Shanell"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/02/2018",
+                  "amount": 1,
+                  "category": [
+                    {
+                      "name": "Elwood"
+                    },
+                    {
+                      "name": "Samantha"
+                    },
+                    {
+                      "name": "Ruby"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/15/2018",
+                  "amount": 27,
+                  "category": [
+                    {
+                      "name": "Beau"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/18/2018",
+                  "amount": 100,
+                  "category": [
+                    {
+                      "name": "Vicki"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/03/2019",
+                  "amount": 12,
+                  "category": [
+                    {
+                      "name": "Stacey"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Arlean",
+              "salary": [
+                {
+                  "month": "05/07/2019",
+                  "amount": 72,
+                  "category": [
+                    {
+                      "name": "Marion"
+                    },
+                    {
+                      "name": "Laurinda"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/10/2018",
+                  "amount": 1,
+                  "category": [
+                    {
+                      "name": "Shayna"
+                    },
+                    {
+                      "name": "Jesenia"
+                    },
+                    {
+                      "name": "Rickie"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/25/2019",
+                  "amount": 30,
+                  "category": [
+                    {
+                      "name": "Marlin"
+                    },
+                    {
+                      "name": "Cherilyn"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/08/2018",
+                  "amount": 88,
+                  "category": [
+                    {
+                      "name": "Toney"
+                    },
+                    {
+                      "name": "Quinn"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/31/2018",
+                  "amount": 3,
+                  "category": [
+                    {
+                      "name": "Karren"
+                    },
+                    {
+                      "name": "Edra"
+                    },
+                    {
+                      "name": "Harvey"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/12/2019",
+                  "amount": 11,
+                  "category": [
+                    {
+                      "name": "Wesley"
+                    },
+                    {
+                      "name": "Eldridge"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Eugene",
+              "salary": [
+                {
+                  "month": "07/06/2019",
+                  "amount": 19,
+                  "category": [
+                    {
+                      "name": "Merrill"
+                    },
+                    {
+                      "name": "Shirleen"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/15/2019",
+                  "amount": 87,
+                  "category": [
+                    {
+                      "name": "Jewel"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/16/2019",
+                  "amount": 65,
+                  "category": [
+                    {
+                      "name": "Aurea"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/18/2018",
+                  "amount": 24,
+                  "category": [
+                    {
+                      "name": "Raymond"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/23/2019",
+                  "amount": 67,
+                  "category": [
+                    {
+                      "name": "Thomasina"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/25/2018",
+                  "amount": 100,
+                  "category": [
+                    {
+                      "name": "Leonardo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Michel",
+      "subcategory": [
+        {
+          "name": "Cruz",
+          "detail": [
+            {
+              "name": "Vi",
+              "salary": [
+                {
+                  "month": "10/31/2018",
+                  "amount": 87,
+                  "category": [
+                    {
+                      "name": "Teddy"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/09/2018",
+                  "amount": 29,
+                  "category": [
+                    {
+                      "name": "Rico"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/15/2019",
+                  "amount": 97,
+                  "category": [
+                    {
+                      "name": "Jonnie"
+                    },
+                    {
+                      "name": "Ines"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/21/2019",
+                  "amount": 33,
+                  "category": [
+                    {
+                      "name": "Reba"
+                    },
+                    {
+                      "name": "Percy"
+                    },
+                    {
+                      "name": "Vern"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/19/2019",
+                  "amount": 49,
+                  "category": [
+                    {
+                      "name": "Marva"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/10/2019",
+                  "amount": 61,
+                  "category": [
+                    {
+                      "name": "Rex"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sonny",
+              "salary": [
+                {
+                  "month": "01/05/2019",
+                  "amount": 84,
+                  "category": [
+                    {
+                      "name": "Ashley"
+                    },
+                    {
+                      "name": "Adolfo"
+                    },
+                    {
+                      "name": "Normand"
+                    }
+                  ]
+                },
+                {
+                  "month": "02/07/2019",
+                  "amount": 9,
+                  "category": [
+                    {
+                      "name": "Consuelo"
+                    },
+                    {
+                      "name": "Trent"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/05/2019",
+                  "amount": 27,
+                  "category": [
+                    {
+                      "name": "Sammy"
+                    },
+                    {
+                      "name": "Aura"
+                    },
+                    {
+                      "name": "Sharen"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/23/2018",
+                  "amount": 100,
+                  "category": [
+                    {
+                      "name": "Shanel"
+                    },
+                    {
+                      "name": "Fredrick"
+                    },
+                    {
+                      "name": "Candra"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/12/2019",
+                  "amount": 24,
+                  "category": [
+                    {
+                      "name": "Ethan"
+                    },
+                    {
+                      "name": "Casie"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/18/2018",
+                  "amount": 17,
+                  "category": [
+                    {
+                      "name": "Chara"
+                    },
+                    {
+                      "name": "Jerome"
+                    },
+                    {
+                      "name": "Charles"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jonna",
+              "salary": [
+                {
+                  "month": "07/14/2019",
+                  "amount": 30,
+                  "category": [
+                    {
+                      "name": "Ernesto"
+                    },
+                    {
+                      "name": "Xuan"
+                    },
+                    {
+                      "name": "Marcelino"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/17/2019",
+                  "amount": 96,
+                  "category": [
+                    {
+                      "name": "Judith"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/26/2019",
+                  "amount": 5,
+                  "category": [
+                    {
+                      "name": "Orval"
+                    },
+                    {
+                      "name": "Garfield"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/05/2019",
+                  "amount": 11,
+                  "category": [
+                    {
+                      "name": "Velia"
+                    },
+                    {
+                      "name": "Emil"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/13/2018",
+                  "amount": 51,
+                  "category": [
+                    {
+                      "name": "Nathan"
+                    }
+                  ]
+                },
+                {
+                  "month": "09/27/2018",
+                  "amount": 41,
+                  "category": [
+                    {
+                      "name": "Vernice"
+                    },
+                    {
+                      "name": "Ian"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Raul",
+              "salary": [
+                {
+                  "month": "05/14/2019",
+                  "amount": 60,
+                  "category": [
+                    {
+                      "name": "Art"
+                    }
+                  ]
+                },
+                {
+                  "month": "07/26/2019",
+                  "amount": 42,
+                  "category": [
+                    {
+                      "name": "Felton"
+                    },
+                    {
+                      "name": "Carlota"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/06/2018",
+                  "amount": 22,
+                  "category": [
+                    {
+                      "name": "Erick"
+                    },
+                    {
+                      "name": "Jacquline"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/22/2018",
+                  "amount": 88,
+                  "category": [
+                    {
+                      "name": "Mana"
+                    },
+                    {
+                      "name": "Donald"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/03/2018",
+                  "amount": 54,
+                  "category": [
+                    {
+                      "name": "Alyce"
+                    },
+                    {
+                      "name": "Sharita"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/20/2018",
+                  "amount": 55,
+                  "category": [
+                    {
+                      "name": "Marty"
+                    },
+                    {
+                      "name": "Lawerence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Katie",
+              "salary": [
+                {
+                  "month": "04/02/2019",
+                  "amount": 52,
+                  "category": [
+                    {
+                      "name": "Kimberlie"
+                    },
+                    {
+                      "name": "Ashely"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/28/2018",
+                  "amount": 79,
+                  "category": [
+                    {
+                      "name": "Dorothea"
+                    },
+                    {
+                      "name": "Audrey"
+                    },
+                    {
+                      "name": "Evelina"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/21/2018",
+                  "amount": 98,
+                  "category": [
+                    {
+                      "name": "Dante"
+                    },
+                    {
+                      "name": "Danny"
+                    },
+                    {
+                      "name": "Shoshana"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/29/2019",
+                  "amount": 69,
+                  "category": [
+                    {
+                      "name": "Terrell"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/02/2018",
+                  "amount": 37,
+                  "category": [
+                    {
+                      "name": "Terrance"
+                    },
+                    {
+                      "name": "Tracy"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/08/2019",
+                  "amount": 94,
+                  "category": [
+                    {
+                      "name": "Donald"
+                    },
+                    {
+                      "name": "Anthony"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leigha",
+      "subcategory": [
+        {
+          "name": "Tawnya",
+          "detail": [
+            {
+              "name": "Melva",
+              "salary": [
+                {
+                  "month": "05/26/2019",
+                  "amount": 78,
+                  "category": [
+                    {
+                      "name": "Neil"
+                    },
+                    {
+                      "name": "Asa"
+                    },
+                    {
+                      "name": "Edmund"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/22/2018",
+                  "amount": 40,
+                  "category": [
+                    {
+                      "name": "Edgar"
+                    },
+                    {
+                      "name": "Chan"
+                    }
+                  ]
+                },
+                {
+                  "month": "05/25/2019",
+                  "amount": 33,
+                  "category": [
+                    {
+                      "name": "Roosevelt"
+                    },
+                    {
+                      "name": "Arturo"
+                    },
+                    {
+                      "name": "Mel"
+                    }
+                  ]
+                },
+                {
+                  "month": "01/29/2019",
+                  "amount": 76,
+                  "category": [
+                    {
+                      "name": "Eusebio"
+                    },
+                    {
+                      "name": "Ruben"
+                    },
+                    {
+                      "name": "Fausto"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/03/2018",
+                  "amount": 68,
+                  "category": [
+                    {
+                      "name": "Harlan"
+                    },
+                    {
+                      "name": "Les"
+                    },
+                    {
+                      "name": "Iva"
+                    }
+                  ]
+                },
+                {
+                  "month": "08/20/2019",
+                  "amount": 74,
+                  "category": [
+                    {
+                      "name": "Harris"
+                    },
+                    {
+                      "name": "Jeremy"
+                    },
+                    {
+                      "name": "Rayford"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lita",
+              "salary": [
+                {
+                  "month": "07/28/2019",
+                  "amount": 99,
+                  "category": [
+                    {
+                      "name": "Charlie"
+                    },
+                    {
+                      "name": "Dedra"
+                    }
+                  ]
+                },
+                {
+                  "month": "12/18/2018",
+                  "amount": 2,
+                  "category": [
+                    {
+                      "name": "Angele"
+                    },
+                    {
+                      "name": "Vannesa"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/29/2019",
+                  "amount": 44,
+                  "category": [
+                    {
+                      "name": "Rea"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/14/2019",
+                  "amount": 52,
+                  "category": [
+                    {
+                      "name": "Lyman"
+                    },
+                    {
+                      "name": "Gregg"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/02/2018",
+                  "amount": 52,
+                  "category": [
+                    {
+                      "name": "Pamala"
+                    },
+                    {
+                      "name": "Kristi"
+                    }
+                  ]
+                },
+                {
+                  "month": "04/07/2019",
+                  "amount": 90,
+                  "category": [
+                    {
+                      "name": "Winter"
+                    },
+                    {
+                      "name": "Dino"
+                    },
+                    {
+                      "name": "Emely"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Long",
+              "salary": [
+                {
+                  "month": "03/04/2019",
+                  "amount": 19,
+                  "category": [
+                    {
+                      "name": "Ashton"
+                    },
+                    {
+                      "name": "Jerri"
+                    }
+                  ]
+                },
+                {
+                  "month": "10/05/2018",
+                  "amount": 25,
+                  "category": [
+                    {
+                      "name": "Betsey"
+                    }
+                  ]
+                },
+                {
+                  "month": "06/30/2019",
+                  "amount": 63,
+                  "category": [
+                    {
+                      "name": "William"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/06/2018",
+                  "amount": 67,
+                  "category": [
+                    {
+                      "name": "Amie"
+                    }
+                  ]
+                },
+                {
+                  "month": "11/08/2018",
+                  "amount": 49,
+                  "category": [
+                    {
+                      "name": "Dawn"
+                    },
+                    {
+                      "name": "Howard"
+                    },
+                    {
+                      "name": "Retta"
+                    }
+                  ]
+                },
+                {
+                  "month": "03/01/2019",
+                  "amount": 51,
+                  "category": [
+                    {
+                      "name": "Ray"
+                    },
+                    {
+                      "name": "Deedee"
+                    },
+                    {
+                      "name": "Nickolas"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]
