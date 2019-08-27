@@ -1,0 +1,193 @@
+[{
+  "externalCustomerNumber": 1287954725,
+  "CustomerConsentKey": "2019-04-17 23:18:48",
+  "TaxYear": 2023,
+  "Category": [
+    {
+      "name": "Demivee",
+      "TaxBaseType": [
+        {
+          "amount": 44515.92
+        },
+        {
+          "amount": 45228.07
+        }
+      ],
+      "IncomeType": [
+        {
+          "IncomeAmountName": "Oba",
+          "IncomeAmount": 94912.41,
+          "IncomeTypeDetails": [
+            {
+              "DetailsId": "bw",
+              "AdditionalInformation": [
+                {
+                  "Element": [
+                    {
+                      "Name": "Thoughtworks",
+                      "Value": 3362827
+                    },
+                    {
+                      "Name": "Youspan",
+                      "Value": 2498210
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "DetailsId": "Gw",
+              "AdditionalInformation": [
+                {
+                  "Element": [
+                    {
+                      "Name": "Zoomdog",
+                      "Value": 3633433
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ainyx",
+      "TaxBaseType": [
+        {
+          "amount": 90110.36
+        },
+        {
+          "amount": 54296.9
+        }
+      ],
+      "IncomeType": [
+        {
+          "IncomeAmountName": "Voonder",
+          "IncomeAmount": 31148.51,
+          "IncomeTypeDetails": [
+            {
+              "DetailsId": "Ew",
+              "AdditionalInformation": [
+                {
+                  "Element": [
+                    {
+                      "Name": "Skyba",
+                      "Value": 2270143
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeAmountName": "Thoughtstorm",
+          "IncomeAmount": 84848.72,
+          "IncomeTypeDetails": [
+            {
+              "DetailsId": "jw",
+              "AdditionalInformation": [
+                {
+                  "Element": [
+                    {
+                      "Name": "Skinder",
+                      "Value": 3509011
+                    },
+                    {
+                      "Name": "Twitternation",
+                      "Value": 3378391
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lazz",
+      "TaxBaseType": [
+        {
+          "amount": 27719.84
+        }
+      ],
+      "IncomeType": [
+        {
+          "IncomeAmountName": "Wikizz",
+          "IncomeAmount": 31454.84,
+          "IncomeTypeDetails": [
+            {
+              "DetailsId": "Fw",
+              "AdditionalInformation": [
+                {
+                  "Element": [
+                    {
+                      "Name": "Eidel",
+                      "Value": 2769636
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "DetailsId": "Tw",
+              "AdditionalInformation": [
+                {
+                  "Element": [
+                    {
+                      "Name": "Aimbu",
+                      "Value": 2259391
+                    },
+                    {
+                      "Name": "Fadeo",
+                      "Value": 3271620
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeAmountName": "Yamia",
+          "IncomeAmount": 34141.07,
+          "IncomeTypeDetails": [
+            {
+              "DetailsId": "Fw",
+              "AdditionalInformation": [
+                {
+                  "Element": [
+                    {
+                      "Name": "Camido",
+                      "Value": 2599671
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "DetailsId": "mw",
+              "AdditionalInformation": [
+                {
+                  "Element": [
+                    {
+                      "Name": "Gabcube",
+                      "Value": 2100993
+                    },
+                    {
+                      "Name": "Pixope",
+                      "Value": 3827747
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]
