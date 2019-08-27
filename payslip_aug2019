@@ -1,286 +1,65 @@
 [{
   "employer": [
     {
-      "name": "Skipstorm",
-      "number": 1777185812,
+      "name": "Wikizz",
+      "number": 3774317317,
       "subcategory": [
         {
-          "name": "Zoozzy",
+          "name": "Oloo",
           "detail": [
             {
-              "description": "GAMMAKED",
+              "description": "Lidocaine Hydrochloride",
               "salary": [
                 {
-                  "calendermonth": "09/01/2018",
+                  "calendermonth": "07/02/2019",
                   "main": [
                     {
-                      "amount": 46078,
-                      "category": "q"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "09/04/2018",
-                  "main": [
-                    {
-                      "amount": 47137,
-                      "category": "h"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "10/22/2018",
-                  "main": [
-                    {
-                      "amount": 36078,
-                      "category": "e"
-                    },
-                    {
-                      "amount": 29128,
-                      "category": "o"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "04/10/2019",
-                  "main": [
-                    {
-                      "amount": 24752,
-                      "category": "d"
-                    },
-                    {
-                      "amount": 10815,
-                      "category": "q"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "06/27/2019",
-                  "main": [
-                    {
-                      "amount": 38731,
-                      "category": "m"
-                    },
-                    {
-                      "amount": 6152,
-                      "category": "v"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "04/07/2019",
-                  "main": [
-                    {
-                      "amount": 14090,
-                      "category": "c"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "description": "Hydrochlorothiazide",
-              "salary": [
-                {
-                  "calendermonth": "12/22/2018",
-                  "main": [
-                    {
-                      "amount": 44654,
-                      "category": "d"
-                    },
-                    {
-                      "amount": 48316,
-                      "category": "m"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "08/31/2018",
-                  "main": [
-                    {
-                      "amount": 14588,
-                      "category": "e"
-                    },
-                    {
-                      "amount": 18843,
-                      "category": "a"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "12/25/2018",
-                  "main": [
-                    {
-                      "amount": 9313,
-                      "category": "d"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "02/11/2019",
-                  "main": [
-                    {
-                      "amount": 44273,
-                      "category": "e"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "10/15/2018",
-                  "main": [
-                    {
-                      "amount": 32998,
-                      "category": "d"
-                    },
-                    {
-                      "amount": 1032,
-                      "category": "w"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "12/08/2018",
-                  "main": [
-                    {
-                      "amount": 40937,
-                      "category": "i"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "description": "Primula Scilla",
-              "salary": [
-                {
-                  "calendermonth": "06/27/2019",
-                  "main": [
-                    {
-                      "amount": 45898,
-                      "category": "w"
-                    },
-                    {
-                      "amount": 38653,
+                      "amount": 9229,
                       "category": "u"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "08/04/2019",
-                  "main": [
-                    {
-                      "amount": 19085,
-                      "category": "n"
                     },
                     {
-                      "amount": 1541,
-                      "category": "b"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "05/22/2019",
-                  "main": [
-                    {
-                      "amount": 6307,
-                      "category": "z"
-                    },
-                    {
-                      "amount": 11053,
-                      "category": "l"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "08/13/2019",
-                  "main": [
-                    {
-                      "amount": 33093,
-                      "category": "g"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "08/26/2019",
-                  "main": [
-                    {
-                      "amount": 18208,
-                      "category": "b"
-                    },
-                    {
-                      "amount": 30125,
-                      "category": "b"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "07/24/2019",
-                  "main": [
-                    {
-                      "amount": 41220,
-                      "category": "c"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "description": "Moist SURE",
-              "salary": [
-                {
-                  "calendermonth": "10/05/2018",
-                  "main": [
-                    {
-                      "amount": 40859,
-                      "category": "t"
-                    },
-                    {
-                      "amount": 18576,
-                      "category": "k"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "10/16/2018",
-                  "main": [
-                    {
-                      "amount": 15361,
-                      "category": "v"
-                    },
-                    {
-                      "amount": 6520,
-                      "category": "y"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "01/09/2019",
-                  "main": [
-                    {
-                      "amount": 6911,
-                      "category": "v"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "04/10/2019",
-                  "main": [
-                    {
-                      "amount": 6244,
-                      "category": "k"
-                    }
-                  ]
-                },
-                {
-                  "calendermonth": "10/07/2018",
-                  "main": [
-                    {
-                      "amount": 14013,
-                      "category": "g"
-                    },
-                    {
-                      "amount": 41882,
+                      "amount": 19068,
                       "category": "i"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/11/2018",
+                  "main": [
+                    {
+                      "amount": 17057,
+                      "category": "d"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "02/07/2019",
+                  "main": [
+                    {
+                      "amount": 15123,
+                      "category": "i"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "07/06/2019",
+                  "main": [
+                    {
+                      "amount": 10233,
+                      "category": "s"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "07/07/2019",
+                  "main": [
+                    {
+                      "amount": 45551,
+                      "category": "h"
+                    },
+                    {
+                      "amount": 26120,
+                      "category": "w"
                     }
                   ]
                 },
@@ -288,12 +67,1012 @@
                   "calendermonth": "02/09/2019",
                   "main": [
                     {
-                      "amount": 30022,
+                      "amount": 49213,
+                      "category": "r"
+                    },
+                    {
+                      "amount": 32155,
+                      "category": "j"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "equate itchy eye",
+              "salary": [
+                {
+                  "calendermonth": "04/06/2019",
+                  "main": [
+                    {
+                      "amount": 11791,
+                      "category": "v"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "03/10/2019",
+                  "main": [
+                    {
+                      "amount": 44640,
+                      "category": "v"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "01/07/2019",
+                  "main": [
+                    {
+                      "amount": 21101,
+                      "category": "n"
+                    },
+                    {
+                      "amount": 1129,
+                      "category": "x"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "02/14/2019",
+                  "main": [
+                    {
+                      "amount": 13878,
+                      "category": "v"
+                    },
+                    {
+                      "amount": 25645,
+                      "category": "i"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "12/26/2018",
+                  "main": [
+                    {
+                      "amount": 32808,
+                      "category": "m"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "03/20/2019",
+                  "main": [
+                    {
+                      "amount": 28559,
+                      "category": "m"
+                    },
+                    {
+                      "amount": 3118,
+                      "category": "c"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "ibuprofen",
+              "salary": [
+                {
+                  "calendermonth": "05/27/2019",
+                  "main": [
+                    {
+                      "amount": 29449,
                       "category": "x"
                     },
                     {
-                      "amount": 1494,
+                      "amount": 38723,
+                      "category": "v"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "01/12/2019",
+                  "main": [
+                    {
+                      "amount": 28879,
+                      "category": "s"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/29/2019",
+                  "main": [
+                    {
+                      "amount": 23900,
+                      "category": "b"
+                    },
+                    {
+                      "amount": 48802,
+                      "category": "b"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/16/2018",
+                  "main": [
+                    {
+                      "amount": 4480,
+                      "category": "e"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "12/19/2018",
+                  "main": [
+                    {
+                      "amount": 35566,
+                      "category": "v"
+                    },
+                    {
+                      "amount": 37213,
                       "category": "y"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "09/25/2018",
+                  "main": [
+                    {
+                      "amount": 32481,
+                      "category": "r"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Inflammation OTC",
+              "salary": [
+                {
+                  "calendermonth": "01/14/2019",
+                  "main": [
+                    {
+                      "amount": 35419,
+                      "category": "z"
+                    },
+                    {
+                      "amount": 5733,
+                      "category": "t"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "03/01/2019",
+                  "main": [
+                    {
+                      "amount": 6452,
+                      "category": "q"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "12/26/2018",
+                  "main": [
+                    {
+                      "amount": 32148,
+                      "category": "q"
+                    },
+                    {
+                      "amount": 30251,
+                      "category": "e"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "05/25/2019",
+                  "main": [
+                    {
+                      "amount": 34005,
+                      "category": "y"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "01/04/2019",
+                  "main": [
+                    {
+                      "amount": 8766,
+                      "category": "z"
+                    },
+                    {
+                      "amount": 28399,
+                      "category": "n"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "05/01/2019",
+                  "main": [
+                    {
+                      "amount": 2252,
+                      "category": "y"
+                    },
+                    {
+                      "amount": 28256,
+                      "category": "m"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Facescreen",
+              "salary": [
+                {
+                  "calendermonth": "12/01/2018",
+                  "main": [
+                    {
+                      "amount": 6833,
+                      "category": "n"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "08/27/2018",
+                  "main": [
+                    {
+                      "amount": 29168,
+                      "category": "b"
+                    },
+                    {
+                      "amount": 21788,
+                      "category": "y"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "04/25/2019",
+                  "main": [
+                    {
+                      "amount": 10291,
+                      "category": "y"
+                    },
+                    {
+                      "amount": 10068,
+                      "category": "p"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "03/19/2019",
+                  "main": [
+                    {
+                      "amount": 24488,
+                      "category": "c"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "09/11/2018",
+                  "main": [
+                    {
+                      "amount": 27567,
+                      "category": "h"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "03/24/2019",
+                  "main": [
+                    {
+                      "amount": 14798,
+                      "category": "o"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "THERABREATH TOOTHPASTE",
+              "salary": [
+                {
+                  "calendermonth": "06/17/2019",
+                  "main": [
+                    {
+                      "amount": 41531,
+                      "category": "j"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "02/28/2019",
+                  "main": [
+                    {
+                      "amount": 4541,
+                      "category": "n"
+                    },
+                    {
+                      "amount": 35288,
+                      "category": "c"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "05/18/2019",
+                  "main": [
+                    {
+                      "amount": 39783,
+                      "category": "x"
+                    },
+                    {
+                      "amount": 9149,
+                      "category": "j"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "02/22/2019",
+                  "main": [
+                    {
+                      "amount": 7582,
+                      "category": "a"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/03/2019",
+                  "main": [
+                    {
+                      "amount": 38147,
+                      "category": "s"
+                    },
+                    {
+                      "amount": 14365,
+                      "category": "a"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "01/09/2019",
+                  "main": [
+                    {
+                      "amount": 25421,
+                      "category": "g"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Hand Sanitizer",
+              "salary": [
+                {
+                  "calendermonth": "04/01/2019",
+                  "main": [
+                    {
+                      "amount": 13607,
+                      "category": "r"
+                    },
+                    {
+                      "amount": 1004,
+                      "category": "y"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "03/10/2019",
+                  "main": [
+                    {
+                      "amount": 4116,
+                      "category": "k"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/18/2018",
+                  "main": [
+                    {
+                      "amount": 40078,
+                      "category": "k"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "10/15/2018",
+                  "main": [
+                    {
+                      "amount": 23990,
+                      "category": "f"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "05/05/2019",
+                  "main": [
+                    {
+                      "amount": 45435,
+                      "category": "x"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "05/25/2019",
+                  "main": [
+                    {
+                      "amount": 4196,
+                      "category": "z"
+                    },
+                    {
+                      "amount": 1281,
+                      "category": "q"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Bone Repair",
+              "salary": [
+                {
+                  "calendermonth": "06/07/2019",
+                  "main": [
+                    {
+                      "amount": 40333,
+                      "category": "y"
+                    },
+                    {
+                      "amount": 17723,
+                      "category": "q"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/02/2019",
+                  "main": [
+                    {
+                      "amount": 27581,
+                      "category": "f"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "09/25/2018",
+                  "main": [
+                    {
+                      "amount": 1218,
+                      "category": "r"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "10/11/2018",
+                  "main": [
+                    {
+                      "amount": 2696,
+                      "category": "g"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "12/19/2018",
+                  "main": [
+                    {
+                      "amount": 42697,
+                      "category": "i"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "12/14/2018",
+                  "main": [
+                    {
+                      "amount": 30793,
+                      "category": "y"
+                    },
+                    {
+                      "amount": 21476,
+                      "category": "s"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Zoombox",
+          "detail": [
+            {
+              "description": "Personal Care",
+              "salary": [
+                {
+                  "calendermonth": "07/01/2019",
+                  "main": [
+                    {
+                      "amount": 38103,
+                      "category": "s"
+                    },
+                    {
+                      "amount": 43976,
+                      "category": "a"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "05/09/2019",
+                  "main": [
+                    {
+                      "amount": 35813,
+                      "category": "h"
+                    },
+                    {
+                      "amount": 37260,
+                      "category": "i"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "07/09/2019",
+                  "main": [
+                    {
+                      "amount": 47872,
+                      "category": "r"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "04/12/2019",
+                  "main": [
+                    {
+                      "amount": 41750,
+                      "category": "r"
+                    },
+                    {
+                      "amount": 36258,
+                      "category": "j"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/26/2018",
+                  "main": [
+                    {
+                      "amount": 43437,
+                      "category": "e"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/20/2018",
+                  "main": [
+                    {
+                      "amount": 49426,
+                      "category": "p"
+                    },
+                    {
+                      "amount": 14237,
+                      "category": "k"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Metformin Hydrochloride",
+              "salary": [
+                {
+                  "calendermonth": "01/05/2019",
+                  "main": [
+                    {
+                      "amount": 14670,
+                      "category": "d"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "02/16/2019",
+                  "main": [
+                    {
+                      "amount": 6991,
+                      "category": "h"
+                    },
+                    {
+                      "amount": 30850,
+                      "category": "t"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "10/08/2018",
+                  "main": [
+                    {
+                      "amount": 49030,
+                      "category": "x"
+                    },
+                    {
+                      "amount": 18370,
+                      "category": "y"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "08/12/2019",
+                  "main": [
+                    {
+                      "amount": 24513,
+                      "category": "o"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/20/2019",
+                  "main": [
+                    {
+                      "amount": 31739,
+                      "category": "t"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "08/18/2019",
+                  "main": [
+                    {
+                      "amount": 38358,
+                      "category": "d"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "PARURE DE LUMIERE LIGHT-DIFFUSING FOUNDATION WITH SUNSCREEN MOISTURE INFUSION BROAD SPECTRUM SPF 25 03 BEIGE NATUREL",
+              "salary": [
+                {
+                  "calendermonth": "07/28/2019",
+                  "main": [
+                    {
+                      "amount": 40702,
+                      "category": "g"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/05/2019",
+                  "main": [
+                    {
+                      "amount": 47652,
+                      "category": "p"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "02/25/2019",
+                  "main": [
+                    {
+                      "amount": 49994,
+                      "category": "j"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "07/10/2019",
+                  "main": [
+                    {
+                      "amount": 18884,
+                      "category": "r"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "04/15/2019",
+                  "main": [
+                    {
+                      "amount": 42835,
+                      "category": "j"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/22/2019",
+                  "main": [
+                    {
+                      "amount": 3209,
+                      "category": "x"
+                    },
+                    {
+                      "amount": 46400,
+                      "category": "j"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Thymus Mercurius",
+              "salary": [
+                {
+                  "calendermonth": "01/19/2019",
+                  "main": [
+                    {
+                      "amount": 27136,
+                      "category": "c"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/26/2018",
+                  "main": [
+                    {
+                      "amount": 8257,
+                      "category": "c"
+                    },
+                    {
+                      "amount": 20963,
+                      "category": "k"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/07/2018",
+                  "main": [
+                    {
+                      "amount": 42741,
+                      "category": "u"
+                    },
+                    {
+                      "amount": 35961,
+                      "category": "h"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "05/07/2019",
+                  "main": [
+                    {
+                      "amount": 12318,
+                      "category": "w"
+                    },
+                    {
+                      "amount": 9427,
+                      "category": "s"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "07/04/2019",
+                  "main": [
+                    {
+                      "amount": 6297,
+                      "category": "x"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "08/04/2019",
+                  "main": [
+                    {
+                      "amount": 47312,
+                      "category": "u"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Demizz",
+          "detail": [
+            {
+              "description": "TIAGABINE HYDROCHLORIDE",
+              "salary": [
+                {
+                  "calendermonth": "09/10/2018",
+                  "main": [
+                    {
+                      "amount": 15661,
+                      "category": "w"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "07/20/2019",
+                  "main": [
+                    {
+                      "amount": 11829,
+                      "category": "v"
+                    },
+                    {
+                      "amount": 25028,
+                      "category": "x"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/30/2019",
+                  "main": [
+                    {
+                      "amount": 37395,
+                      "category": "n"
+                    },
+                    {
+                      "amount": 10814,
+                      "category": "w"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "01/17/2019",
+                  "main": [
+                    {
+                      "amount": 25666,
+                      "category": "h"
+                    },
+                    {
+                      "amount": 48473,
+                      "category": "g"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "03/13/2019",
+                  "main": [
+                    {
+                      "amount": 37235,
+                      "category": "v"
+                    },
+                    {
+                      "amount": 37061,
+                      "category": "k"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "03/24/2019",
+                  "main": [
+                    {
+                      "amount": 5877,
+                      "category": "u"
+                    },
+                    {
+                      "amount": 31409,
+                      "category": "j"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "BB10 INSTANT SKIN PERFECTOR BROAD SPECTRUM",
+              "salary": [
+                {
+                  "calendermonth": "03/28/2019",
+                  "main": [
+                    {
+                      "amount": 40413,
+                      "category": "f"
+                    },
+                    {
+                      "amount": 38256,
+                      "category": "n"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "07/15/2019",
+                  "main": [
+                    {
+                      "amount": 2040,
+                      "category": "s"
+                    },
+                    {
+                      "amount": 19708,
+                      "category": "u"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/28/2018",
+                  "main": [
+                    {
+                      "amount": 35672,
+                      "category": "y"
+                    },
+                    {
+                      "amount": 41406,
+                      "category": "l"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/04/2019",
+                  "main": [
+                    {
+                      "amount": 38774,
+                      "category": "i"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/15/2018",
+                  "main": [
+                    {
+                      "amount": 27873,
+                      "category": "c"
+                    },
+                    {
+                      "amount": 3689,
+                      "category": "k"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/20/2018",
+                  "main": [
+                    {
+                      "amount": 4242,
+                      "category": "o"
+                    },
+                    {
+                      "amount": 49202,
+                      "category": "m"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Simvastatin",
+              "salary": [
+                {
+                  "calendermonth": "06/25/2019",
+                  "main": [
+                    {
+                      "amount": 43594,
+                      "category": "d"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "11/22/2018",
+                  "main": [
+                    {
+                      "amount": 21348,
+                      "category": "u"
+                    },
+                    {
+                      "amount": 8393,
+                      "category": "j"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "10/01/2018",
+                  "main": [
+                    {
+                      "amount": 21976,
+                      "category": "y"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/24/2019",
+                  "main": [
+                    {
+                      "amount": 37510,
+                      "category": "u"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "06/15/2019",
+                  "main": [
+                    {
+                      "amount": 1857,
+                      "category": "p"
+                    },
+                    {
+                      "amount": 17636,
+                      "category": "c"
+                    }
+                  ]
+                },
+                {
+                  "calendermonth": "08/24/2019",
+                  "main": [
+                    {
+                      "amount": 30835,
+                      "category": "b"
                     }
                   ]
                 }
