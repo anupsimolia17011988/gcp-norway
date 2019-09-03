@@ -1,0 +1,6545 @@
+[{
+  "ExternalCustomerNumber": 27972134376,
+  "CustomerConsentKey": "2019-01-08 13:32:56",
+  "CustomerDecision": "Jinny Cartwright",
+  "LocalTruthBeforeTax": 76458,
+  "Employer": [
+    {
+      "CVRNumber": 1675190688,
+      "CVRName": "Kazu",
+      "Decision": "Kamba",
+      "MonthlyInocmeBeforeTax": 72517,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 51652
+        },
+        {
+          "CalendarMonth": "12/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 35622
+        },
+        {
+          "CalendarMonth": "29/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 77908
+        },
+        {
+          "CalendarMonth": "26/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 86676
+        },
+        {
+          "CalendarMonth": "12/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 32093
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1609786279,
+      "CVRName": "Mydo",
+      "Decision": "Oloo",
+      "MonthlyInocmeBeforeTax": 49006,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 29604
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2504829057,
+      "CVRName": "Mydo",
+      "Decision": "Avavee",
+      "MonthlyInocmeBeforeTax": 80383,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "16/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 40491
+        },
+        {
+          "CalendarMonth": "30/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 34227
+        },
+        {
+          "CalendarMonth": "12/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 29572
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 21380725836,
+  "CustomerConsentKey": "2019-08-11 07:30:55",
+  "CustomerDecision": "Russ Fadel",
+  "LocalTruthBeforeTax": 7968,
+  "Employer": [
+    {
+      "CVRNumber": 1276214008,
+      "CVRName": "Flipopia",
+      "Decision": "Voomm",
+      "MonthlyInocmeBeforeTax": 90338,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 12456
+        },
+        {
+          "CalendarMonth": "07/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 40772
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2124263349,
+      "CVRName": "Buzzshare",
+      "Decision": "Npath",
+      "MonthlyInocmeBeforeTax": 23992,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "14/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 20457
+        },
+        {
+          "CalendarMonth": "21/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 73657
+        },
+        {
+          "CalendarMonth": "01/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 11000
+        },
+        {
+          "CalendarMonth": "06/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 86959
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 27041946730,
+  "CustomerConsentKey": "2018-12-22 20:42:25",
+  "CustomerDecision": "Latrisha Smith",
+  "LocalTruthBeforeTax": 72556,
+  "Employer": [
+    {
+      "CVRNumber": 1037837827,
+      "CVRName": "Reallinks",
+      "Decision": "Brightdog",
+      "MonthlyInocmeBeforeTax": 89667,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "29/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 40616
+        },
+        {
+          "CalendarMonth": "07/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 88432
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2182105802,
+      "CVRName": "Viva",
+      "Decision": "Skyndu",
+      "MonthlyInocmeBeforeTax": 35946,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "16/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 59398
+        },
+        {
+          "CalendarMonth": "06/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 93704
+        },
+        {
+          "CalendarMonth": "28/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 99848
+        },
+        {
+          "CalendarMonth": "29/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 45289
+        },
+        {
+          "CalendarMonth": "22/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 29268
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1652385530,
+      "CVRName": "Fivebridge",
+      "Decision": "Zoomcast",
+      "MonthlyInocmeBeforeTax": 48560,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "16/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 98586
+        },
+        {
+          "CalendarMonth": "23/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 42870
+        },
+        {
+          "CalendarMonth": "13/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 18305
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1709512962,
+      "CVRName": "Oozz",
+      "Decision": "Rhybox",
+      "MonthlyInocmeBeforeTax": 59182,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 95253
+        },
+        {
+          "CalendarMonth": "15/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 94879
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 33804869302,
+  "CustomerConsentKey": "2019-08-31 17:09:08",
+  "CustomerDecision": "Paul Grady",
+  "LocalTruthBeforeTax": 71269,
+  "Employer": [
+    {
+      "CVRNumber": 2423669204,
+      "CVRName": "Gigabox",
+      "Decision": "Quinu",
+      "MonthlyInocmeBeforeTax": 96521,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 69857
+        },
+        {
+          "CalendarMonth": "06/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 33113
+        },
+        {
+          "CalendarMonth": "25/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 16248
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2279536254,
+      "CVRName": "Skibox",
+      "Decision": "Skaboo",
+      "MonthlyInocmeBeforeTax": 13023,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "10/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 17195
+        },
+        {
+          "CalendarMonth": "10/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 86264
+        },
+        {
+          "CalendarMonth": "25/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 32491
+        },
+        {
+          "CalendarMonth": "13/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 58643
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1969153749,
+      "CVRName": "Meeveo",
+      "Decision": "Mudo",
+      "MonthlyInocmeBeforeTax": 54267,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "10/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 37195
+        },
+        {
+          "CalendarMonth": "23/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 21340
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 29655856652,
+  "CustomerConsentKey": "2019-06-17 19:02:54",
+  "CustomerDecision": "Ricky Bruen",
+  "LocalTruthBeforeTax": 22903,
+  "Employer": [
+    {
+      "CVRNumber": 1873802199,
+      "CVRName": "Aibox",
+      "Decision": "Eayo",
+      "MonthlyInocmeBeforeTax": 21782,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 42092
+        },
+        {
+          "CalendarMonth": "25/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 21153
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2484167648,
+      "CVRName": "Cogibox",
+      "Decision": "Jabbersphere",
+      "MonthlyInocmeBeforeTax": 12033,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "30/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 79680
+        },
+        {
+          "CalendarMonth": "23/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 13512
+        },
+        {
+          "CalendarMonth": "04/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 15176
+        },
+        {
+          "CalendarMonth": "17/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 85376
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1735638208,
+      "CVRName": "Cogilith",
+      "Decision": "Meetz",
+      "MonthlyInocmeBeforeTax": 19850,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 15906
+        },
+        {
+          "CalendarMonth": "10/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 17862
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 43712175401,
+  "CustomerConsentKey": "2018-12-23 13:31:22",
+  "CustomerDecision": "Quinton Marvin",
+  "LocalTruthBeforeTax": 64647,
+  "Employer": [
+    {
+      "CVRNumber": 2333785947,
+      "CVRName": "Skynoodle",
+      "Decision": "Geba",
+      "MonthlyInocmeBeforeTax": 1402,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 77563
+        },
+        {
+          "CalendarMonth": "30/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 60598
+        },
+        {
+          "CalendarMonth": "22/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 84169
+        },
+        {
+          "CalendarMonth": "06/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 96294
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1461749029,
+      "CVRName": "Katz",
+      "Decision": "Jatri",
+      "MonthlyInocmeBeforeTax": 46433,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "10/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 15997
+        },
+        {
+          "CalendarMonth": "30/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 98143
+        },
+        {
+          "CalendarMonth": "06/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 18034
+        },
+        {
+          "CalendarMonth": "02/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 42622
+        },
+        {
+          "CalendarMonth": "20/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 51160
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1518925363,
+      "CVRName": "Jabberbean",
+      "Decision": "Thoughtworks",
+      "MonthlyInocmeBeforeTax": 34476,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 86383
+        },
+        {
+          "CalendarMonth": "05/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 92316
+        },
+        {
+          "CalendarMonth": "26/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 42440
+        },
+        {
+          "CalendarMonth": "03/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 74018
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1027538636,
+      "CVRName": "Edgeblab",
+      "Decision": "Blognation",
+      "MonthlyInocmeBeforeTax": 92569,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "17/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 30489
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2704246774,
+      "CVRName": "Camimbo",
+      "Decision": "Fivespan",
+      "MonthlyInocmeBeforeTax": 52731,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 77854
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 24661664221,
+  "CustomerConsentKey": "2019-03-31 13:56:45",
+  "CustomerDecision": "Alphonso Hilpert",
+  "LocalTruthBeforeTax": 9448,
+  "Employer": [
+    {
+      "CVRNumber": 2810538608,
+      "CVRName": "Chatterbridge",
+      "Decision": "Vimbo",
+      "MonthlyInocmeBeforeTax": 24880,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "12/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 84701
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2916773427,
+      "CVRName": "Youspan",
+      "Decision": "Skinte",
+      "MonthlyInocmeBeforeTax": 96806,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 31490
+        },
+        {
+          "CalendarMonth": "17/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 77763
+        },
+        {
+          "CalendarMonth": "27/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 66219
+        },
+        {
+          "CalendarMonth": "29/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 96981
+        },
+        {
+          "CalendarMonth": "20/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 29950
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 35259574848,
+  "CustomerConsentKey": "2019-08-14 12:52:01",
+  "CustomerDecision": "Laverna Osinski",
+  "LocalTruthBeforeTax": 16787,
+  "Employer": [
+    {
+      "CVRNumber": 2673804169,
+      "CVRName": "Edgeclub",
+      "Decision": "Devshare",
+      "MonthlyInocmeBeforeTax": 50264,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 90816
+        },
+        {
+          "CalendarMonth": "21/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 80955
+        },
+        {
+          "CalendarMonth": "27/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 18841
+        },
+        {
+          "CalendarMonth": "08/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 78760
+        },
+        {
+          "CalendarMonth": "08/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 96403
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1414800793,
+      "CVRName": "Blogspan",
+      "Decision": "Thoughtstorm",
+      "MonthlyInocmeBeforeTax": 10826,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "09/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 26024
+        },
+        {
+          "CalendarMonth": "28/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 16102
+        },
+        {
+          "CalendarMonth": "19/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 60884
+        },
+        {
+          "CalendarMonth": "30/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 51165
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 43082322119,
+  "CustomerConsentKey": "2019-02-17 11:21:49",
+  "CustomerDecision": "Laurinda Frami",
+  "LocalTruthBeforeTax": 56135,
+  "Employer": [
+    {
+      "CVRNumber": 1605479721,
+      "CVRName": "Eimbee",
+      "Decision": "Youopia",
+      "MonthlyInocmeBeforeTax": 55570,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "06/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 33900
+        },
+        {
+          "CalendarMonth": "26/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 12196
+        },
+        {
+          "CalendarMonth": "18/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 40982
+        },
+        {
+          "CalendarMonth": "24/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 44479
+        },
+        {
+          "CalendarMonth": "14/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 11810
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2041682080,
+      "CVRName": "Twitterbridge",
+      "Decision": "Fiveclub",
+      "MonthlyInocmeBeforeTax": 59123,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "17/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 53826
+        },
+        {
+          "CalendarMonth": "15/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 46994
+        },
+        {
+          "CalendarMonth": "22/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 80915
+        },
+        {
+          "CalendarMonth": "12/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 13683
+        },
+        {
+          "CalendarMonth": "22/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 98808
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1202049855,
+      "CVRName": "Eabox",
+      "Decision": "Feedfire",
+      "MonthlyInocmeBeforeTax": 59391,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 58853
+        },
+        {
+          "CalendarMonth": "04/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 94952
+        },
+        {
+          "CalendarMonth": "10/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 18619
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1753658400,
+      "CVRName": "Mydo",
+      "Decision": "Eabox",
+      "MonthlyInocmeBeforeTax": 43216,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "19/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 78590
+        },
+        {
+          "CalendarMonth": "23/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 83335
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1957860653,
+      "CVRName": "Thoughtworks",
+      "Decision": "Nlounge",
+      "MonthlyInocmeBeforeTax": 93515,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "30/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 40457
+        },
+        {
+          "CalendarMonth": "08/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 82929
+        },
+        {
+          "CalendarMonth": "05/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 59406
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 38967007360,
+  "CustomerConsentKey": "2019-06-14 00:04:34",
+  "CustomerDecision": "John Fahey",
+  "LocalTruthBeforeTax": 21848,
+  "Employer": [
+    {
+      "CVRNumber": 2458154251,
+      "CVRName": "Chatterbridge",
+      "Decision": "Dabshots",
+      "MonthlyInocmeBeforeTax": 99168,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "07/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 46800
+        },
+        {
+          "CalendarMonth": "13/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 46486
+        },
+        {
+          "CalendarMonth": "18/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 56591
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1030286418,
+      "CVRName": "Oyope",
+      "Decision": "Realfire",
+      "MonthlyInocmeBeforeTax": 84461,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 36776
+        },
+        {
+          "CalendarMonth": "21/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 65608
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1482871319,
+      "CVRName": "Meedoo",
+      "Decision": "Linktype",
+      "MonthlyInocmeBeforeTax": 63724,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "24/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 94991
+        },
+        {
+          "CalendarMonth": "07/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 65249
+        },
+        {
+          "CalendarMonth": "23/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 73590
+        },
+        {
+          "CalendarMonth": "20/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 33075
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1759958659,
+      "CVRName": "Quaxo",
+      "Decision": "Latz",
+      "MonthlyInocmeBeforeTax": 92201,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 34395
+        },
+        {
+          "CalendarMonth": "26/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 18214
+        },
+        {
+          "CalendarMonth": "17/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 62699
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1335538202,
+      "CVRName": "Tagtune",
+      "Decision": "Yakijo",
+      "MonthlyInocmeBeforeTax": 86338,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 69036
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 42503222279,
+  "CustomerConsentKey": "2019-04-12 20:48:56",
+  "CustomerDecision": "Bethann Ward",
+  "LocalTruthBeforeTax": 78214,
+  "Employer": [
+    {
+      "CVRNumber": 2526677121,
+      "CVRName": "Digitube",
+      "Decision": "Roodel",
+      "MonthlyInocmeBeforeTax": 45118,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "06/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 60627
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2065632677,
+      "CVRName": "Thoughtblab",
+      "Decision": "DabZ",
+      "MonthlyInocmeBeforeTax": 23783,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 83299
+        },
+        {
+          "CalendarMonth": "10/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 29167
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2942637354,
+      "CVRName": "Einti",
+      "Decision": "Bluejam",
+      "MonthlyInocmeBeforeTax": 11606,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 88449
+        },
+        {
+          "CalendarMonth": "28/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 33467
+        },
+        {
+          "CalendarMonth": "20/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 42210
+        },
+        {
+          "CalendarMonth": "23/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 91664
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 39095219106,
+  "CustomerConsentKey": "2019-02-01 09:00:39",
+  "CustomerDecision": "Jazmin Auer",
+  "LocalTruthBeforeTax": 66751,
+  "Employer": [
+    {
+      "CVRNumber": 2357374308,
+      "CVRName": "Plajo",
+      "Decision": "Jetwire",
+      "MonthlyInocmeBeforeTax": 93929,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 46245
+        },
+        {
+          "CalendarMonth": "25/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 93633
+        },
+        {
+          "CalendarMonth": "26/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 80892
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2519557821,
+      "CVRName": "Tambee",
+      "Decision": "Jazzy",
+      "MonthlyInocmeBeforeTax": 31501,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "24/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 90910
+        },
+        {
+          "CalendarMonth": "24/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 58018
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2425172218,
+      "CVRName": "Latz",
+      "Decision": "Wordify",
+      "MonthlyInocmeBeforeTax": 88307,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "16/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 25102
+        },
+        {
+          "CalendarMonth": "04/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 43160
+        },
+        {
+          "CalendarMonth": "28/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 68927
+        },
+        {
+          "CalendarMonth": "26/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 67877
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2968591680,
+      "CVRName": "Eazzy",
+      "Decision": "Eare",
+      "MonthlyInocmeBeforeTax": 38343,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 42678
+        },
+        {
+          "CalendarMonth": "22/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 35276
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 21022707851,
+  "CustomerConsentKey": "2019-07-08 17:18:14",
+  "CustomerDecision": "Juan Beer",
+  "LocalTruthBeforeTax": 66335,
+  "Employer": [
+    {
+      "CVRNumber": 2348646440,
+      "CVRName": "Twitterbeat",
+      "Decision": "Edgeblab",
+      "MonthlyInocmeBeforeTax": 94170,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 89495
+        },
+        {
+          "CalendarMonth": "12/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 19793
+        },
+        {
+          "CalendarMonth": "10/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 52992
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2391906228,
+      "CVRName": "Ozu",
+      "Decision": "Zoomzone",
+      "MonthlyInocmeBeforeTax": 83637,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 49332
+        },
+        {
+          "CalendarMonth": "09/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 10505
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2109320412,
+      "CVRName": "Thoughtblab",
+      "Decision": "Skipfire",
+      "MonthlyInocmeBeforeTax": 38556,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 96535
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1201369601,
+      "CVRName": "Katz",
+      "Decision": "Leenti",
+      "MonthlyInocmeBeforeTax": 98609,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 47239
+        },
+        {
+          "CalendarMonth": "17/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 61624
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1814258575,
+      "CVRName": "Realcube",
+      "Decision": "Innotype",
+      "MonthlyInocmeBeforeTax": 55609,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "10/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 91425
+        },
+        {
+          "CalendarMonth": "23/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 21622
+        },
+        {
+          "CalendarMonth": "16/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 18567
+        },
+        {
+          "CalendarMonth": "17/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 41140
+        },
+        {
+          "CalendarMonth": "31/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 69643
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 35528748826,
+  "CustomerConsentKey": "2019-05-01 09:05:37",
+  "CustomerDecision": "Newton Huel",
+  "LocalTruthBeforeTax": 81498,
+  "Employer": [
+    {
+      "CVRNumber": 1660768120,
+      "CVRName": "Feednation",
+      "Decision": "Blognation",
+      "MonthlyInocmeBeforeTax": 18128,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "10/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 68591
+        },
+        {
+          "CalendarMonth": "19/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 18112
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 34253800534,
+  "CustomerConsentKey": "2018-12-18 01:59:20",
+  "CustomerDecision": "Madalene Morar",
+  "LocalTruthBeforeTax": 93328,
+  "Employer": [
+    {
+      "CVRNumber": 1692832563,
+      "CVRName": "Feedmix",
+      "Decision": "Devshare",
+      "MonthlyInocmeBeforeTax": 94067,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "21/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 58494
+        },
+        {
+          "CalendarMonth": "09/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 47487
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2588400174,
+      "CVRName": "Topicblab",
+      "Decision": "Jaxbean",
+      "MonthlyInocmeBeforeTax": 75621,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "14/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 44342
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2414588958,
+      "CVRName": "Tazzy",
+      "Decision": "Dazzlesphere",
+      "MonthlyInocmeBeforeTax": 19249,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "16/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 69280
+        },
+        {
+          "CalendarMonth": "20/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 99583
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 32694893151,
+  "CustomerConsentKey": "2019-06-01 11:24:24",
+  "CustomerDecision": "Aron Keebler",
+  "LocalTruthBeforeTax": 16782,
+  "Employer": [
+    {
+      "CVRNumber": 2562184870,
+      "CVRName": "Feednation",
+      "Decision": "Twimbo",
+      "MonthlyInocmeBeforeTax": 76842,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 19155
+        },
+        {
+          "CalendarMonth": "30/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 15419
+        },
+        {
+          "CalendarMonth": "14/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 43803
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2142715945,
+      "CVRName": "Shufflester",
+      "Decision": "Gigabox",
+      "MonthlyInocmeBeforeTax": 78715,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 18268
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 28290004599,
+  "CustomerConsentKey": "2019-04-15 22:50:43",
+  "CustomerDecision": "Vincent Bashirian",
+  "LocalTruthBeforeTax": 47662,
+  "Employer": [
+    {
+      "CVRNumber": 1723649798,
+      "CVRName": "Vinder",
+      "Decision": "Blogtag",
+      "MonthlyInocmeBeforeTax": 35276,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "13/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 74490
+        },
+        {
+          "CalendarMonth": "17/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 41023
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 22333709010,
+  "CustomerConsentKey": "2019-07-29 23:43:34",
+  "CustomerDecision": "Branden Miller",
+  "LocalTruthBeforeTax": 7485,
+  "Employer": [
+    {
+      "CVRNumber": 1953836611,
+      "CVRName": "Babbleblab",
+      "Decision": "Tazzy",
+      "MonthlyInocmeBeforeTax": 37836,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 83597
+        },
+        {
+          "CalendarMonth": "21/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 94537
+        },
+        {
+          "CalendarMonth": "24/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 64929
+        },
+        {
+          "CalendarMonth": "07/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 41173
+        },
+        {
+          "CalendarMonth": "03/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 56830
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 47642509369,
+  "CustomerConsentKey": "2019-05-11 10:08:30",
+  "CustomerDecision": "Patrick Vandervort",
+  "LocalTruthBeforeTax": 60383,
+  "Employer": [
+    {
+      "CVRNumber": 1739784984,
+      "CVRName": "Oyoba",
+      "Decision": "Oloo",
+      "MonthlyInocmeBeforeTax": 39573,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 20499
+        },
+        {
+          "CalendarMonth": "30/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 76873
+        },
+        {
+          "CalendarMonth": "28/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 58373
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1550638725,
+      "CVRName": "Meedoo",
+      "Decision": "Topicstorm",
+      "MonthlyInocmeBeforeTax": 31283,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "17/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 66212
+        },
+        {
+          "CalendarMonth": "14/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 48867
+        },
+        {
+          "CalendarMonth": "07/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 70158
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 32967741637,
+  "CustomerConsentKey": "2019-03-20 22:20:40",
+  "CustomerDecision": "Gene Lang",
+  "LocalTruthBeforeTax": 19640,
+  "Employer": [
+    {
+      "CVRNumber": 1916399517,
+      "CVRName": "Avamm",
+      "Decision": "Devpoint",
+      "MonthlyInocmeBeforeTax": 61805,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "19/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 26274
+        },
+        {
+          "CalendarMonth": "24/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 47050
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2303193323,
+      "CVRName": "Gabtype",
+      "Decision": "Yambee",
+      "MonthlyInocmeBeforeTax": 59109,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 16534
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2524096633,
+      "CVRName": "Topdrive",
+      "Decision": "Tavu",
+      "MonthlyInocmeBeforeTax": 15562,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "07/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 61035
+        },
+        {
+          "CalendarMonth": "26/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 74328
+        },
+        {
+          "CalendarMonth": "08/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 15421
+        },
+        {
+          "CalendarMonth": "31/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 60475
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2414871387,
+      "CVRName": "Photofeed",
+      "Decision": "Tagcat",
+      "MonthlyInocmeBeforeTax": 12079,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 61711
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2662230136,
+      "CVRName": "Gabtype",
+      "Decision": "Vipe",
+      "MonthlyInocmeBeforeTax": 37079,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 57668
+        },
+        {
+          "CalendarMonth": "14/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 12136
+        },
+        {
+          "CalendarMonth": "06/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 35045
+        },
+        {
+          "CalendarMonth": "23/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 41328
+        },
+        {
+          "CalendarMonth": "15/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 39994
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 37925819885,
+  "CustomerConsentKey": "2018-12-12 19:16:58",
+  "CustomerDecision": "Timothy Gleason",
+  "LocalTruthBeforeTax": 39566,
+  "Employer": [
+    {
+      "CVRNumber": 1632154354,
+      "CVRName": "Agivu",
+      "Decision": "Fivespan",
+      "MonthlyInocmeBeforeTax": 16597,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 47586
+        },
+        {
+          "CalendarMonth": "29/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 98098
+        },
+        {
+          "CalendarMonth": "07/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 46222
+        },
+        {
+          "CalendarMonth": "30/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 32423
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2044057347,
+      "CVRName": "Yodel",
+      "Decision": "Brainsphere",
+      "MonthlyInocmeBeforeTax": 15132,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 40435
+        },
+        {
+          "CalendarMonth": "17/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 56804
+        },
+        {
+          "CalendarMonth": "26/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 68832
+        },
+        {
+          "CalendarMonth": "03/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 70497
+        },
+        {
+          "CalendarMonth": "15/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 99621
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1183730709,
+      "CVRName": "Photobug",
+      "Decision": "Bubbletube",
+      "MonthlyInocmeBeforeTax": 63613,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 19659
+        },
+        {
+          "CalendarMonth": "09/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 89470
+        },
+        {
+          "CalendarMonth": "24/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 75690
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2021475631,
+      "CVRName": "Livepath",
+      "Decision": "Topiclounge",
+      "MonthlyInocmeBeforeTax": 68523,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 26041
+        },
+        {
+          "CalendarMonth": "24/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 95428
+        },
+        {
+          "CalendarMonth": "15/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 41524
+        },
+        {
+          "CalendarMonth": "27/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 94608
+        },
+        {
+          "CalendarMonth": "28/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 48848
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 29515201213,
+  "CustomerConsentKey": "2019-08-23 05:28:13",
+  "CustomerDecision": "Stanton Bradtke",
+  "LocalTruthBeforeTax": 73831,
+  "Employer": [
+    {
+      "CVRNumber": 1746625239,
+      "CVRName": "Gigazoom",
+      "Decision": "Twimm",
+      "MonthlyInocmeBeforeTax": 22797,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 15490
+        },
+        {
+          "CalendarMonth": "14/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 66893
+        },
+        {
+          "CalendarMonth": "19/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 53856
+        },
+        {
+          "CalendarMonth": "12/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 55605
+        },
+        {
+          "CalendarMonth": "08/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 91900
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2983216113,
+      "CVRName": "Avamm",
+      "Decision": "Dazzlesphere",
+      "MonthlyInocmeBeforeTax": 86880,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "10/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 48937
+        },
+        {
+          "CalendarMonth": "14/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 20265
+        },
+        {
+          "CalendarMonth": "01/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 17828
+        },
+        {
+          "CalendarMonth": "20/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 32416
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1511374422,
+      "CVRName": "Meejo",
+      "Decision": "Wordware",
+      "MonthlyInocmeBeforeTax": 23817,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 26755
+        },
+        {
+          "CalendarMonth": "10/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 17881
+        },
+        {
+          "CalendarMonth": "01/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 70590
+        },
+        {
+          "CalendarMonth": "22/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 29619
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2826617836,
+      "CVRName": "Ooba",
+      "Decision": "Gigabox",
+      "MonthlyInocmeBeforeTax": 33897,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "12/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 92128
+        },
+        {
+          "CalendarMonth": "11/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 99598
+        },
+        {
+          "CalendarMonth": "21/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 69990
+        },
+        {
+          "CalendarMonth": "04/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 34605
+        },
+        {
+          "CalendarMonth": "22/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 58431
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2310333931,
+      "CVRName": "Linktype",
+      "Decision": "Linkbuzz",
+      "MonthlyInocmeBeforeTax": 13792,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 48995
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 37415246332,
+  "CustomerConsentKey": "2019-01-30 00:08:32",
+  "CustomerDecision": "Verlene Halvorson",
+  "LocalTruthBeforeTax": 6247,
+  "Employer": [
+    {
+      "CVRNumber": 2896702509,
+      "CVRName": "Tagcat",
+      "Decision": "Aimbo",
+      "MonthlyInocmeBeforeTax": 63482,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 50039
+        },
+        {
+          "CalendarMonth": "09/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 25331
+        },
+        {
+          "CalendarMonth": "23/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 50191
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 43937052719,
+  "CustomerConsentKey": "2019-06-08 14:03:55",
+  "CustomerDecision": "Lizbeth Johns",
+  "LocalTruthBeforeTax": 71295,
+  "Employer": [
+    {
+      "CVRNumber": 1339069916,
+      "CVRName": "Kamba",
+      "Decision": "Lazzy",
+      "MonthlyInocmeBeforeTax": 72501,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "29/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 89980
+        },
+        {
+          "CalendarMonth": "01/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 31732
+        },
+        {
+          "CalendarMonth": "14/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 23026
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1636809693,
+      "CVRName": "Kayveo",
+      "Decision": "Jaxbean",
+      "MonthlyInocmeBeforeTax": 52605,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 94894
+        },
+        {
+          "CalendarMonth": "15/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 29135
+        },
+        {
+          "CalendarMonth": "09/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 57154
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2913957955,
+      "CVRName": "Centizu",
+      "Decision": "Kazu",
+      "MonthlyInocmeBeforeTax": 50998,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 16400
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1943595726,
+      "CVRName": "Skyndu",
+      "Decision": "Skaboo",
+      "MonthlyInocmeBeforeTax": 72448,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "18/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 25419
+        },
+        {
+          "CalendarMonth": "13/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 77230
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 46880353317,
+  "CustomerConsentKey": "2019-02-14 02:50:34",
+  "CustomerDecision": "Elin Pfeffer",
+  "LocalTruthBeforeTax": 71086,
+  "Employer": [
+    {
+      "CVRNumber": 1745137864,
+      "CVRName": "Brainsphere",
+      "Decision": "Vidoo",
+      "MonthlyInocmeBeforeTax": 54923,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 37711
+        },
+        {
+          "CalendarMonth": "08/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 19521
+        },
+        {
+          "CalendarMonth": "13/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 74392
+        },
+        {
+          "CalendarMonth": "27/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 75813
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2750019140,
+      "CVRName": "Meedoo",
+      "Decision": "Leexo",
+      "MonthlyInocmeBeforeTax": 64846,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 34790
+        },
+        {
+          "CalendarMonth": "06/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 17890
+        },
+        {
+          "CalendarMonth": "26/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 90037
+        },
+        {
+          "CalendarMonth": "05/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 31750
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 33364800937,
+  "CustomerConsentKey": "2019-05-07 02:55:26",
+  "CustomerDecision": "Homer Cassin",
+  "LocalTruthBeforeTax": 36403,
+  "Employer": [
+    {
+      "CVRNumber": 1337196996,
+      "CVRName": "Realmix",
+      "Decision": "Meevee",
+      "MonthlyInocmeBeforeTax": 83172,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "19/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 83584
+        },
+        {
+          "CalendarMonth": "14/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 56034
+        },
+        {
+          "CalendarMonth": "14/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 88506
+        },
+        {
+          "CalendarMonth": "01/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 15465
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 39756892501,
+  "CustomerConsentKey": "2018-12-26 08:56:30",
+  "CustomerDecision": "Mauricio Haag",
+  "LocalTruthBeforeTax": 7573,
+  "Employer": [
+    {
+      "CVRNumber": 2135823193,
+      "CVRName": "Twiyo",
+      "Decision": "Aivee",
+      "MonthlyInocmeBeforeTax": 50366,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 42785
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2845317020,
+      "CVRName": "Photobug",
+      "Decision": "Vidoo",
+      "MonthlyInocmeBeforeTax": 88884,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "06/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 65606
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2428030264,
+      "CVRName": "Quatz",
+      "Decision": "Mybuzz",
+      "MonthlyInocmeBeforeTax": 93776,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "13/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 46321
+        },
+        {
+          "CalendarMonth": "22/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 12285
+        },
+        {
+          "CalendarMonth": "12/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 48548
+        },
+        {
+          "CalendarMonth": "26/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 34197
+        },
+        {
+          "CalendarMonth": "23/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 58335
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1781216033,
+      "CVRName": "Twimm",
+      "Decision": "Centidel",
+      "MonthlyInocmeBeforeTax": 93858,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 18023
+        },
+        {
+          "CalendarMonth": "13/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 14627
+        },
+        {
+          "CalendarMonth": "05/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 70460
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 43495050041,
+  "CustomerConsentKey": "2018-10-10 10:09:09",
+  "CustomerDecision": "Reyes Boehm",
+  "LocalTruthBeforeTax": 2215,
+  "Employer": [
+    {
+      "CVRNumber": 1920490286,
+      "CVRName": "Thoughtmix",
+      "Decision": "Tagopia",
+      "MonthlyInocmeBeforeTax": 13406,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 18078
+        },
+        {
+          "CalendarMonth": "28/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 86080
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1408016370,
+      "CVRName": "Mydeo",
+      "Decision": "Teklist",
+      "MonthlyInocmeBeforeTax": 42466,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 88334
+        },
+        {
+          "CalendarMonth": "16/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 52468
+        },
+        {
+          "CalendarMonth": "17/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 97611
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 36749139961,
+  "CustomerConsentKey": "2019-01-01 17:03:11",
+  "CustomerDecision": "Larita Kohler",
+  "LocalTruthBeforeTax": 25370,
+  "Employer": [
+    {
+      "CVRNumber": 1658762565,
+      "CVRName": "Aimbu",
+      "Decision": "Yakidoo",
+      "MonthlyInocmeBeforeTax": 83142,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "21/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 71541
+        },
+        {
+          "CalendarMonth": "31/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 49113
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1677025727,
+      "CVRName": "Oyoyo",
+      "Decision": "Aimbo",
+      "MonthlyInocmeBeforeTax": 71339,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 28082
+        },
+        {
+          "CalendarMonth": "26/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 89113
+        },
+        {
+          "CalendarMonth": "31/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 68952
+        },
+        {
+          "CalendarMonth": "10/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 24960
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2247288692,
+      "CVRName": "Skyndu",
+      "Decision": "Fivechat",
+      "MonthlyInocmeBeforeTax": 30439,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 68492
+        },
+        {
+          "CalendarMonth": "15/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 40862
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 30741569579,
+  "CustomerConsentKey": "2019-01-30 02:35:45",
+  "CustomerDecision": "Tam Jacobson",
+  "LocalTruthBeforeTax": 50224,
+  "Employer": [
+    {
+      "CVRNumber": 1623491653,
+      "CVRName": "Quire",
+      "Decision": "Vipe",
+      "MonthlyInocmeBeforeTax": 36131,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 17871
+        },
+        {
+          "CalendarMonth": "31/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 11255
+        },
+        {
+          "CalendarMonth": "30/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 69681
+        },
+        {
+          "CalendarMonth": "12/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 56089
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2272191437,
+      "CVRName": "Twitterbeat",
+      "Decision": "Wikibox",
+      "MonthlyInocmeBeforeTax": 27292,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "21/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 67991
+        },
+        {
+          "CalendarMonth": "12/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 35740
+        },
+        {
+          "CalendarMonth": "15/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 25009
+        },
+        {
+          "CalendarMonth": "21/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 59643
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 32905013015,
+  "CustomerConsentKey": "2019-08-24 07:50:47",
+  "CustomerDecision": "Kirstie Spinka",
+  "LocalTruthBeforeTax": 7246,
+  "Employer": [
+    {
+      "CVRNumber": 1635767461,
+      "CVRName": "Skalith",
+      "Decision": "Zava",
+      "MonthlyInocmeBeforeTax": 65781,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 68806
+        },
+        {
+          "CalendarMonth": "20/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 35443
+        },
+        {
+          "CalendarMonth": "16/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 46067
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1171506266,
+      "CVRName": "Divape",
+      "Decision": "Yombu",
+      "MonthlyInocmeBeforeTax": 29395,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 98732
+        },
+        {
+          "CalendarMonth": "09/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 80462
+        },
+        {
+          "CalendarMonth": "29/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 62328
+        },
+        {
+          "CalendarMonth": "26/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 81381
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1765763475,
+      "CVRName": "Jazzy",
+      "Decision": "Tambee",
+      "MonthlyInocmeBeforeTax": 53629,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "21/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 79924
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1927773191,
+      "CVRName": "Jaxworks",
+      "Decision": "Thoughtbeat",
+      "MonthlyInocmeBeforeTax": 66084,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 24131
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 23599773099,
+  "CustomerConsentKey": "2019-02-12 10:59:30",
+  "CustomerDecision": "Amado Schamberger",
+  "LocalTruthBeforeTax": 98847,
+  "Employer": [
+    {
+      "CVRNumber": 1747293244,
+      "CVRName": "Skynoodle",
+      "Decision": "Babblestorm",
+      "MonthlyInocmeBeforeTax": 14269,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 73683
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1673403848,
+      "CVRName": "Voomm",
+      "Decision": "Skyvu",
+      "MonthlyInocmeBeforeTax": 38541,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 31187
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2870122702,
+      "CVRName": "Cogidoo",
+      "Decision": "Vidoo",
+      "MonthlyInocmeBeforeTax": 13935,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "30/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 40063
+        },
+        {
+          "CalendarMonth": "17/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 32534
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1461497063,
+      "CVRName": "Topicstorm",
+      "Decision": "Babblestorm",
+      "MonthlyInocmeBeforeTax": 78354,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 88573
+        },
+        {
+          "CalendarMonth": "24/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 13345
+        },
+        {
+          "CalendarMonth": "18/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 49809
+        },
+        {
+          "CalendarMonth": "03/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 17511
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2543784554,
+      "CVRName": "Blogspan",
+      "Decision": "Oodoo",
+      "MonthlyInocmeBeforeTax": 20731,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 26951
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 34839307505,
+  "CustomerConsentKey": "2018-11-21 02:16:07",
+  "CustomerDecision": "Jaye McKenzie",
+  "LocalTruthBeforeTax": 9904,
+  "Employer": [
+    {
+      "CVRNumber": 1876793089,
+      "CVRName": "Livefish",
+      "Decision": "Riffpedia",
+      "MonthlyInocmeBeforeTax": 28633,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 72624
+        },
+        {
+          "CalendarMonth": "07/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 97644
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2185873765,
+      "CVRName": "Quatz",
+      "Decision": "Linkbridge",
+      "MonthlyInocmeBeforeTax": 22385,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "17/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 34402
+        },
+        {
+          "CalendarMonth": "11/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 38727
+        },
+        {
+          "CalendarMonth": "02/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 49190
+        },
+        {
+          "CalendarMonth": "19/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 22454
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1987228051,
+      "CVRName": "Divanoodle",
+      "Decision": "Skivee",
+      "MonthlyInocmeBeforeTax": 89467,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 57883
+        },
+        {
+          "CalendarMonth": "02/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 28832
+        },
+        {
+          "CalendarMonth": "02/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 27846
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 45188834611,
+  "CustomerConsentKey": "2019-02-03 02:46:39",
+  "CustomerDecision": "Ceola Funk",
+  "LocalTruthBeforeTax": 26464,
+  "Employer": [
+    {
+      "CVRNumber": 2040025834,
+      "CVRName": "Kanoodle",
+      "Decision": "Meembee",
+      "MonthlyInocmeBeforeTax": 52152,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "29/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 41836
+        },
+        {
+          "CalendarMonth": "27/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 30644
+        },
+        {
+          "CalendarMonth": "12/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 71651
+        },
+        {
+          "CalendarMonth": "05/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 11092
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2366364190,
+      "CVRName": "Wordpedia",
+      "Decision": "Tanoodle",
+      "MonthlyInocmeBeforeTax": 92271,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 20736
+        },
+        {
+          "CalendarMonth": "22/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 75967
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2443913260,
+      "CVRName": "Livepath",
+      "Decision": "Omba",
+      "MonthlyInocmeBeforeTax": 70087,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 10477
+        },
+        {
+          "CalendarMonth": "22/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 93572
+        },
+        {
+          "CalendarMonth": "03/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 20974
+        },
+        {
+          "CalendarMonth": "06/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 87800
+        },
+        {
+          "CalendarMonth": "03/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 33093
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 39178081148,
+  "CustomerConsentKey": "2018-11-11 08:37:30",
+  "CustomerDecision": "Olen Wunsch",
+  "LocalTruthBeforeTax": 41636,
+  "Employer": [
+    {
+      "CVRNumber": 1862685751,
+      "CVRName": "Wordify",
+      "Decision": "Wikizz",
+      "MonthlyInocmeBeforeTax": 8520,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 16561
+        },
+        {
+          "CalendarMonth": "01/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 66000
+        },
+        {
+          "CalendarMonth": "17/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 33907
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2109621258,
+      "CVRName": "Kare",
+      "Decision": "Camimbo",
+      "MonthlyInocmeBeforeTax": 41048,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 95752
+        },
+        {
+          "CalendarMonth": "18/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 28394
+        },
+        {
+          "CalendarMonth": "26/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 62170
+        },
+        {
+          "CalendarMonth": "01/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 21048
+        },
+        {
+          "CalendarMonth": "28/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 14413
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2242243238,
+      "CVRName": "Babbleset",
+      "Decision": "Bubbletube",
+      "MonthlyInocmeBeforeTax": 52407,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "14/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 32652
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1614833445,
+      "CVRName": "Agimba",
+      "Decision": "Meemm",
+      "MonthlyInocmeBeforeTax": 34291,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "09/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 16598
+        },
+        {
+          "CalendarMonth": "30/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 80610
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1814688093,
+      "CVRName": "Eare",
+      "Decision": "Trupe",
+      "MonthlyInocmeBeforeTax": 75518,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "07/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 16204
+        },
+        {
+          "CalendarMonth": "03/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 77878
+        },
+        {
+          "CalendarMonth": "07/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 30035
+        },
+        {
+          "CalendarMonth": "16/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 63794
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 45661114783,
+  "CustomerConsentKey": "2018-11-27 11:51:22",
+  "CustomerDecision": "Sherrill O'Reilly",
+  "LocalTruthBeforeTax": 83233,
+  "Employer": [
+    {
+      "CVRNumber": 2129330831,
+      "CVRName": "Wordpedia",
+      "Decision": "Tekfly",
+      "MonthlyInocmeBeforeTax": 63292,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 82893
+        },
+        {
+          "CalendarMonth": "12/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 19924
+        },
+        {
+          "CalendarMonth": "22/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 13684
+        },
+        {
+          "CalendarMonth": "14/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 30289
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1944311022,
+      "CVRName": "Photofeed",
+      "Decision": "Lazzy",
+      "MonthlyInocmeBeforeTax": 38409,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "12/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 54860
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 23525393964,
+  "CustomerConsentKey": "2019-03-04 09:51:37",
+  "CustomerDecision": "Gaye Klocko",
+  "LocalTruthBeforeTax": 28110,
+  "Employer": [
+    {
+      "CVRNumber": 2407798289,
+      "CVRName": "Fatz",
+      "Decision": "Photobug",
+      "MonthlyInocmeBeforeTax": 99741,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "29/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 22313
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1091726688,
+      "CVRName": "Agivu",
+      "Decision": "Gabvine",
+      "MonthlyInocmeBeforeTax": 8268,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 22292
+        },
+        {
+          "CalendarMonth": "24/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 62498
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2337507110,
+      "CVRName": "Buzzbean",
+      "Decision": "Riffpath",
+      "MonthlyInocmeBeforeTax": 91662,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 80861
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2377634370,
+      "CVRName": "Tazz",
+      "Decision": "Skivee",
+      "MonthlyInocmeBeforeTax": 53035,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 43861
+        },
+        {
+          "CalendarMonth": "09/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 64636
+        },
+        {
+          "CalendarMonth": "25/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 30554
+        },
+        {
+          "CalendarMonth": "22/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 46626
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 40876204100,
+  "CustomerConsentKey": "2019-01-27 10:50:46",
+  "CustomerDecision": "Mauricio Schuppe",
+  "LocalTruthBeforeTax": 37996,
+  "Employer": [
+    {
+      "CVRNumber": 1730458960,
+      "CVRName": "Fivebridge",
+      "Decision": "Mudo",
+      "MonthlyInocmeBeforeTax": 52826,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "31/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 59757
+        },
+        {
+          "CalendarMonth": "25/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 54140
+        },
+        {
+          "CalendarMonth": "22/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 86626
+        },
+        {
+          "CalendarMonth": "19/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 70243
+        },
+        {
+          "CalendarMonth": "22/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 18012
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 22101457191,
+  "CustomerConsentKey": "2019-08-21 16:36:58",
+  "CustomerDecision": "Philomena Kilback",
+  "LocalTruthBeforeTax": 99849,
+  "Employer": [
+    {
+      "CVRNumber": 2443361500,
+      "CVRName": "Camimbo",
+      "Decision": "Demizz",
+      "MonthlyInocmeBeforeTax": 8563,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "09/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 71401
+        },
+        {
+          "CalendarMonth": "09/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 53244
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2898626150,
+      "CVRName": "Omba",
+      "Decision": "Skipfire",
+      "MonthlyInocmeBeforeTax": 64976,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 77414
+        },
+        {
+          "CalendarMonth": "25/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 48573
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1971551417,
+      "CVRName": "Mybuzz",
+      "Decision": "Gabtype",
+      "MonthlyInocmeBeforeTax": 60140,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "18/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 23311
+        },
+        {
+          "CalendarMonth": "10/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 58217
+        },
+        {
+          "CalendarMonth": "08/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 33273
+        },
+        {
+          "CalendarMonth": "19/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 61500
+        },
+        {
+          "CalendarMonth": "18/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 17448
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2458696151,
+      "CVRName": "Bluejam",
+      "Decision": "Katz",
+      "MonthlyInocmeBeforeTax": 62888,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 84381
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1728181748,
+      "CVRName": "Eazzy",
+      "Decision": "Quimba",
+      "MonthlyInocmeBeforeTax": 88766,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 33578
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 22737942616,
+  "CustomerConsentKey": "2018-12-08 23:15:30",
+  "CustomerDecision": "Shelby Reichert",
+  "LocalTruthBeforeTax": 11057,
+  "Employer": [
+    {
+      "CVRNumber": 1452877138,
+      "CVRName": "Talane",
+      "Decision": "Lazz",
+      "MonthlyInocmeBeforeTax": 45555,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 81030
+        },
+        {
+          "CalendarMonth": "26/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 49875
+        },
+        {
+          "CalendarMonth": "14/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 52930
+        },
+        {
+          "CalendarMonth": "15/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 81703
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1138063598,
+      "CVRName": "Tagtune",
+      "Decision": "Wikizz",
+      "MonthlyInocmeBeforeTax": 4366,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 70124
+        },
+        {
+          "CalendarMonth": "02/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 95920
+        },
+        {
+          "CalendarMonth": "09/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 99271
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2788507845,
+      "CVRName": "Jabbercube",
+      "Decision": "Buzzshare",
+      "MonthlyInocmeBeforeTax": 26137,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 95651
+        },
+        {
+          "CalendarMonth": "29/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 64523
+        },
+        {
+          "CalendarMonth": "24/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 35510
+        },
+        {
+          "CalendarMonth": "06/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 98789
+        },
+        {
+          "CalendarMonth": "07/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 60696
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 46605045935,
+  "CustomerConsentKey": "2019-05-22 19:38:06",
+  "CustomerDecision": "Mckinley Johnston",
+  "LocalTruthBeforeTax": 88998,
+  "Employer": [
+    {
+      "CVRNumber": 2105815563,
+      "CVRName": "Ailane",
+      "Decision": "Gigaclub",
+      "MonthlyInocmeBeforeTax": 19682,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 47696
+        },
+        {
+          "CalendarMonth": "08/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 63872
+        },
+        {
+          "CalendarMonth": "26/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 42940
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2930748202,
+      "CVRName": "Digitube",
+      "Decision": "Linktype",
+      "MonthlyInocmeBeforeTax": 96048,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "30/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 91182
+        },
+        {
+          "CalendarMonth": "24/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 93460
+        },
+        {
+          "CalendarMonth": "09/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 31223
+        },
+        {
+          "CalendarMonth": "27/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 58655
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2339006817,
+      "CVRName": "Lazzy",
+      "Decision": "Rhynoodle",
+      "MonthlyInocmeBeforeTax": 74176,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 78076
+        },
+        {
+          "CalendarMonth": "17/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 13724
+        },
+        {
+          "CalendarMonth": "17/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 47179
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1580032100,
+      "CVRName": "Twitterbeat",
+      "Decision": "Devify",
+      "MonthlyInocmeBeforeTax": 69971,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "30/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 66697
+        },
+        {
+          "CalendarMonth": "13/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 54044
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 34075074408,
+  "CustomerConsentKey": "2018-12-28 03:42:24",
+  "CustomerDecision": "Lupe Ruecker",
+  "LocalTruthBeforeTax": 69932,
+  "Employer": [
+    {
+      "CVRNumber": 2275471651,
+      "CVRName": "Topiczoom",
+      "Decision": "Topicshots",
+      "MonthlyInocmeBeforeTax": 99950,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "19/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 67181
+        },
+        {
+          "CalendarMonth": "19/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 95826
+        },
+        {
+          "CalendarMonth": "23/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 26592
+        },
+        {
+          "CalendarMonth": "16/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 13605
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2803567303,
+      "CVRName": "Flashset",
+      "Decision": "Shuffledrive",
+      "MonthlyInocmeBeforeTax": 95222,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "21/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 49441
+        },
+        {
+          "CalendarMonth": "23/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 79302
+        },
+        {
+          "CalendarMonth": "24/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 21646
+        },
+        {
+          "CalendarMonth": "02/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 10266
+        },
+        {
+          "CalendarMonth": "22/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 44938
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 38314559021,
+  "CustomerConsentKey": "2019-08-24 23:38:54",
+  "CustomerDecision": "Jerrell Stehr",
+  "LocalTruthBeforeTax": 97604,
+  "Employer": [
+    {
+      "CVRNumber": 2564465748,
+      "CVRName": "Oozz",
+      "Decision": "Shuffletag",
+      "MonthlyInocmeBeforeTax": 84610,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 75604
+        },
+        {
+          "CalendarMonth": "19/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 46674
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2259843806,
+      "CVRName": "Thoughtbridge",
+      "Decision": "Aimbu",
+      "MonthlyInocmeBeforeTax": 11362,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "30/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 76962
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 38462934678,
+  "CustomerConsentKey": "2019-06-22 19:11:36",
+  "CustomerDecision": "Patrick Hoeger",
+  "LocalTruthBeforeTax": 72047,
+  "Employer": [
+    {
+      "CVRNumber": 2260100621,
+      "CVRName": "Linklinks",
+      "Decision": "Gigaclub",
+      "MonthlyInocmeBeforeTax": 84279,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 29836
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2961346212,
+      "CVRName": "Jaxworks",
+      "Decision": "Voolia",
+      "MonthlyInocmeBeforeTax": 71089,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 85941
+        },
+        {
+          "CalendarMonth": "15/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 82420
+        },
+        {
+          "CalendarMonth": "28/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 57592
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2975924726,
+      "CVRName": "Jatri",
+      "Decision": "JumpXS",
+      "MonthlyInocmeBeforeTax": 33108,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "24/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 70726
+        },
+        {
+          "CalendarMonth": "25/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 66404
+        },
+        {
+          "CalendarMonth": "01/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 88825
+        },
+        {
+          "CalendarMonth": "22/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 48414
+        },
+        {
+          "CalendarMonth": "10/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 13190
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1085819263,
+      "CVRName": "Skajo",
+      "Decision": "DabZ",
+      "MonthlyInocmeBeforeTax": 64663,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "18/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 24432
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 31761007710,
+  "CustomerConsentKey": "2019-02-19 10:51:22",
+  "CustomerDecision": "Coralee Beahan",
+  "LocalTruthBeforeTax": 98386,
+  "Employer": [
+    {
+      "CVRNumber": 1361744686,
+      "CVRName": "Kwimbee",
+      "Decision": "Rhybox",
+      "MonthlyInocmeBeforeTax": 37574,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "09/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 99183
+        },
+        {
+          "CalendarMonth": "27/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 11434
+        },
+        {
+          "CalendarMonth": "10/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 30402
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1139679703,
+      "CVRName": "Yata",
+      "Decision": "Eadel",
+      "MonthlyInocmeBeforeTax": 38337,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "24/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 67687
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1664112459,
+      "CVRName": "Oozz",
+      "Decision": "Babblestorm",
+      "MonthlyInocmeBeforeTax": 71715,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 64860
+        },
+        {
+          "CalendarMonth": "08/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 28261
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2560887140,
+      "CVRName": "Centimia",
+      "Decision": "Dynava",
+      "MonthlyInocmeBeforeTax": 67230,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "29/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 46314
+        },
+        {
+          "CalendarMonth": "03/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 54745
+        },
+        {
+          "CalendarMonth": "29/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 12742
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2124268298,
+      "CVRName": "Ntags",
+      "Decision": "Yakijo",
+      "MonthlyInocmeBeforeTax": 85204,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "30/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 90153
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 26151249069,
+  "CustomerConsentKey": "2019-02-12 06:21:48",
+  "CustomerDecision": "Elvin Kessler",
+  "LocalTruthBeforeTax": 83850,
+  "Employer": [
+    {
+      "CVRNumber": 2109760482,
+      "CVRName": "Skyble",
+      "Decision": "Trilith",
+      "MonthlyInocmeBeforeTax": 16849,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 89471
+        },
+        {
+          "CalendarMonth": "29/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 48414
+        },
+        {
+          "CalendarMonth": "20/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 72101
+        },
+        {
+          "CalendarMonth": "28/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 43928
+        },
+        {
+          "CalendarMonth": "11/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 43211
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1193100919,
+      "CVRName": "Dablist",
+      "Decision": "Blogtags",
+      "MonthlyInocmeBeforeTax": 66186,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "07/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 88251
+        },
+        {
+          "CalendarMonth": "19/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 67089
+        },
+        {
+          "CalendarMonth": "24/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 77560
+        },
+        {
+          "CalendarMonth": "15/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 17816
+        },
+        {
+          "CalendarMonth": "03/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 91696
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2797139205,
+      "CVRName": "Thoughtsphere",
+      "Decision": "Thoughtblab",
+      "MonthlyInocmeBeforeTax": 80417,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 54021
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1501190280,
+      "CVRName": "Latz",
+      "Decision": "Thoughtworks",
+      "MonthlyInocmeBeforeTax": 39175,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 22373
+        },
+        {
+          "CalendarMonth": "25/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 13667
+        },
+        {
+          "CalendarMonth": "30/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 64970
+        },
+        {
+          "CalendarMonth": "13/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 84805
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2814323589,
+      "CVRName": "Ntags",
+      "Decision": "Zoomcast",
+      "MonthlyInocmeBeforeTax": 44067,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 14092
+        },
+        {
+          "CalendarMonth": "09/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 66922
+        },
+        {
+          "CalendarMonth": "23/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 12668
+        },
+        {
+          "CalendarMonth": "29/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 93775
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 40779485613,
+  "CustomerConsentKey": "2018-12-19 01:55:04",
+  "CustomerDecision": "Hanna Hane",
+  "LocalTruthBeforeTax": 26820,
+  "Employer": [
+    {
+      "CVRNumber": 1367325548,
+      "CVRName": "Feedspan",
+      "Decision": "Tavu",
+      "MonthlyInocmeBeforeTax": 24955,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 55729
+        },
+        {
+          "CalendarMonth": "22/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 38252
+        },
+        {
+          "CalendarMonth": "20/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 25110
+        },
+        {
+          "CalendarMonth": "18/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 32135
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1882495603,
+      "CVRName": "Linkbuzz",
+      "Decision": "Trudeo",
+      "MonthlyInocmeBeforeTax": 44379,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 34551
+        },
+        {
+          "CalendarMonth": "03/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 79673
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 30994539739,
+  "CustomerConsentKey": "2019-03-21 06:28:44",
+  "CustomerDecision": "Pete Ruecker",
+  "LocalTruthBeforeTax": 41694,
+  "Employer": [
+    {
+      "CVRNumber": 1625129347,
+      "CVRName": "Blogspan",
+      "Decision": "Muxo",
+      "MonthlyInocmeBeforeTax": 46313,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 85467
+        },
+        {
+          "CalendarMonth": "14/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 86007
+        },
+        {
+          "CalendarMonth": "04/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 72891
+        },
+        {
+          "CalendarMonth": "02/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 59740
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2235710326,
+      "CVRName": "Demimbu",
+      "Decision": "Wordware",
+      "MonthlyInocmeBeforeTax": 46797,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 40234
+        },
+        {
+          "CalendarMonth": "16/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 94460
+        },
+        {
+          "CalendarMonth": "17/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 15014
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2452309881,
+      "CVRName": "Skippad",
+      "Decision": "Meembee",
+      "MonthlyInocmeBeforeTax": 99348,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "17/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 57857
+        },
+        {
+          "CalendarMonth": "26/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 88973
+        },
+        {
+          "CalendarMonth": "25/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 68622
+        },
+        {
+          "CalendarMonth": "21/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 39053
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2954632842,
+      "CVRName": "Tagopia",
+      "Decision": "Oba",
+      "MonthlyInocmeBeforeTax": 63564,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "30/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 23616
+        },
+        {
+          "CalendarMonth": "01/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 65357
+        },
+        {
+          "CalendarMonth": "24/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 16163
+        },
+        {
+          "CalendarMonth": "20/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 99035
+        },
+        {
+          "CalendarMonth": "14/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 69449
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 48693850051,
+  "CustomerConsentKey": "2019-07-07 08:57:54",
+  "CustomerDecision": "Stephany Bednar",
+  "LocalTruthBeforeTax": 66093,
+  "Employer": [
+    {
+      "CVRNumber": 2884950045,
+      "CVRName": "Gigazoom",
+      "Decision": "Oyonder",
+      "MonthlyInocmeBeforeTax": 95052,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "31/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 37625
+        },
+        {
+          "CalendarMonth": "28/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 66790
+        },
+        {
+          "CalendarMonth": "01/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 78248
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 40738466584,
+  "CustomerConsentKey": "2019-02-02 09:05:00",
+  "CustomerDecision": "Foster Schroeder",
+  "LocalTruthBeforeTax": 90988,
+  "Employer": [
+    {
+      "CVRNumber": 1716847526,
+      "CVRName": "Rhyzio",
+      "Decision": "Gigashots",
+      "MonthlyInocmeBeforeTax": 1588,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "13/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 63715
+        },
+        {
+          "CalendarMonth": "09/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 73922
+        },
+        {
+          "CalendarMonth": "04/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 69814
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2096487792,
+      "CVRName": "Rhyloo",
+      "Decision": "Jabbertype",
+      "MonthlyInocmeBeforeTax": 48534,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "06/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 58970
+        },
+        {
+          "CalendarMonth": "11/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 92015
+        },
+        {
+          "CalendarMonth": "06/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 23571
+        },
+        {
+          "CalendarMonth": "02/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 69931
+        },
+        {
+          "CalendarMonth": "12/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 87807
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1806949917,
+      "CVRName": "Thoughtstorm",
+      "Decision": "Kare",
+      "MonthlyInocmeBeforeTax": 88865,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 64595
+        },
+        {
+          "CalendarMonth": "21/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 14451
+        },
+        {
+          "CalendarMonth": "10/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 18176
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 27150335186,
+  "CustomerConsentKey": "2019-01-08 21:56:22",
+  "CustomerDecision": "Adriane Cremin",
+  "LocalTruthBeforeTax": 87286,
+  "Employer": [
+    {
+      "CVRNumber": 2698485804,
+      "CVRName": "Skyvu",
+      "Decision": "Edgeify",
+      "MonthlyInocmeBeforeTax": 3441,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "06/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 43588
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 37519600847,
+  "CustomerConsentKey": "2019-01-31 08:43:35",
+  "CustomerDecision": "Jamika Howell",
+  "LocalTruthBeforeTax": 22412,
+  "Employer": [
+    {
+      "CVRNumber": 1781112539,
+      "CVRName": "Vipe",
+      "Decision": "Jaxworks",
+      "MonthlyInocmeBeforeTax": 16071,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "09/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 29722
+        },
+        {
+          "CalendarMonth": "03/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 41760
+        },
+        {
+          "CalendarMonth": "11/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 68543
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1593606776,
+      "CVRName": "Tanoodle",
+      "Decision": "Camimbo",
+      "MonthlyInocmeBeforeTax": 68418,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 81724
+        },
+        {
+          "CalendarMonth": "23/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 74087
+        },
+        {
+          "CalendarMonth": "20/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 95372
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1332417643,
+      "CVRName": "Aivee",
+      "Decision": "Zoomdog",
+      "MonthlyInocmeBeforeTax": 79990,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "06/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 29598
+        },
+        {
+          "CalendarMonth": "15/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 33009
+        },
+        {
+          "CalendarMonth": "30/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 59582
+        },
+        {
+          "CalendarMonth": "13/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 11749
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2722111246,
+      "CVRName": "Tagopia",
+      "Decision": "Voolith",
+      "MonthlyInocmeBeforeTax": 86009,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 64033
+        },
+        {
+          "CalendarMonth": "02/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 74876
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 44453229813,
+  "CustomerConsentKey": "2018-10-22 11:13:15",
+  "CustomerDecision": "Easter Flatley",
+  "LocalTruthBeforeTax": 60583,
+  "Employer": [
+    {
+      "CVRNumber": 2170630065,
+      "CVRName": "Eabox",
+      "Decision": "Linkbuzz",
+      "MonthlyInocmeBeforeTax": 87450,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 90869
+        },
+        {
+          "CalendarMonth": "31/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 95075
+        },
+        {
+          "CalendarMonth": "08/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 11277
+        },
+        {
+          "CalendarMonth": "31/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 78071
+        },
+        {
+          "CalendarMonth": "18/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 86690
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2589225771,
+      "CVRName": "Skidoo",
+      "Decision": "Demivee",
+      "MonthlyInocmeBeforeTax": 58250,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 24490
+        },
+        {
+          "CalendarMonth": "23/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 83886
+        },
+        {
+          "CalendarMonth": "30/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 59365
+        },
+        {
+          "CalendarMonth": "04/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 26459
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 49943262981,
+  "CustomerConsentKey": "2019-04-14 20:42:59",
+  "CustomerDecision": "Yolande Stiedemann",
+  "LocalTruthBeforeTax": 86771,
+  "Employer": [
+    {
+      "CVRNumber": 1218336251,
+      "CVRName": "Aimbu",
+      "Decision": "Mita",
+      "MonthlyInocmeBeforeTax": 58151,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 96392
+        },
+        {
+          "CalendarMonth": "20/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 26003
+        },
+        {
+          "CalendarMonth": "26/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 57281
+        },
+        {
+          "CalendarMonth": "03/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 30887
+        },
+        {
+          "CalendarMonth": "13/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 17643
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 48048190408,
+  "CustomerConsentKey": "2019-06-09 19:02:35",
+  "CustomerDecision": "Carey Eichmann",
+  "LocalTruthBeforeTax": 34134,
+  "Employer": [
+    {
+      "CVRNumber": 1083098330,
+      "CVRName": "Yakitri",
+      "Decision": "Flashspan",
+      "MonthlyInocmeBeforeTax": 43269,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "12/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 21543
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1842338566,
+      "CVRName": "Shufflebeat",
+      "Decision": "Kanoodle",
+      "MonthlyInocmeBeforeTax": 94522,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "19/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 83419
+        },
+        {
+          "CalendarMonth": "30/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 57116
+        },
+        {
+          "CalendarMonth": "13/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 32169
+        },
+        {
+          "CalendarMonth": "24/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 74218
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2244269214,
+      "CVRName": "Fatz",
+      "Decision": "Skipfire",
+      "MonthlyInocmeBeforeTax": 68392,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "31/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 63493
+        },
+        {
+          "CalendarMonth": "28/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 76795
+        },
+        {
+          "CalendarMonth": "13/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 78751
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 26605893133,
+  "CustomerConsentKey": "2019-01-20 08:50:11",
+  "CustomerDecision": "Colby McClure",
+  "LocalTruthBeforeTax": 58412,
+  "Employer": [
+    {
+      "CVRNumber": 1981056124,
+      "CVRName": "Devpulse",
+      "Decision": "Ozu",
+      "MonthlyInocmeBeforeTax": 65571,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/09/2019",
+          "TotalMonthlyIncomeBeforeTax": 67553
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1288455339,
+      "CVRName": "Realcube",
+      "Decision": "Aibox",
+      "MonthlyInocmeBeforeTax": 37404,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 17963
+        },
+        {
+          "CalendarMonth": "19/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 19562
+        },
+        {
+          "CalendarMonth": "06/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 28312
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1525690014,
+      "CVRName": "Yotz",
+      "Decision": "Aimbu",
+      "MonthlyInocmeBeforeTax": 21147,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "17/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 11127
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2135185036,
+      "CVRName": "Shufflester",
+      "Decision": "Buzzshare",
+      "MonthlyInocmeBeforeTax": 42610,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 54283
+        },
+        {
+          "CalendarMonth": "09/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 70465
+        },
+        {
+          "CalendarMonth": "02/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 48374
+        },
+        {
+          "CalendarMonth": "30/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 26972
+        },
+        {
+          "CalendarMonth": "27/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 17521
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 36498957208,
+  "CustomerConsentKey": "2019-04-30 05:58:37",
+  "CustomerDecision": "Chadwick Russel",
+  "LocalTruthBeforeTax": 30123,
+  "Employer": [
+    {
+      "CVRNumber": 2411863529,
+      "CVRName": "Browsedrive",
+      "Decision": "Quatz",
+      "MonthlyInocmeBeforeTax": 80324,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 91621
+        },
+        {
+          "CalendarMonth": "21/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 34097
+        },
+        {
+          "CalendarMonth": "14/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 92904
+        },
+        {
+          "CalendarMonth": "11/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 73470
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1054805145,
+      "CVRName": "Feedmix",
+      "Decision": "Skinte",
+      "MonthlyInocmeBeforeTax": 12925,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "19/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 16309
+        },
+        {
+          "CalendarMonth": "27/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 99152
+        },
+        {
+          "CalendarMonth": "15/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 53890
+        },
+        {
+          "CalendarMonth": "27/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 24902
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1439791347,
+      "CVRName": "Edgeify",
+      "Decision": "Twitterwire",
+      "MonthlyInocmeBeforeTax": 81845,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "31/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 98142
+        },
+        {
+          "CalendarMonth": "25/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 46051
+        },
+        {
+          "CalendarMonth": "24/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 33619
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1912433261,
+      "CVRName": "JumpXS",
+      "Decision": "Zoombeat",
+      "MonthlyInocmeBeforeTax": 75280,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "18/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 33660
+        },
+        {
+          "CalendarMonth": "02/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 53407
+        },
+        {
+          "CalendarMonth": "23/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 62658
+        },
+        {
+          "CalendarMonth": "09/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 62671
+        },
+        {
+          "CalendarMonth": "24/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 76606
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1758710124,
+      "CVRName": "Zoonoodle",
+      "Decision": "Agivu",
+      "MonthlyInocmeBeforeTax": 95724,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "13/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 29423
+        },
+        {
+          "CalendarMonth": "27/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 81951
+        },
+        {
+          "CalendarMonth": "09/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 76838
+        },
+        {
+          "CalendarMonth": "19/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 34195
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 39971063287,
+  "CustomerConsentKey": "2019-03-30 17:35:08",
+  "CustomerDecision": "Penny Kris",
+  "LocalTruthBeforeTax": 27040,
+  "Employer": [
+    {
+      "CVRNumber": 2241773945,
+      "CVRName": "Jayo",
+      "Decision": "Babbleset",
+      "MonthlyInocmeBeforeTax": 40185,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 79438
+        },
+        {
+          "CalendarMonth": "17/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 44088
+        },
+        {
+          "CalendarMonth": "23/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 65993
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1596480440,
+      "CVRName": "Quatz",
+      "Decision": "Skivee",
+      "MonthlyInocmeBeforeTax": 26122,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "18/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 72198
+        },
+        {
+          "CalendarMonth": "02/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 81603
+        },
+        {
+          "CalendarMonth": "10/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 11961
+        },
+        {
+          "CalendarMonth": "05/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 17926
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1323612154,
+      "CVRName": "Kwideo",
+      "Decision": "Jaxworks",
+      "MonthlyInocmeBeforeTax": 73393,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 65722
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2989610752,
+      "CVRName": "Jaxspan",
+      "Decision": "Dynabox",
+      "MonthlyInocmeBeforeTax": 78391,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "29/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 13002
+        },
+        {
+          "CalendarMonth": "08/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 85232
+        },
+        {
+          "CalendarMonth": "28/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 82846
+        },
+        {
+          "CalendarMonth": "18/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 42059
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 24398583020,
+  "CustomerConsentKey": "2019-04-02 13:17:43",
+  "CustomerDecision": "German Schowalter",
+  "LocalTruthBeforeTax": 63171,
+  "Employer": [
+    {
+      "CVRNumber": 2173067515,
+      "CVRName": "Bubblemix",
+      "Decision": "Brainbox",
+      "MonthlyInocmeBeforeTax": 95452,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "13/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 33768
+        },
+        {
+          "CalendarMonth": "05/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 52134
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2584715744,
+      "CVRName": "Brightdog",
+      "Decision": "Devpulse",
+      "MonthlyInocmeBeforeTax": 54148,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "31/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 83214
+        },
+        {
+          "CalendarMonth": "02/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 21377
+        },
+        {
+          "CalendarMonth": "12/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 20246
+        },
+        {
+          "CalendarMonth": "22/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 15740
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1364812877,
+      "CVRName": "Yadel",
+      "Decision": "Einti",
+      "MonthlyInocmeBeforeTax": 78615,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 52154
+        },
+        {
+          "CalendarMonth": "29/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 86020
+        },
+        {
+          "CalendarMonth": "30/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 62164
+        },
+        {
+          "CalendarMonth": "04/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 32377
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1915826996,
+      "CVRName": "Dynabox",
+      "Decision": "Photolist",
+      "MonthlyInocmeBeforeTax": 79037,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "14/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 73345
+        },
+        {
+          "CalendarMonth": "29/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 47404
+        },
+        {
+          "CalendarMonth": "23/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 46543
+        },
+        {
+          "CalendarMonth": "23/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 71186
+        },
+        {
+          "CalendarMonth": "18/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 91847
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1770468931,
+      "CVRName": "Jabberbean",
+      "Decision": "Jabbersphere",
+      "MonthlyInocmeBeforeTax": 57970,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 48814
+        },
+        {
+          "CalendarMonth": "11/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 56301
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 21817130726,
+  "CustomerConsentKey": "2019-05-22 18:21:09",
+  "CustomerDecision": "Monroe Mann",
+  "LocalTruthBeforeTax": 23895,
+  "Employer": [
+    {
+      "CVRNumber": 2180282121,
+      "CVRName": "Mybuzz",
+      "Decision": "Thoughtbeat",
+      "MonthlyInocmeBeforeTax": 99192,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "14/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 85017
+        },
+        {
+          "CalendarMonth": "14/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 82277
+        },
+        {
+          "CalendarMonth": "12/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 52970
+        },
+        {
+          "CalendarMonth": "10/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 92715
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1146737337,
+      "CVRName": "Eazzy",
+      "Decision": "Kanoodle",
+      "MonthlyInocmeBeforeTax": 19686,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 92163
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1607010230,
+      "CVRName": "Blogspan",
+      "Decision": "Photospace",
+      "MonthlyInocmeBeforeTax": 25072,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 14228
+        },
+        {
+          "CalendarMonth": "25/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 49921
+        },
+        {
+          "CalendarMonth": "27/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 36641
+        },
+        {
+          "CalendarMonth": "12/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 45148
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2901611331,
+      "CVRName": "Quatz",
+      "Decision": "Feedfish",
+      "MonthlyInocmeBeforeTax": 89615,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "17/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 24273
+        },
+        {
+          "CalendarMonth": "16/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 96383
+        },
+        {
+          "CalendarMonth": "30/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 46211
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1775509567,
+      "CVRName": "Livepath",
+      "Decision": "Edgetag",
+      "MonthlyInocmeBeforeTax": 88162,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 58500
+        },
+        {
+          "CalendarMonth": "30/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 42993
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 22868333832,
+  "CustomerConsentKey": "2018-11-24 16:43:08",
+  "CustomerDecision": "Buena Grimes",
+  "LocalTruthBeforeTax": 28896,
+  "Employer": [
+    {
+      "CVRNumber": 1572458300,
+      "CVRName": "Browsezoom",
+      "Decision": "Yoveo",
+      "MonthlyInocmeBeforeTax": 16432,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "19/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 74335
+        },
+        {
+          "CalendarMonth": "30/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 80861
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1153116509,
+      "CVRName": "Thoughtstorm",
+      "Decision": "Browseblab",
+      "MonthlyInocmeBeforeTax": 3027,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "21/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 28151
+        },
+        {
+          "CalendarMonth": "13/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 77307
+        },
+        {
+          "CalendarMonth": "12/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 51529
+        },
+        {
+          "CalendarMonth": "19/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 22199
+        },
+        {
+          "CalendarMonth": "11/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 96027
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2607907006,
+      "CVRName": "Voonyx",
+      "Decision": "Zoovu",
+      "MonthlyInocmeBeforeTax": 47217,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 61012
+        },
+        {
+          "CalendarMonth": "16/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 37988
+        },
+        {
+          "CalendarMonth": "08/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 28464
+        },
+        {
+          "CalendarMonth": "15/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 73646
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 23543200264,
+  "CustomerConsentKey": "2019-05-02 10:27:31",
+  "CustomerDecision": "Federico Stoltenberg",
+  "LocalTruthBeforeTax": 68579,
+  "Employer": [
+    {
+      "CVRNumber": 1151548058,
+      "CVRName": "Bubbletube",
+      "Decision": "Browsecat",
+      "MonthlyInocmeBeforeTax": 25365,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 17250
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2128292393,
+      "CVRName": "Feedfish",
+      "Decision": "Nlounge",
+      "MonthlyInocmeBeforeTax": 92055,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 35473
+        },
+        {
+          "CalendarMonth": "11/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 89242
+        },
+        {
+          "CalendarMonth": "16/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 32084
+        },
+        {
+          "CalendarMonth": "01/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 64394
+        },
+        {
+          "CalendarMonth": "06/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 78683
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 47948781176,
+  "CustomerConsentKey": "2019-01-29 14:46:44",
+  "CustomerDecision": "Raylene Kuvalis",
+  "LocalTruthBeforeTax": 64420,
+  "Employer": [
+    {
+      "CVRNumber": 1031851376,
+      "CVRName": "Jatri",
+      "Decision": "Yakijo",
+      "MonthlyInocmeBeforeTax": 11851,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "12/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 89801
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 21548965819,
+  "CustomerConsentKey": "2018-11-30 03:32:08",
+  "CustomerDecision": "Lorine Runolfsson",
+  "LocalTruthBeforeTax": 1275,
+  "Employer": [
+    {
+      "CVRNumber": 1249909596,
+      "CVRName": "Lazzy",
+      "Decision": "Wordware",
+      "MonthlyInocmeBeforeTax": 64614,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 73097
+        },
+        {
+          "CalendarMonth": "11/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 89982
+        },
+        {
+          "CalendarMonth": "25/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 59218
+        },
+        {
+          "CalendarMonth": "06/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 91444
+        },
+        {
+          "CalendarMonth": "05/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 69426
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1436702140,
+      "CVRName": "Innotype",
+      "Decision": "Wikido",
+      "MonthlyInocmeBeforeTax": 77154,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "06/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 78957
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1308478400,
+      "CVRName": "Meejo",
+      "Decision": "Vimbo",
+      "MonthlyInocmeBeforeTax": 1950,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "17/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 61095
+        },
+        {
+          "CalendarMonth": "06/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 32953
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2672655075,
+      "CVRName": "Eimbee",
+      "Decision": "Trupe",
+      "MonthlyInocmeBeforeTax": 57979,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 43943
+        },
+        {
+          "CalendarMonth": "25/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 89099
+        },
+        {
+          "CalendarMonth": "30/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 53568
+        },
+        {
+          "CalendarMonth": "30/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 29997
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 20361979769,
+  "CustomerConsentKey": "2018-10-31 11:17:31",
+  "CustomerDecision": "Hedy Kovacek",
+  "LocalTruthBeforeTax": 2641,
+  "Employer": [
+    {
+      "CVRNumber": 2314706447,
+      "CVRName": "Browseblab",
+      "Decision": "Miboo",
+      "MonthlyInocmeBeforeTax": 73032,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "18/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 96179
+        },
+        {
+          "CalendarMonth": "30/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 57499
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1076000175,
+      "CVRName": "Twinte",
+      "Decision": "Dynava",
+      "MonthlyInocmeBeforeTax": 56057,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 68384
+        },
+        {
+          "CalendarMonth": "17/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 69024
+        },
+        {
+          "CalendarMonth": "02/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 73798
+        },
+        {
+          "CalendarMonth": "19/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 44072
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 33123217442,
+  "CustomerConsentKey": "2019-06-21 00:05:19",
+  "CustomerDecision": "Blossom Waters",
+  "LocalTruthBeforeTax": 95425,
+  "Employer": [
+    {
+      "CVRNumber": 2574014708,
+      "CVRName": "Yadel",
+      "Decision": "Ntags",
+      "MonthlyInocmeBeforeTax": 44323,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 43686
+        },
+        {
+          "CalendarMonth": "01/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 53094
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1265365025,
+      "CVRName": "Feedmix",
+      "Decision": "Zoomzone",
+      "MonthlyInocmeBeforeTax": 78103,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 29972
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 38024434147,
+  "CustomerConsentKey": "2018-10-24 23:34:47",
+  "CustomerDecision": "Jonnie Watsica",
+  "LocalTruthBeforeTax": 15438,
+  "Employer": [
+    {
+      "CVRNumber": 2836605127,
+      "CVRName": "Zoonoodle",
+      "Decision": "Eire",
+      "MonthlyInocmeBeforeTax": 7383,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 68162
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1544036134,
+      "CVRName": "Ooba",
+      "Decision": "Skiptube",
+      "MonthlyInocmeBeforeTax": 8893,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 43618
+        },
+        {
+          "CalendarMonth": "26/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 41355
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2090376188,
+      "CVRName": "Dabtype",
+      "Decision": "Bubblemix",
+      "MonthlyInocmeBeforeTax": 28320,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 61281
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1872967782,
+      "CVRName": "Realfire",
+      "Decision": "Voomm",
+      "MonthlyInocmeBeforeTax": 7893,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "31/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 98937
+        },
+        {
+          "CalendarMonth": "11/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 28101
+        },
+        {
+          "CalendarMonth": "09/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 82086
+        },
+        {
+          "CalendarMonth": "27/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 25563
+        },
+        {
+          "CalendarMonth": "24/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 47051
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 42938512947,
+  "CustomerConsentKey": "2019-04-27 17:22:20",
+  "CustomerDecision": "John Mraz",
+  "LocalTruthBeforeTax": 56653,
+  "Employer": [
+    {
+      "CVRNumber": 2433743104,
+      "CVRName": "Skimia",
+      "Decision": "Buzzdog",
+      "MonthlyInocmeBeforeTax": 43676,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 11574
+        },
+        {
+          "CalendarMonth": "22/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 96930
+        },
+        {
+          "CalendarMonth": "15/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 89226
+        },
+        {
+          "CalendarMonth": "31/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 20586
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1596056997,
+      "CVRName": "Babbleopia",
+      "Decision": "Aibox",
+      "MonthlyInocmeBeforeTax": 92404,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 21558
+        },
+        {
+          "CalendarMonth": "29/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 62040
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1581695405,
+      "CVRName": "Npath",
+      "Decision": "Rhycero",
+      "MonthlyInocmeBeforeTax": 85345,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 48119
+        },
+        {
+          "CalendarMonth": "18/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 91292
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 38874450519,
+  "CustomerConsentKey": "2018-12-09 05:49:31",
+  "CustomerDecision": "Hilde Walker",
+  "LocalTruthBeforeTax": 63545,
+  "Employer": [
+    {
+      "CVRNumber": 1974309861,
+      "CVRName": "Digitube",
+      "Decision": "Gabvine",
+      "MonthlyInocmeBeforeTax": 92340,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 84898
+        },
+        {
+          "CalendarMonth": "04/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 33716
+        },
+        {
+          "CalendarMonth": "20/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 28009
+        },
+        {
+          "CalendarMonth": "20/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 81940
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1273405849,
+      "CVRName": "Gabtune",
+      "Decision": "Brainbox",
+      "MonthlyInocmeBeforeTax": 47376,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "31/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 48055
+        },
+        {
+          "CalendarMonth": "08/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 13081
+        },
+        {
+          "CalendarMonth": "17/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 46162
+        },
+        {
+          "CalendarMonth": "08/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 57320
+        },
+        {
+          "CalendarMonth": "11/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 36557
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2472562868,
+      "CVRName": "Flashspan",
+      "Decision": "Twitterworks",
+      "MonthlyInocmeBeforeTax": 43140,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 14046
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 29225662495,
+  "CustomerConsentKey": "2019-06-20 14:30:23",
+  "CustomerDecision": "Felicitas Kassulke",
+  "LocalTruthBeforeTax": 60068,
+  "Employer": [
+    {
+      "CVRNumber": 1373421510,
+      "CVRName": "Oyonder",
+      "Decision": "Skippad",
+      "MonthlyInocmeBeforeTax": 26174,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "09/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 82769
+        },
+        {
+          "CalendarMonth": "18/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 74671
+        },
+        {
+          "CalendarMonth": "16/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 94107
+        },
+        {
+          "CalendarMonth": "18/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 15200
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 39699371397,
+  "CustomerConsentKey": "2019-06-23 03:31:24",
+  "CustomerDecision": "Reiko Rath",
+  "LocalTruthBeforeTax": 39671,
+  "Employer": [
+    {
+      "CVRNumber": 2911217349,
+      "CVRName": "Mynte",
+      "Decision": "Aibox",
+      "MonthlyInocmeBeforeTax": 69147,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 10786
+        },
+        {
+          "CalendarMonth": "01/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 65166
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1682486217,
+      "CVRName": "Oyope",
+      "Decision": "Mybuzz",
+      "MonthlyInocmeBeforeTax": 93435,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 72725
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1325250542,
+      "CVRName": "Reallinks",
+      "Decision": "Skyba",
+      "MonthlyInocmeBeforeTax": 47248,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 95884
+        },
+        {
+          "CalendarMonth": "22/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 81012
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 47768813050,
+  "CustomerConsentKey": "2019-02-08 23:09:55",
+  "CustomerDecision": "Branden Murray",
+  "LocalTruthBeforeTax": 67471,
+  "Employer": [
+    {
+      "CVRNumber": 2783138413,
+      "CVRName": "Dabfeed",
+      "Decision": "Eamia",
+      "MonthlyInocmeBeforeTax": 28467,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "07/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 89811
+        },
+        {
+          "CalendarMonth": "24/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 36922
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1059766307,
+      "CVRName": "Dazzlesphere",
+      "Decision": "Reallinks",
+      "MonthlyInocmeBeforeTax": 6585,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 87956
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2456116213,
+      "CVRName": "Thoughtsphere",
+      "Decision": "Yodoo",
+      "MonthlyInocmeBeforeTax": 12718,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 12034
+        },
+        {
+          "CalendarMonth": "09/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 90303
+        },
+        {
+          "CalendarMonth": "11/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 40363
+        },
+        {
+          "CalendarMonth": "03/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 63523
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1634269904,
+      "CVRName": "Browsedrive",
+      "Decision": "Mymm",
+      "MonthlyInocmeBeforeTax": 42992,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 63985
+        },
+        {
+          "CalendarMonth": "17/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 81629
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1091182088,
+      "CVRName": "Tagtune",
+      "Decision": "Zooveo",
+      "MonthlyInocmeBeforeTax": 62341,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "31/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 63986
+        },
+        {
+          "CalendarMonth": "16/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 59286
+        },
+        {
+          "CalendarMonth": "14/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 54494
+        },
+        {
+          "CalendarMonth": "18/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 11058
+        },
+        {
+          "CalendarMonth": "28/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 93487
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 49160701435,
+  "CustomerConsentKey": "2019-03-25 12:10:32",
+  "CustomerDecision": "Sheldon Ferry",
+  "LocalTruthBeforeTax": 88391,
+  "Employer": [
+    {
+      "CVRNumber": 1099492356,
+      "CVRName": "Kamba",
+      "Decision": "Plambee",
+      "MonthlyInocmeBeforeTax": 87593,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "13/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 86953
+        },
+        {
+          "CalendarMonth": "21/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 94033
+        },
+        {
+          "CalendarMonth": "22/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 51408
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 38287028153,
+  "CustomerConsentKey": "2019-02-05 04:33:57",
+  "CustomerDecision": "Joesph Windler",
+  "LocalTruthBeforeTax": 56686,
+  "Employer": [
+    {
+      "CVRNumber": 1869595229,
+      "CVRName": "Rhycero",
+      "Decision": "Yakidoo",
+      "MonthlyInocmeBeforeTax": 33603,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "21/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 69781
+        },
+        {
+          "CalendarMonth": "24/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 80705
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1356459006,
+      "CVRName": "Wordtune",
+      "Decision": "Trudoo",
+      "MonthlyInocmeBeforeTax": 22015,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 59907
+        },
+        {
+          "CalendarMonth": "09/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 80172
+        },
+        {
+          "CalendarMonth": "21/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 25811
+        },
+        {
+          "CalendarMonth": "27/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 10348
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2811783562,
+      "CVRName": "Fiveclub",
+      "Decision": "Devpoint",
+      "MonthlyInocmeBeforeTax": 38339,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 43206
+        },
+        {
+          "CalendarMonth": "18/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 75012
+        },
+        {
+          "CalendarMonth": "20/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 65610
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1107728122,
+      "CVRName": "Thoughtstorm",
+      "Decision": "Photojam",
+      "MonthlyInocmeBeforeTax": 80738,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 40368
+        },
+        {
+          "CalendarMonth": "29/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 66153
+        },
+        {
+          "CalendarMonth": "23/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 91254
+        },
+        {
+          "CalendarMonth": "02/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 97229
+        },
+        {
+          "CalendarMonth": "15/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 84530
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 22437323380,
+  "CustomerConsentKey": "2019-03-23 04:06:06",
+  "CustomerDecision": "Davis Heller",
+  "LocalTruthBeforeTax": 82793,
+  "Employer": [
+    {
+      "CVRNumber": 1450183586,
+      "CVRName": "Devpoint",
+      "Decision": "Realcube",
+      "MonthlyInocmeBeforeTax": 22139,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 76192
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1961654027,
+      "CVRName": "Gevee",
+      "Decision": "Lajo",
+      "MonthlyInocmeBeforeTax": 15546,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 14785
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 24126386820,
+  "CustomerConsentKey": "2018-11-30 19:02:45",
+  "CustomerDecision": "Jeanette Crist",
+  "LocalTruthBeforeTax": 25526,
+  "Employer": [
+    {
+      "CVRNumber": 2003203991,
+      "CVRName": "Jabberbean",
+      "Decision": "Topicblab",
+      "MonthlyInocmeBeforeTax": 7997,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "07/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 48030
+        },
+        {
+          "CalendarMonth": "11/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 96373
+        },
+        {
+          "CalendarMonth": "31/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 90633
+        },
+        {
+          "CalendarMonth": "07/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 16968
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1826474287,
+      "CVRName": "Flashspan",
+      "Decision": "Skalith",
+      "MonthlyInocmeBeforeTax": 41092,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 99074
+        },
+        {
+          "CalendarMonth": "03/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 16595
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2941091133,
+      "CVRName": "Twitterlist",
+      "Decision": "Jaloo",
+      "MonthlyInocmeBeforeTax": 51944,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "06/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 97780
+        },
+        {
+          "CalendarMonth": "18/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 89779
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 35480558345,
+  "CustomerConsentKey": "2018-12-13 00:04:33",
+  "CustomerDecision": "Jamison Homenick",
+  "LocalTruthBeforeTax": 72462,
+  "Employer": [
+    {
+      "CVRNumber": 1702060775,
+      "CVRName": "Demimbu",
+      "Decision": "Brainsphere",
+      "MonthlyInocmeBeforeTax": 5683,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 43349
+        },
+        {
+          "CalendarMonth": "14/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 46611
+        },
+        {
+          "CalendarMonth": "21/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 41083
+        },
+        {
+          "CalendarMonth": "01/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 72975
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1368204512,
+      "CVRName": "Thoughtsphere",
+      "Decision": "Twitterwire",
+      "MonthlyInocmeBeforeTax": 29236,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 65978
+        },
+        {
+          "CalendarMonth": "23/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 22451
+        },
+        {
+          "CalendarMonth": "19/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 92559
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2997434723,
+      "CVRName": "Linkbridge",
+      "Decision": "Tagtune",
+      "MonthlyInocmeBeforeTax": 96719,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "21/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 32350
+        },
+        {
+          "CalendarMonth": "11/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 19006
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 41149120346,
+  "CustomerConsentKey": "2018-11-28 18:33:36",
+  "CustomerDecision": "Fidel Runolfsdottir",
+  "LocalTruthBeforeTax": 96787,
+  "Employer": [
+    {
+      "CVRNumber": 1105301021,
+      "CVRName": "Zoovu",
+      "Decision": "Realmix",
+      "MonthlyInocmeBeforeTax": 18186,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 44199
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2592173409,
+      "CVRName": "Bluejam",
+      "Decision": "Bubbletube",
+      "MonthlyInocmeBeforeTax": 80511,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "13/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 59433
+        },
+        {
+          "CalendarMonth": "21/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 20154
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 39296896833,
+  "CustomerConsentKey": "2019-01-15 17:11:32",
+  "CustomerDecision": "Kimbery Turner",
+  "LocalTruthBeforeTax": 55176,
+  "Employer": [
+    {
+      "CVRNumber": 2463562483,
+      "CVRName": "Jabbercube",
+      "Decision": "Jabbertype",
+      "MonthlyInocmeBeforeTax": 10366,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 18666
+        },
+        {
+          "CalendarMonth": "11/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 15962
+        },
+        {
+          "CalendarMonth": "25/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 76409
+        },
+        {
+          "CalendarMonth": "01/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 20418
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2127998421,
+      "CVRName": "Vinte",
+      "Decision": "Blogspan",
+      "MonthlyInocmeBeforeTax": 32713,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 62179
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 23570227277,
+  "CustomerConsentKey": "2019-08-20 07:08:40",
+  "CustomerDecision": "Buddy Kuhlman",
+  "LocalTruthBeforeTax": 86063,
+  "Employer": [
+    {
+      "CVRNumber": 2942242940,
+      "CVRName": "Edgeify",
+      "Decision": "Devpulse",
+      "MonthlyInocmeBeforeTax": 16643,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 78375
+        },
+        {
+          "CalendarMonth": "26/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 99185
+        },
+        {
+          "CalendarMonth": "04/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 13788
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 47677562079,
+  "CustomerConsentKey": "2019-03-26 03:56:56",
+  "CustomerDecision": "Leandro Leffler",
+  "LocalTruthBeforeTax": 87369,
+  "Employer": [
+    {
+      "CVRNumber": 1764155595,
+      "CVRName": "Podcat",
+      "Decision": "Divape",
+      "MonthlyInocmeBeforeTax": 67499,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "09/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 90512
+        },
+        {
+          "CalendarMonth": "10/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 23971
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1004124102,
+      "CVRName": "Quinu",
+      "Decision": "Zoomlounge",
+      "MonthlyInocmeBeforeTax": 7327,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 80303
+        },
+        {
+          "CalendarMonth": "16/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 29151
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2513894056,
+      "CVRName": "Blogtags",
+      "Decision": "Edgeify",
+      "MonthlyInocmeBeforeTax": 32797,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 24456
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2177130719,
+      "CVRName": "Edgepulse",
+      "Decision": "Wikizz",
+      "MonthlyInocmeBeforeTax": 55005,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 24974
+        },
+        {
+          "CalendarMonth": "01/09/2019",
+          "TotalMonthlyIncomeBeforeTax": 78800
+        },
+        {
+          "CalendarMonth": "25/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 74496
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1151174753,
+      "CVRName": "Skimia",
+      "Decision": "Rhycero",
+      "MonthlyInocmeBeforeTax": 31900,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 26253
+        },
+        {
+          "CalendarMonth": "04/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 79607
+        },
+        {
+          "CalendarMonth": "24/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 17825
+        },
+        {
+          "CalendarMonth": "28/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 80410
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 46696543032,
+  "CustomerConsentKey": "2019-08-27 18:39:46",
+  "CustomerDecision": "Arron Kertzmann",
+  "LocalTruthBeforeTax": 81219,
+  "Employer": [
+    {
+      "CVRNumber": 1739353300,
+      "CVRName": "Gabtune",
+      "Decision": "Nlounge",
+      "MonthlyInocmeBeforeTax": 52371,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 77502
+        },
+        {
+          "CalendarMonth": "09/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 32865
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2800267964,
+      "CVRName": "Twitterworks",
+      "Decision": "Centidel",
+      "MonthlyInocmeBeforeTax": 42496,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "19/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 77055
+        },
+        {
+          "CalendarMonth": "02/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 72683
+        },
+        {
+          "CalendarMonth": "30/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 54144
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2737667485,
+      "CVRName": "Plajo",
+      "Decision": "Skynoodle",
+      "MonthlyInocmeBeforeTax": 33422,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 66287
+        },
+        {
+          "CalendarMonth": "26/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 27880
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1834212645,
+      "CVRName": "Oyonder",
+      "Decision": "Flipbug",
+      "MonthlyInocmeBeforeTax": 24714,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 18781
+        },
+        {
+          "CalendarMonth": "13/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 26151
+        },
+        {
+          "CalendarMonth": "01/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 93092
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1106369834,
+      "CVRName": "Oodoo",
+      "Decision": "Quamba",
+      "MonthlyInocmeBeforeTax": 54731,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "28/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 55833
+        },
+        {
+          "CalendarMonth": "01/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 30097
+        },
+        {
+          "CalendarMonth": "18/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 98498
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 46951473788,
+  "CustomerConsentKey": "2018-12-12 21:55:01",
+  "CustomerDecision": "Eleonor Hintz",
+  "LocalTruthBeforeTax": 13425,
+  "Employer": [
+    {
+      "CVRNumber": 2784558444,
+      "CVRName": "Reallinks",
+      "Decision": "Photobug",
+      "MonthlyInocmeBeforeTax": 20501,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 85436
+        },
+        {
+          "CalendarMonth": "09/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 89868
+        },
+        {
+          "CalendarMonth": "25/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 82244
+        },
+        {
+          "CalendarMonth": "23/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 16646
+        },
+        {
+          "CalendarMonth": "01/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 80107
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2623386965,
+      "CVRName": "Thoughtworks",
+      "Decision": "Lazz",
+      "MonthlyInocmeBeforeTax": 6632,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 96920
+        },
+        {
+          "CalendarMonth": "20/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 63306
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1286177898,
+      "CVRName": "Kaymbo",
+      "Decision": "Nlounge",
+      "MonthlyInocmeBeforeTax": 49916,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "10/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 21292
+        },
+        {
+          "CalendarMonth": "03/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 96736
+        },
+        {
+          "CalendarMonth": "16/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 62792
+        },
+        {
+          "CalendarMonth": "24/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 41189
+        },
+        {
+          "CalendarMonth": "12/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 45383
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 37051595863,
+  "CustomerConsentKey": "2019-08-01 22:55:22",
+  "CustomerDecision": "Kieth Barrows",
+  "LocalTruthBeforeTax": 29829,
+  "Employer": [
+    {
+      "CVRNumber": 2461797515,
+      "CVRName": "Vipe",
+      "Decision": "Bubblemix",
+      "MonthlyInocmeBeforeTax": 29976,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 43906
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2413997203,
+      "CVRName": "Topiclounge",
+      "Decision": "Innotype",
+      "MonthlyInocmeBeforeTax": 43323,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "03/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 71300
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2749441382,
+      "CVRName": "Dynabox",
+      "Decision": "Youspan",
+      "MonthlyInocmeBeforeTax": 82923,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 27388
+        },
+        {
+          "CalendarMonth": "01/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 49292
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1645146439,
+      "CVRName": "Fanoodle",
+      "Decision": "BlogXS",
+      "MonthlyInocmeBeforeTax": 72104,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "13/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 11592
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 42555512850,
+  "CustomerConsentKey": "2018-12-01 01:53:55",
+  "CustomerDecision": "Apryl Thompson",
+  "LocalTruthBeforeTax": 74983,
+  "Employer": [
+    {
+      "CVRNumber": 2302752163,
+      "CVRName": "Ntags",
+      "Decision": "Browseblab",
+      "MonthlyInocmeBeforeTax": 66699,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "12/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 54584
+        },
+        {
+          "CalendarMonth": "22/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 71286
+        },
+        {
+          "CalendarMonth": "05/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 39074
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1082442118,
+      "CVRName": "Flashspan",
+      "Decision": "Abata",
+      "MonthlyInocmeBeforeTax": 53454,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "24/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 26301
+        },
+        {
+          "CalendarMonth": "26/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 23931
+        },
+        {
+          "CalendarMonth": "09/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 83424
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 38049746826,
+  "CustomerConsentKey": "2018-10-03 19:40:51",
+  "CustomerDecision": "Hettie Wiegand",
+  "LocalTruthBeforeTax": 95718,
+  "Employer": [
+    {
+      "CVRNumber": 2160540160,
+      "CVRName": "Photobean",
+      "Decision": "Linkbuzz",
+      "MonthlyInocmeBeforeTax": 14662,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "04/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 96182
+        },
+        {
+          "CalendarMonth": "30/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 62457
+        },
+        {
+          "CalendarMonth": "13/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 20575
+        },
+        {
+          "CalendarMonth": "12/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 52999
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1251178034,
+      "CVRName": "Mydo",
+      "Decision": "Camido",
+      "MonthlyInocmeBeforeTax": 30176,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 10213
+        },
+        {
+          "CalendarMonth": "13/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 38939
+        },
+        {
+          "CalendarMonth": "29/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 16722
+        },
+        {
+          "CalendarMonth": "09/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 29925
+        },
+        {
+          "CalendarMonth": "09/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 72131
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1084699950,
+      "CVRName": "Jabbersphere",
+      "Decision": "Avamba",
+      "MonthlyInocmeBeforeTax": 11730,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 49283
+        },
+        {
+          "CalendarMonth": "22/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 27646
+        },
+        {
+          "CalendarMonth": "18/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 33344
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1178651918,
+      "CVRName": "Gabtype",
+      "Decision": "Pixonyx",
+      "MonthlyInocmeBeforeTax": 53845,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "17/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 50290
+        },
+        {
+          "CalendarMonth": "25/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 91315
+        },
+        {
+          "CalendarMonth": "23/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 26684
+        },
+        {
+          "CalendarMonth": "06/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 22182
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1356935357,
+      "CVRName": "Eamia",
+      "Decision": "Fanoodle",
+      "MonthlyInocmeBeforeTax": 45924,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 19794
+        },
+        {
+          "CalendarMonth": "12/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 10556
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 25341351204,
+  "CustomerConsentKey": "2019-03-08 10:19:03",
+  "CustomerDecision": "Julia Conn",
+  "LocalTruthBeforeTax": 29421,
+  "Employer": [
+    {
+      "CVRNumber": 1955605566,
+      "CVRName": "Ailane",
+      "Decision": "Myworks",
+      "MonthlyInocmeBeforeTax": 47715,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "14/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 46082
+        },
+        {
+          "CalendarMonth": "28/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 87900
+        },
+        {
+          "CalendarMonth": "28/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 39848
+        },
+        {
+          "CalendarMonth": "13/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 97847
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1533795121,
+      "CVRName": "Rooxo",
+      "Decision": "Vinte",
+      "MonthlyInocmeBeforeTax": 45874,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 85155
+        },
+        {
+          "CalendarMonth": "24/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 63836
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1321450948,
+      "CVRName": "Yombu",
+      "Decision": "Devpoint",
+      "MonthlyInocmeBeforeTax": 21202,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "16/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 94562
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 38899224587,
+  "CustomerConsentKey": "2019-04-10 05:52:55",
+  "CustomerDecision": "Lorriane Prosacco",
+  "LocalTruthBeforeTax": 51717,
+  "Employer": [
+    {
+      "CVRNumber": 2310098837,
+      "CVRName": "Skalith",
+      "Decision": "Skalith",
+      "MonthlyInocmeBeforeTax": 73775,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "14/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 43322
+        },
+        {
+          "CalendarMonth": "26/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 26184
+        },
+        {
+          "CalendarMonth": "09/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 70321
+        },
+        {
+          "CalendarMonth": "08/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 61524
+        },
+        {
+          "CalendarMonth": "27/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 87541
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 29926374762,
+  "CustomerConsentKey": "2019-03-13 21:48:15",
+  "CustomerDecision": "Delcie Okuneva",
+  "LocalTruthBeforeTax": 22275,
+  "Employer": [
+    {
+      "CVRNumber": 1354425582,
+      "CVRName": "Vitz",
+      "Decision": "Twitterbridge",
+      "MonthlyInocmeBeforeTax": 43843,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 90350
+        },
+        {
+          "CalendarMonth": "27/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 92382
+        },
+        {
+          "CalendarMonth": "17/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 23496
+        },
+        {
+          "CalendarMonth": "04/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 74885
+        },
+        {
+          "CalendarMonth": "03/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 68911
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2909459048,
+      "CVRName": "Meembee",
+      "Decision": "Mita",
+      "MonthlyInocmeBeforeTax": 45158,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "23/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 23185
+        },
+        {
+          "CalendarMonth": "25/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 20518
+        },
+        {
+          "CalendarMonth": "22/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 62547
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 28658288734,
+  "CustomerConsentKey": "2019-01-23 17:51:39",
+  "CustomerDecision": "Stephani Gleason",
+  "LocalTruthBeforeTax": 85537,
+  "Employer": [
+    {
+      "CVRNumber": 2377498175,
+      "CVRName": "Meejo",
+      "Decision": "Meedoo",
+      "MonthlyInocmeBeforeTax": 17643,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "30/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 55470
+        },
+        {
+          "CalendarMonth": "16/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 58104
+        },
+        {
+          "CalendarMonth": "28/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 35437
+        },
+        {
+          "CalendarMonth": "19/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 69230
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1386211143,
+      "CVRName": "Twinder",
+      "Decision": "Camido",
+      "MonthlyInocmeBeforeTax": 48421,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "31/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 80721
+        },
+        {
+          "CalendarMonth": "10/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 86428
+        },
+        {
+          "CalendarMonth": "26/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 49060
+        },
+        {
+          "CalendarMonth": "25/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 70268
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2679098901,
+      "CVRName": "Flipopia",
+      "Decision": "Skimia",
+      "MonthlyInocmeBeforeTax": 86237,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 12945
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 24791207670,
+  "CustomerConsentKey": "2019-04-06 05:34:54",
+  "CustomerDecision": "Roy Lakin",
+  "LocalTruthBeforeTax": 14669,
+  "Employer": [
+    {
+      "CVRNumber": 2995736608,
+      "CVRName": "Gabtype",
+      "Decision": "Dazzlesphere",
+      "MonthlyInocmeBeforeTax": 58055,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "20/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 38834
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 31689699532,
+  "CustomerConsentKey": "2018-09-25 17:29:11",
+  "CustomerDecision": "Dion Maggio",
+  "LocalTruthBeforeTax": 99173,
+  "Employer": [
+    {
+      "CVRNumber": 1809839382,
+      "CVRName": "Realcube",
+      "Decision": "Aivee",
+      "MonthlyInocmeBeforeTax": 7830,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 31472
+        },
+        {
+          "CalendarMonth": "07/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 11914
+        },
+        {
+          "CalendarMonth": "06/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 84784
+        },
+        {
+          "CalendarMonth": "27/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 44341
+        },
+        {
+          "CalendarMonth": "12/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 75818
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1731298239,
+      "CVRName": "Miboo",
+      "Decision": "Zooveo",
+      "MonthlyInocmeBeforeTax": 29018,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "29/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 58527
+        },
+        {
+          "CalendarMonth": "25/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 19746
+        },
+        {
+          "CalendarMonth": "04/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 16331
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2382760557,
+      "CVRName": "Vipe",
+      "Decision": "Thoughtworks",
+      "MonthlyInocmeBeforeTax": 84935,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 97853
+        },
+        {
+          "CalendarMonth": "23/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 82418
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2647472579,
+      "CVRName": "Meedoo",
+      "Decision": "Babblestorm",
+      "MonthlyInocmeBeforeTax": 94860,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 23214
+        },
+        {
+          "CalendarMonth": "03/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 58979
+        },
+        {
+          "CalendarMonth": "14/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 77982
+        },
+        {
+          "CalendarMonth": "06/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 62400
+        },
+        {
+          "CalendarMonth": "03/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 87540
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 45182913212,
+  "CustomerConsentKey": "2018-11-24 02:45:45",
+  "CustomerDecision": "Madelene Quitzon",
+  "LocalTruthBeforeTax": 62334,
+  "Employer": [
+    {
+      "CVRNumber": 1166123585,
+      "CVRName": "Pixope",
+      "Decision": "Jabbercube",
+      "MonthlyInocmeBeforeTax": 59182,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 37231
+        },
+        {
+          "CalendarMonth": "17/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 76648
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2568050671,
+      "CVRName": "Izio",
+      "Decision": "Twinte",
+      "MonthlyInocmeBeforeTax": 23322,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "06/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 33001
+        },
+        {
+          "CalendarMonth": "28/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 46093
+        },
+        {
+          "CalendarMonth": "28/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 66236
+        },
+        {
+          "CalendarMonth": "01/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 86458
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1665641466,
+      "CVRName": "Tagfeed",
+      "Decision": "Miboo",
+      "MonthlyInocmeBeforeTax": 43006,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "13/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 89927
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1820137245,
+      "CVRName": "Tagopia",
+      "Decision": "Blognation",
+      "MonthlyInocmeBeforeTax": 56023,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "26/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 47983
+        },
+        {
+          "CalendarMonth": "26/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 60437
+        },
+        {
+          "CalendarMonth": "12/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 45498
+        },
+        {
+          "CalendarMonth": "23/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 26444
+        },
+        {
+          "CalendarMonth": "23/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 42423
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2403509603,
+      "CVRName": "Realbuzz",
+      "Decision": "Realblab",
+      "MonthlyInocmeBeforeTax": 12113,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "11/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 51003
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 36131600155,
+  "CustomerConsentKey": "2019-03-18 15:16:24",
+  "CustomerDecision": "Audie Kilback",
+  "LocalTruthBeforeTax": 93522,
+  "Employer": [
+    {
+      "CVRNumber": 1309899207,
+      "CVRName": "Skivee",
+      "Decision": "Skajo",
+      "MonthlyInocmeBeforeTax": 26043,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "18/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 43283
+        },
+        {
+          "CalendarMonth": "10/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 24135
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 28829835959,
+  "CustomerConsentKey": "2019-02-27 15:10:48",
+  "CustomerDecision": "Jeffery Dibbert",
+  "LocalTruthBeforeTax": 18254,
+  "Employer": [
+    {
+      "CVRNumber": 2567525145,
+      "CVRName": "Ainyx",
+      "Decision": "Jaxspan",
+      "MonthlyInocmeBeforeTax": 27745,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/01/2019",
+          "TotalMonthlyIncomeBeforeTax": 63386
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1607725021,
+      "CVRName": "Eadel",
+      "Decision": "Meejo",
+      "MonthlyInocmeBeforeTax": 22585,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "25/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 59195
+        },
+        {
+          "CalendarMonth": "06/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 46959
+        },
+        {
+          "CalendarMonth": "10/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 18242
+        },
+        {
+          "CalendarMonth": "27/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 63541
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1346797571,
+      "CVRName": "Ntags",
+      "Decision": "Oba",
+      "MonthlyInocmeBeforeTax": 81026,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/04/2019",
+          "TotalMonthlyIncomeBeforeTax": 64162
+        },
+        {
+          "CalendarMonth": "31/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 19154
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1677532168,
+      "CVRName": "Thoughtstorm",
+      "Decision": "Realbridge",
+      "MonthlyInocmeBeforeTax": 31726,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "02/12/2018",
+          "TotalMonthlyIncomeBeforeTax": 54906
+        },
+        {
+          "CalendarMonth": "23/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 58875
+        },
+        {
+          "CalendarMonth": "28/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 78688
+        },
+        {
+          "CalendarMonth": "27/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 23815
+        },
+        {
+          "CalendarMonth": "01/09/2019",
+          "TotalMonthlyIncomeBeforeTax": 36490
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1313131076,
+      "CVRName": "Eayo",
+      "Decision": "Mydo",
+      "MonthlyInocmeBeforeTax": 31166,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 26300
+        },
+        {
+          "CalendarMonth": "01/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 95172
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 27627267625,
+  "CustomerConsentKey": "2019-04-06 16:31:52",
+  "CustomerDecision": "Lindsey Hoeger",
+  "LocalTruthBeforeTax": 10033,
+  "Employer": [
+    {
+      "CVRNumber": 2766315091,
+      "CVRName": "Devcast",
+      "Decision": "Thoughtstorm",
+      "MonthlyInocmeBeforeTax": 43527,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "08/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 61455
+        },
+        {
+          "CalendarMonth": "06/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 42668
+        },
+        {
+          "CalendarMonth": "19/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 88383
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2969308582,
+      "CVRName": "Skyvu",
+      "Decision": "Jaxspan",
+      "MonthlyInocmeBeforeTax": 10721,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "15/05/2019",
+          "TotalMonthlyIncomeBeforeTax": 52829
+        },
+        {
+          "CalendarMonth": "17/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 65565
+        },
+        {
+          "CalendarMonth": "30/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 97004
+        }
+      ]
+    },
+    {
+      "CVRNumber": 1832910025,
+      "CVRName": "Blogspan",
+      "Decision": "Oyonder",
+      "MonthlyInocmeBeforeTax": 91510,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "01/08/2019",
+          "TotalMonthlyIncomeBeforeTax": 81233
+        },
+        {
+          "CalendarMonth": "16/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 91863
+        },
+        {
+          "CalendarMonth": "31/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 12799
+        },
+        {
+          "CalendarMonth": "27/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 57357
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 33549659216,
+  "CustomerConsentKey": "2019-06-14 09:23:32",
+  "CustomerDecision": "Estelle Hintz",
+  "LocalTruthBeforeTax": 53548,
+  "Employer": [
+    {
+      "CVRNumber": 2578809997,
+      "CVRName": "Youspan",
+      "Decision": "Gigazoom",
+      "MonthlyInocmeBeforeTax": 97923,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "05/07/2019",
+          "TotalMonthlyIncomeBeforeTax": 41377
+        },
+        {
+          "CalendarMonth": "29/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 67131
+        },
+        {
+          "CalendarMonth": "12/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 29804
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 35119051121,
+  "CustomerConsentKey": "2019-02-17 16:24:08",
+  "CustomerDecision": "Leanora Johnston",
+  "LocalTruthBeforeTax": 67956,
+  "Employer": [
+    {
+      "CVRNumber": 1868673860,
+      "CVRName": "Snaptags",
+      "Decision": "Eadel",
+      "MonthlyInocmeBeforeTax": 88214,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "22/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 56373
+        },
+        {
+          "CalendarMonth": "09/11/2018",
+          "TotalMonthlyIncomeBeforeTax": 73406
+        },
+        {
+          "CalendarMonth": "02/09/2018",
+          "TotalMonthlyIncomeBeforeTax": 64548
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 25174469038,
+  "CustomerConsentKey": "2019-01-05 19:31:40",
+  "CustomerDecision": "Macy Morissette",
+  "LocalTruthBeforeTax": 21811,
+  "Employer": [
+    {
+      "CVRNumber": 2294747393,
+      "CVRName": "Miboo",
+      "Decision": "Gabtune",
+      "MonthlyInocmeBeforeTax": 17671,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "12/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 15719
+        }
+      ]
+    }
+  ]
+}, {
+  "ExternalCustomerNumber": 36279892777,
+  "CustomerConsentKey": "2019-07-15 02:41:46",
+  "CustomerDecision": "Jerry Kilback",
+  "LocalTruthBeforeTax": 13463,
+  "Employer": [
+    {
+      "CVRNumber": 1971028956,
+      "CVRName": "Meejo",
+      "Decision": "Topicshots",
+      "MonthlyInocmeBeforeTax": 84972,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "27/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 15194
+        },
+        {
+          "CalendarMonth": "10/03/2019",
+          "TotalMonthlyIncomeBeforeTax": 95249
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2758648613,
+      "CVRName": "Yakidoo",
+      "Decision": "Wikizz",
+      "MonthlyInocmeBeforeTax": 25259,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "16/02/2019",
+          "TotalMonthlyIncomeBeforeTax": 65045
+        }
+      ]
+    },
+    {
+      "CVRNumber": 2808946870,
+      "CVRName": "Topdrive",
+      "Decision": "Midel",
+      "MonthlyInocmeBeforeTax": 68098,
+      "EmployerMonths": [
+        {
+          "CalendarMonth": "16/10/2018",
+          "TotalMonthlyIncomeBeforeTax": 45291
+        },
+        {
+          "CalendarMonth": "28/06/2019",
+          "TotalMonthlyIncomeBeforeTax": 47713
+        }
+      ]
+    }
+  ]
+}]
