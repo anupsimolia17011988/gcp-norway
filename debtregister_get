@@ -1,0 +1,138 @@
+[{
+  "CreditFacilities": [
+    {
+      "CreditLimit": 340714.8,
+      "InterestBearingBalance": 32510.61,
+      "NonInterestBearingBalance": 48194.93,
+      "NominalInterestRate": 16.0,
+      "InstallmentCharge": 86,
+      "InstallmentChargePeriod": "QUERTERLY",
+      "CoBorrower": 6,
+      "IsDanskeBankAccount": "YES"
+    },
+    {
+      "CreditLimit": 459360.08,
+      "InterestBearingBalance": 13216.6,
+      "NonInterestBearingBalance": 11879.4,
+      "NominalInterestRate": 66.96,
+      "InstallmentCharge": 28,
+      "InstallmentChargePeriod": "YEARLY",
+      "CoBorrower": 4,
+      "IsDanskeBankAccount": "NO"
+    },
+    {
+      "CreditLimit": 390891.37,
+      "InterestBearingBalance": 57260.41,
+      "NonInterestBearingBalance": 18388.04,
+      "NominalInterestRate": 91.8,
+      "InstallmentCharge": 74,
+      "InstallmentChargePeriod": "MONTHLY",
+      "CoBorrower": 7,
+      "IsDanskeBankAccount": "YES"
+    },
+    {
+      "CreditLimit": 49357.55,
+      "InterestBearingBalance": 56402.83,
+      "NonInterestBearingBalance": 38624.45,
+      "NominalInterestRate": 8.6,
+      "InstallmentCharge": 66,
+      "InstallmentChargePeriod": "HALF-YEARLY",
+      "CoBorrower": 1,
+      "IsDanskeBankAccount": "YES"
+    },
+    {
+      "CreditLimit": 673713.86,
+      "InterestBearingBalance": 67212.96,
+      "NonInterestBearingBalance": 26206.58,
+      "NominalInterestRate": 31.33,
+      "InstallmentCharge": 81,
+      "InstallmentChargePeriod": "MONTHLY",
+      "CoBorrower": 0,
+      "IsDanskeBankAccount": "NO"
+    }
+  ],
+  "RepaymentLoans": [
+    {
+      "OriginalBalance": 254253.33,
+      "OutstandingBalance": 32497.46,
+      "Terms": 36,
+      "NominalInterestRate": 46.86,
+      "InstallmentCharge": 59,
+      "InstallmentChargePeriod": "QUERTERLY",
+      "CoBorrower": 1,
+      "IsDanskeBankAccount": "YES"
+    },
+    {
+      "OriginalBalance": 293635.59,
+      "OutstandingBalance": 84686.8,
+      "Terms": 25,
+      "NominalInterestRate": 5.93,
+      "InstallmentCharge": 93,
+      "InstallmentChargePeriod": "HALF-YEARLY",
+      "CoBorrower": 5,
+      "IsDanskeBankAccount": "YES"
+    },
+    {
+      "OriginalBalance": 701413.03,
+      "OutstandingBalance": 24465.13,
+      "Terms": 47,
+      "NominalInterestRate": 20.83,
+      "InstallmentCharge": 29,
+      "InstallmentChargePeriod": "YEARLY",
+      "CoBorrower": 8,
+      "IsDanskeBankAccount": "NO"
+    },
+    {
+      "OriginalBalance": 540022.0,
+      "OutstandingBalance": 42281.78,
+      "Terms": 96,
+      "NominalInterestRate": 65.43,
+      "InstallmentCharge": 43,
+      "InstallmentChargePeriod": "YEARLY",
+      "CoBorrower": 6,
+      "IsDanskeBankAccount": "NO"
+    },
+    {
+      "OriginalBalance": 539069.27,
+      "OutstandingBalance": 50264.35,
+      "Terms": 79,
+      "NominalInterestRate": 18.45,
+      "InstallmentCharge": 74,
+      "InstallmentChargePeriod": "MONTHLY",
+      "CoBorrower": 8,
+      "IsDanskeBankAccount": "NO"
+    }
+  ],
+  "ChargeCards": [
+    {
+      "InterestBearingBalance": 69811.98,
+      "NonInterestBearingBalance": 89673.48,
+      "CoBorrower": 0,
+      "IsDanskeBankAccount": "NO"
+    },
+    {
+      "InterestBearingBalance": 79653.89,
+      "NonInterestBearingBalance": 836.04,
+      "CoBorrower": 4,
+      "IsDanskeBankAccount": "NO"
+    },
+    {
+      "InterestBearingBalance": 69720.18,
+      "NonInterestBearingBalance": 82012.36,
+      "CoBorrower": 3,
+      "IsDanskeBankAccount": "YES"
+    },
+    {
+      "InterestBearingBalance": 85747.79,
+      "NonInterestBearingBalance": 70686.6,
+      "CoBorrower": 3,
+      "IsDanskeBankAccount": "NO"
+    },
+    {
+      "InterestBearingBalance": 67441.95,
+      "NonInterestBearingBalance": 4076.64,
+      "CoBorrower": 1,
+      "IsDanskeBankAccount": "NO"
+    }
+  ]
+}]
