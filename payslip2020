@@ -1,0 +1,1010 @@
+{
+	"returnMessage": "",
+	"externalCustomerNumber": "1234567890",
+	"customerConsentKey": "2019-11-19-10.28.27.231424",
+	"translationText": "",
+	"employer": [{
+			"employerName": "EMPLOYER1",
+			"cvrNumber": "1234567890",
+			"subCategory": [{
+				"name": "category main",
+				"detail": [{
+					"description": "feriepenger",
+					"salary": [{
+						"caledarMonth": "2019-06",
+						"amountDetailCount": 1,
+						"amountDetail": [{
+							"amount": 570,
+							"category": {
+								"name": "category1",
+								"incomeTaxRule": "",
+								"paymentType": "paytype1",
+								"promEmployerTax": "1",
+								"basisForTaxCalculation": "1",
+								"underenhet": "99999999"
+							},
+							"specification": {
+								"numberOfUnits": "",
+								"taxResidenceCountry": "",
+								"vestingCountry": "",
+								"earnedSupportVessel": "",
+								"earnedOnContinent": ""
+							},
+							"additionalInformation": []
+						}]
+					}]
+				}]
+			}],
+			"flereUnderenheter": false
+		},
+		{
+			"employerName": "EMPLOYER 2 ",
+			"cvrNumber": "911112345",
+			"subCategory": [{
+					"name": "subcategory1",
+					"detail": [{
+						"description": "",
+						"salary": [{
+								"caledarMonth": "2019-05",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": -1234,
+									"category": {
+										"name": "category",
+										"incomeTaxRule": "",
+										"paymentType": "",
+										"promEmployerTax": "",
+										"basisForTaxCalculation": "",
+										"underenhet": "912345678"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							},
+							{
+								"caledarMonth": "2019-06",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": -385,
+									"category": {
+										"name": "category2",
+										"incomeTaxRule": "",
+										"paymentType": "",
+										"promEmployerTax": "",
+										"basisForTaxCalculation": "",
+										"underenhet": "9134567890"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							},
+							{
+								"caledarMonth": "2019-07",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": -134567,
+									"category": {
+										"name": "category3",
+										"incomeTaxRule": "",
+										"paymentType": "",
+										"promEmployerTax": "",
+										"basisForTaxCalculation": "",
+										"underenhet": "9123456788"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							},
+							{
+								"caledarMonth": "2019-09",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": -123451,
+									"category": {
+										"name": "category4",
+										"incomeTaxRule": "",
+										"paymentType": "",
+										"promEmployerTax": "",
+										"basisForTaxCalculation": "",
+										"underenhet": "913456789"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							}
+						]
+					}]
+				},
+				{
+					"name": "category",
+					"detail": [{
+							"description": "detail1",
+							"salary": [{
+									"caledarMonth": "2019-05",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -1,
+										"category": {
+											"name": "category",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "911111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-06",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -555,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "9123454675"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-07",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -1231,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-09",
+									"amountDetailCount": 0,
+									"amountDetail": []
+								}
+							]
+						},
+						{
+							"description": "category sub1",
+							"salary": [{
+									"caledarMonth": "2019-05",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -940,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-06",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -940,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-07",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -1018.75,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-09",
+									"amountDetailCount": 0,
+									"amountDetail": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "category main",
+					"detail": [{
+							"description": "fastloenn",
+							"salary": [{
+									"caledarMonth": "2019-05",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 43750,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-06",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 43750,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-07",
+									"amountDetailCount": 2,
+									"amountDetail": [{
+											"amount": 2625,
+											"category": {
+												"name": "category1",
+												"incomeTaxRule": "",
+												"paymentType": "paytype1",
+												"promEmployerTax": "1",
+												"basisForTaxCalculation": "1",
+												"underenhet": "111111111"
+											},
+											"specification": {
+												"numberOfUnits": "",
+												"taxResidenceCountry": "",
+												"vestingCountry": "",
+												"earnedSupportVessel": "",
+												"earnedOnContinent": ""
+											},
+											"additionalInformation": []
+										},
+										{
+											"amount": 45062.5,
+											"category": {
+												"name": "category1",
+												"incomeTaxRule": "",
+												"paymentType": "paytype1",
+												"promEmployerTax": "1",
+												"basisForTaxCalculation": "1",
+												"underenhet": "111111111"
+											},
+											"specification": {
+												"numberOfUnits": "",
+												"taxResidenceCountry": "",
+												"vestingCountry": "",
+												"earnedSupportVessel": "",
+												"earnedOnContinent": ""
+											},
+											"additionalInformation": []
+										}
+									]
+								},
+								{
+									"caledarMonth": "2019-09",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 20798.06,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								}
+							]
+						},
+						{
+							"description": "fastTillegg",
+							"salary": [{
+									"caledarMonth": "2019-05",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 3250,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-06",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 3250,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-07",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 3250,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-09",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 1500,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								}
+							]
+						},
+						{
+							"description": "feriepenger",
+							"salary": [{
+									"caledarMonth": "2019-05",
+									"amountDetailCount": 0,
+									"amountDetail": []
+								},
+								{
+									"caledarMonth": "2019-06",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 60106.7,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-07",
+									"amountDetailCount": 0,
+									"amountDetail": []
+								},
+								{
+									"caledarMonth": "2019-09",
+									"amountDetailCount": 0,
+									"amountDetail": []
+								}
+							]
+						},
+						{
+							"description": "overtidsgodtgjoerelse",
+							"salary": [{
+									"caledarMonth": "2019-05",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 1277.04,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "3.00",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-06",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 1135.14,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "2.00",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-07",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": 1641.67,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "3.00",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-09",
+									"amountDetailCount": 0,
+									"amountDetail": []
+								}
+							]
+						},
+						{
+							"description": "trekkILoennForFerie",
+							"salary": [{
+									"caledarMonth": "2019-05",
+									"amountDetailCount": 0,
+									"amountDetail": []
+								},
+								{
+									"caledarMonth": "2019-06",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -54230.76,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-07",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -1514.43,
+										"category": {
+											"name": "category1",
+											"incomeTaxRule": "",
+											"paymentType": "paytype1",
+											"promEmployerTax": "1",
+											"basisForTaxCalculation": "1",
+											"underenhet": "111111111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-09",
+									"amountDetailCount": 0,
+									"amountDetail": []
+								}
+							]
+						}
+					]
+				}
+			],
+			"flereUnderenheter": false
+		},
+		{
+			"employerName": "HELSE MIDT-NORGE RHF ",
+			"cvrNumber": "983658776",
+			"subCategory": [{
+					"name": "forskuddstrekk",
+					"detail": [{
+						"description": "",
+						"salary": [{
+								"caledarMonth": "2019-08",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": -14737,
+									"category": {
+										"name": "forskuddstrekk",
+										"incomeTaxRule": "",
+										"paymentType": "",
+										"promEmployerTax": "",
+										"basisForTaxCalculation": "",
+										"underenhet": "123456111"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							},
+							{
+								"caledarMonth": "2019-09",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": -14925,
+									"category": {
+										"name": "forskuddstrekk",
+										"incomeTaxRule": "",
+										"paymentType": "",
+										"promEmployerTax": "",
+										"basisForTaxCalculation": "",
+										"underenhet": "123456111"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							},
+							{
+								"caledarMonth": "2019-10",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": -14737,
+									"category": {
+										"name": "forskuddstrekk",
+										"incomeTaxRule": "",
+										"paymentType": "",
+										"promEmployerTax": "",
+										"basisForTaxCalculation": "",
+										"underenhet": "123456111"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							}
+						]
+					}]
+				},
+				{
+					"name": "category9",
+					"detail": [{
+							"description": "premieTilFondOgTrygd",
+							"salary": [{
+									"caledarMonth": "2019-08",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -14.08,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "123456111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-09",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -14.08,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "123456111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-10",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -14.08,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "123456111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								}
+							]
+						},
+						{
+							"description": "category sub1",
+							"salary": [{
+									"caledarMonth": "2019-08",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -958.33,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "123456111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-09",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -958.33,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "123456111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								},
+								{
+									"caledarMonth": "2019-10",
+									"amountDetailCount": 1,
+									"amountDetail": [{
+										"amount": -958.33,
+										"category": {
+											"name": "category9",
+											"incomeTaxRule": "",
+											"paymentType": "",
+											"promEmployerTax": "",
+											"basisForTaxCalculation": "",
+											"underenhet": "123456111"
+										},
+										"specification": {
+											"numberOfUnits": "",
+											"taxResidenceCountry": "",
+											"vestingCountry": "",
+											"earnedSupportVessel": "",
+											"earnedOnContinent": ""
+										},
+										"additionalInformation": []
+									}]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "category main",
+					"detail": [{
+						"description": "fastloenn",
+						"salary": [{
+								"caledarMonth": "2019-08",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": 47916.67,
+									"category": {
+										"name": "category1",
+										"incomeTaxRule": "",
+										"paymentType": "paytype1",
+										"promEmployerTax": "1",
+										"basisForTaxCalculation": "1",
+										"underenhet": "123456111"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							},
+							{
+								"caledarMonth": "2019-09",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": 47916.67,
+									"category": {
+										"name": "category1",
+										"incomeTaxRule": "",
+										"paymentType": "paytype1",
+										"promEmployerTax": "1",
+										"basisForTaxCalculation": "1",
+										"underenhet": "123456111"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							},
+							{
+								"caledarMonth": "2019-10",
+								"amountDetailCount": 1,
+								"amountDetail": [{
+									"amount": 47916.67,
+									"category": {
+										"name": "category1",
+										"incomeTaxRule": "",
+										"paymentType": "paytype1",
+										"promEmployerTax": "1",
+										"basisForTaxCalculation": "1",
+										"underenhet": "123456111"
+									},
+									"specification": {
+										"numberOfUnits": "",
+										"taxResidenceCountry": "",
+										"vestingCountry": "",
+										"earnedSupportVessel": "",
+										"earnedOnContinent": ""
+									},
+									"additionalInformation": []
+								}]
+							}
+						]
+					}]
+				}
+			],
+			"flereUnderenheter": false
+		}
+	]
+}
