@@ -1,0 +1,1787 @@
+{
+   "ReturnMessage": "",
+   "ReturnCode": 0,
+   "ExternalCustomerNumber": "12121212122",
+   "CustomerConsentKey": "2019-12-12-12.27.08.721307",
+   "Shelteredflag": "1",
+   "TranslationText": "Enable",
+   "EmployerCount": 2,
+   "Employer":    [
+            {
+         "EmployerName": "",
+         "CVRNumber": "123456788",
+         "MultipleBusinessId": true,
+         "BusinessIdCount": 2,
+         "Businessidentification":          [
+                        {
+               "BusinessIdentificationCd": "123456990",
+               "SubCategoryCount": 3,
+               "SubCategory":                [
+                                    {
+                     "Name": "mycategory",
+                     "DescriptionCount": 1,
+                     "Detail": [                     {
+                        "Description": "",
+                        "SalaryCount": 8,
+                        "Salary":                         [
+                                                      {
+                              "CaledarMonth": "2018-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": -15000,
+                                 "Category":                                  {
+                                    "Name": "mycategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-02",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": -15000,
+                                 "Category":                                  {
+                                    "Name": "mycategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-03",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": -15000,
+                                 "Category":                                  {
+                                    "Name": "mycategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-04",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": -15000,
+                                 "Category":                                  {
+                                    "Name": "mycategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-05",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": -15000,
+                                 "Category":                                  {
+                                    "Name": "mycategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-06",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": -15000,
+                                 "Category":                                  {
+                                    "Name": "mycategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-07",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": -15000,
+                                 "Category":                                  {
+                                    "Name": "mycategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-08",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": -15000,
+                                 "Category":                                  {
+                                    "Name": "mycategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }
+                        ]
+                     }]
+                  },
+                                    {
+                     "Name": "yourcategory",
+                     "DescriptionCount": 1,
+                     "Detail": [                     {
+                        "Description": "Descr1",
+                        "SalaryCount": 8,
+                        "Salary":                         [
+                                                      {
+                              "CaledarMonth": "2018-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 4000,
+                                 "Category":                                  {
+                                    "Name": "yourcategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-02",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 4000,
+                                 "Category":                                  {
+                                    "Name": "yourcategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-03",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 4000,
+                                 "Category":                                  {
+                                    "Name": "yourcategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-04",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 4000,
+                                 "Category":                                  {
+                                    "Name": "yourcategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-05",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 4000,
+                                 "Category":                                  {
+                                    "Name": "yourcategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-06",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 4000,
+                                 "Category":                                  {
+                                    "Name": "yourcategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-07",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 4000,
+                                 "Category":                                  {
+                                    "Name": "yourcategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2018-08",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 4000,
+                                 "Category":                                  {
+                                    "Name": "yourcategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "",
+                                    "PromEmployerTax": "",
+                                    "BasisForTaxCalculation": ""
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }
+                        ]
+                     }]
+                  },
+                                    {
+                     "Name": "Loan",
+                     "DescriptionCount": 5,
+                     "Detail":                      [
+                                                {
+                           "Description": "Annet",
+                           "SalaryCount": 8,
+                           "Salary":                            [
+                                                            {
+                                 "CaledarMonth": "2018-01",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 300,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "Type100",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-02",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 300,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "Type100",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-03",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 300,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "Type100",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-04",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 300,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "Type100",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-05",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 300,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "Type100",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-06",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 300,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "Type100",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-07",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 300,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "Type100",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-08",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 300,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "Type100",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              }
+                           ]
+                        },
+                                                {
+                           "Description": "Bil",
+                           "SalaryCount": 8,
+                           "Salary":                            [
+                                                            {
+                                 "CaledarMonth": "2018-01",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 6000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type2000",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-02",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 6000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type2000",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-03",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 6000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type2000",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-04",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 6000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type2000",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-05",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 6000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type2000",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-06",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 6000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type2000",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-07",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 6000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type2000",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-08",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 6000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type2000",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              }
+                           ]
+                        },
+                                                {
+                           "Description": "Extraloan",
+                           "SalaryCount": 8,
+                           "Salary":                            [
+                                                            {
+                                 "CaledarMonth": "2018-01",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2400,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-02",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2400,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-03",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2400,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-04",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2400,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-05",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2400,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-06",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2400,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-07",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2400,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-08",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2400,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              }
+                           ]
+                        },
+                                                {
+                           "Description": "Desc440",
+                           "SalaryCount": 8,
+                           "Salary":                            [
+                                                            {
+                                 "CaledarMonth": "2018-01",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2500,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-02",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2500,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-03",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2500,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-04",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2500,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-05",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2500,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-06",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2500,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-07",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2500,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-08",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 2500,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              }
+                           ]
+                        },
+                                                {
+                           "Description": "Desc100",
+                           "SalaryCount": 8,
+                           "Salary":                            [
+                                                            {
+                                 "CaledarMonth": "2018-01",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 150000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "150",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-02",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 150000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "150",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-03",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 150000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "150",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-04",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 150000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "150",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-05",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 150000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "150",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-06",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 150000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "150",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-07",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 150000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "150",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              },
+                                                            {
+                                 "CaledarMonth": "2018-08",
+                                 "AmountDetailCount": 1,
+                                 "AmountDetail": [                                 {
+                                    "Amount": 150000,
+                                    "Category":                                     {
+                                       "Name": "othercategory",
+                                       "IncomeTaxRule": "",
+                                       "PaymentType": "type42",
+                                       "PromEmployerTax": "1",
+                                       "BasisForTaxCalculation": "1"
+                                    },
+                                    "Specification":                                     {
+                                       "NumberOfUnits": "150",
+                                       "TaxResidenceCountry": "",
+                                       "VestingCountry": "",
+                                       "EarnedSupportVessel": "",
+                                       "EarnedOnContinent": ""
+                                    },
+                                    "AddInfoCount": 0
+                                 }]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+                        {
+               "BusinessIdentificationCd": "920920901",
+               "SubCategoryCount": 3,
+               "SubCategory":                [
+                                    {
+                     "Name": "mycategory",
+                     "DescriptionCount": 1,
+                     "Detail": [                     {
+                        "Description": "",
+                        "SalaryCount": 1,
+                        "Salary": [                        {
+                           "CaledarMonth": "2018-09",
+                           "AmountDetailCount": 1,
+                           "AmountDetail": [                           {
+                              "Amount": -15000,
+                              "Category":                               {
+                                 "Name": "mycategory",
+                                 "IncomeTaxRule": "",
+                                 "PaymentType": "",
+                                 "PromEmployerTax": "",
+                                 "BasisForTaxCalculation": ""
+                              },
+                              "Specification":                               {
+                                 "NumberOfUnits": "",
+                                 "TaxResidenceCountry": "",
+                                 "VestingCountry": "",
+                                 "EarnedSupportVessel": "",
+                                 "EarnedOnContinent": ""
+                              },
+                              "AddInfoCount": 0
+                           }]
+                        }]
+                     }]
+                  },
+                                    {
+                     "Name": "yourcategory",
+                     "DescriptionCount": 1,
+                     "Detail": [                     {
+                        "Description": "Descr1",
+                        "SalaryCount": 1,
+                        "Salary": [                        {
+                           "CaledarMonth": "2018-09",
+                           "AmountDetailCount": 1,
+                           "AmountDetail": [                           {
+                              "Amount": 4000,
+                              "Category":                               {
+                                 "Name": "yourcategory",
+                                 "IncomeTaxRule": "",
+                                 "PaymentType": "",
+                                 "PromEmployerTax": "",
+                                 "BasisForTaxCalculation": ""
+                              },
+                              "Specification":                               {
+                                 "NumberOfUnits": "",
+                                 "TaxResidenceCountry": "",
+                                 "VestingCountry": "",
+                                 "EarnedSupportVessel": "",
+                                 "EarnedOnContinent": ""
+                              },
+                              "AddInfoCount": 0
+                           }]
+                        }]
+                     }]
+                  },
+                                    {
+                     "Name": "Loan",
+                     "DescriptionCount": 5,
+                     "Detail":                      [
+                                                {
+                           "Description": "Annet",
+                           "SalaryCount": 1,
+                           "Salary": [                           {
+                              "CaledarMonth": "2018-09",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 300,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "Type100",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }]
+                        },
+                                                {
+                           "Description": "Bil",
+                           "SalaryCount": 1,
+                           "Salary": [                           {
+                              "CaledarMonth": "2018-09",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 6000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type2000",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }]
+                        },
+                                                {
+                           "Description": "Extraloan",
+                           "SalaryCount": 1,
+                           "Salary": [                           {
+                              "CaledarMonth": "2018-09",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 2400,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type42",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }]
+                        },
+                                                {
+                           "Description": "Desc440",
+                           "SalaryCount": 1,
+                           "Salary": [                           {
+                              "CaledarMonth": "2018-09",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 2500,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type42",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }]
+                        },
+                                                {
+                           "Description": "Desc100",
+                           "SalaryCount": 1,
+                           "Salary": [                           {
+                              "CaledarMonth": "2018-09",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 150000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type42",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "150",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+            {
+         "EmployerName": "",
+         "CVRNumber": "900000012",
+         "MultipleBusinessId": false,
+         "BusinessIdCount": 1,
+         "Businessidentification": [         {
+            "BusinessIdentificationCd": "858585858",
+            "SubCategoryCount": 2,
+            "SubCategory":             [
+                              {
+                  "Name": "mycategory",
+                  "DescriptionCount": 1,
+                  "Detail": [                  {
+                     "Description": "",
+                     "SalaryCount": 2,
+                     "Salary":                      [
+                                                {
+                           "CaledarMonth": "2019-01",
+                           "AmountDetailCount": 1,
+                           "AmountDetail": [                           {
+                              "Amount": -5012,
+                              "Category":                               {
+                                 "Name": "mycategory",
+                                 "IncomeTaxRule": "",
+                                 "PaymentType": "",
+                                 "PromEmployerTax": "",
+                                 "BasisForTaxCalculation": ""
+                              },
+                              "Specification":                               {
+                                 "NumberOfUnits": "",
+                                 "TaxResidenceCountry": "",
+                                 "VestingCountry": "",
+                                 "EarnedSupportVessel": "",
+                                 "EarnedOnContinent": ""
+                              },
+                              "AddInfoCount": 0
+                           }]
+                        },
+                                                {
+                           "CaledarMonth": "2019-01",
+                           "AmountDetailCount": 1,
+                           "AmountDetail": [                           {
+                              "Amount": -5012,
+                              "Category":                               {
+                                 "Name": "mycategory",
+                                 "IncomeTaxRule": "",
+                                 "PaymentType": "",
+                                 "PromEmployerTax": "",
+                                 "BasisForTaxCalculation": ""
+                              },
+                              "Specification":                               {
+                                 "NumberOfUnits": "",
+                                 "TaxResidenceCountry": "",
+                                 "VestingCountry": "",
+                                 "EarnedSupportVessel": "",
+                                 "EarnedOnContinent": ""
+                              },
+                              "AddInfoCount": 0
+                           }]
+                        }
+                     ]
+                  }]
+               },
+                              {
+                  "Name": "Loan",
+                  "DescriptionCount": 4,
+                  "Detail":                   [
+                                          {
+                        "Description": "Extraloan",
+                        "SalaryCount": 2,
+                        "Salary":                         [
+                                                      {
+                              "CaledarMonth": "2019-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 20000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type42",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2019-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 20000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type42",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }
+                        ]
+                     },
+                                          {
+                        "Description": "LenghtyDesc",
+                        "SalaryCount": 2,
+                        "Salary":                         [
+                                                      {
+                              "CaledarMonth": "2019-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 15000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type42",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2019-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 15000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type42",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }
+                        ]
+                     },
+                                          {
+                        "Description": "YetLenghtyDesc",
+                        "SalaryCount": 2,
+                        "Salary":                         [
+                                                      {
+                              "CaledarMonth": "2019-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 5000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type2000",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2019-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 5000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type2000",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }
+                        ]
+                     },
+                                          {
+                        "Description": "Tips",
+                        "SalaryCount": 2,
+                        "Salary":                         [
+                                                      {
+                              "CaledarMonth": "2019-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 6000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type42",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           },
+                                                      {
+                              "CaledarMonth": "2019-01",
+                              "AmountDetailCount": 1,
+                              "AmountDetail": [                              {
+                                 "Amount": 6000,
+                                 "Category":                                  {
+                                    "Name": "othercategory",
+                                    "IncomeTaxRule": "",
+                                    "PaymentType": "type42",
+                                    "PromEmployerTax": "1",
+                                    "BasisForTaxCalculation": "1"
+                                 },
+                                 "Specification":                                  {
+                                    "NumberOfUnits": "",
+                                    "TaxResidenceCountry": "",
+                                    "VestingCountry": "",
+                                    "EarnedSupportVessel": "",
+                                    "EarnedOnContinent": ""
+                                 },
+                                 "AddInfoCount": 0
+                              }]
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }]
+      }
+   ]
+}
