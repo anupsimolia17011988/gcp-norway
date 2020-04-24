@@ -1,18 +1,18 @@
 {
   "returnMessage": "",
-  "externalCustomerNumber": "18181818181",
+  "externalCustomerNumber": "12345555555",
   "customerConsentKey": "2019-11-29-12.27.08.721307",
-  "translationText": "Taxiii",
+  "translationText": "Sk",
   "employer": [
     {
       "employerName": "",
-      "cvrNumber": "123456666",
+      "cvrNumber": "121212121",
       "businessIdentification": [
         {
-          "businessIdentificationCd": "123459999",
+          "businessIdentificationCd": "343434343",
           "subCategory": [
             {
-              "name": "category1",
+              "name": "For",
               "detail": [
                 {
                   "description": "",
@@ -24,7 +24,7 @@
                         {
                           "amount": -15000,
                           "category": {
-                            "name": "category1",
+                            "name": "For",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -49,7 +49,7 @@
                         {
                           "amount": -15000,
                           "category": {
-                            "name": "category1",
+                            "name": "For",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -74,7 +74,7 @@
                         {
                           "amount": -15000,
                           "category": {
-                            "name": "category1",
+                            "name": "For",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -99,7 +99,7 @@
                         {
                           "amount": -15000,
                           "category": {
-                            "name": "category1",
+                            "name": "For",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -124,7 +124,7 @@
                         {
                           "amount": -15000,
                           "category": {
-                            "name": "category1",
+                            "name": "For",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -149,7 +149,7 @@
                         {
                           "amount": -15000,
                           "category": {
-                            "name": "category1",
+                            "name": "For",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -166,16 +166,16 @@
                           "additionalInformation": []
                         }
                       ]
-                    },
+                    }
                   ]
                 }
               ]
             },
             {
-              "name": "Fra",
+              "name": "Fr",
               "detail": [
                 {
-                  "description": "desc1",
+                  "description": "Br",
                   "salary": [
                     {
                       "caledarMonth": "Jan-18",
@@ -184,7 +184,7 @@
                         {
                           "amount": 4000,
                           "category": {
-                            "name": "Fra",
+                            "name": "Fr",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -209,7 +209,7 @@
                         {
                           "amount": 4000,
                           "category": {
-                            "name": "Fra",
+                            "name": "Fr",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -234,7 +234,7 @@
                         {
                           "amount": 4000,
                           "category": {
-                            "name": "Fra",
+                            "name": "Fr",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -259,7 +259,7 @@
                         {
                           "amount": 4000,
                           "category": {
-                            "name": "Fra",
+                            "name": "Fr",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -284,7 +284,7 @@
                         {
                           "amount": 4000,
                           "category": {
-                            "name": "Fra",
+                            "name": "Fr",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -309,7 +309,7 @@
                         {
                           "amount": 4000,
                           "category": {
-                            "name": "Fra",
+                            "name": "Fr",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -326,7 +326,7 @@
                           "additionalInformation": []
                         }
                       ]
-                    },
+                    }
                   ]
                 }
               ]
@@ -486,7 +486,7 @@
                           "additionalInformation": []
                         }
                       ]
-                    },
+                    }
                   ]
                 },
                 {
@@ -501,7 +501,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Naturalytelse",
+                            "paymentType": "N",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
@@ -526,7 +526,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Naturalytelse",
+                            "paymentType": "N",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
@@ -551,7 +551,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Naturalytelse",
+                            "paymentType": "N",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
@@ -576,7 +576,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Naturalytelse",
+                            "paymentType": "N",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
@@ -601,7 +601,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Naturalytelse",
+                            "paymentType": "N",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
@@ -626,7 +626,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Naturalytelse",
+                            "paymentType": "N",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
@@ -641,7 +641,7 @@
                           "additionalInformation": []
                         }
                       ]
-                    },
+                    }
                   ]
                 },
                 {
@@ -796,11 +796,11 @@
                           "additionalInformation": []
                         }
                       ]
-                    },
+                    }
                   ]
                 },
                 {
-                  "description": "Hy",
+                  "description": "H",
                   "salary": [
                     {
                       "caledarMonth": "Jan-18",
@@ -927,10 +927,35 @@
                         }
                       ]
                     },
+                    {
+                      "caledarMonth": "Jun-18",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 2500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
-                  "description": "Ti",
+                  "description": "Timeloenn",
                   "salary": [
                     {
                       "caledarMonth": "Jan-18",
@@ -1057,22 +1082,47 @@
                         }
                       ]
                     },
-                 ]
+                    {
+                      "caledarMonth": "Jun-18",
+                      "amountDetailCount": 1,
+                      "amountDetail": [
+                        {
+                          "amount": 1500,
+                          "category": {
+                            "name": "In",
+                            "incomeTaxRule": "",
+                            "paymentType": "Ko",
+                            "promEmployerTax": "1",
+                            "basisForTaxCalculation": "1",
+                            "underenhet": null
+                          },
+                          "specification": {
+                            "numberOfUnits": "150",
+                            "taxResidenceCountry": "",
+                            "vestingCountry": "",
+                            "earnedSupportVessel": "",
+                            "earnedOnContinent": ""
+                          },
+                          "additionalInformation": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "businessIdentificationCd": "811094599",
+          "businessIdentificationCd": "989898989",
           "subCategory": [
             {
-              "name": "category1",
+              "name": "For",
               "detail": [
                 {
                   "description": "",
                   "salary": [
-                    {
+                      {
                       "caledarMonth": "Apr-18",
                       "amountDetailCount": 0,
                       "amountDetail": []
@@ -1102,9 +1152,9 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": -15000,
+                          "amount": -1500,
                           "category": {
-                            "name": "category1",
+                            "name": "For",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -1127,10 +1177,10 @@
               ]
             },
             {
-              "name": "Fra",
+              "name": "Fr",
               "detail": [
                 {
-                  "description": "desc1",
+                  "description": "Br",
                   "salary": [
                     {
                       "caledarMonth": "Apr-18",
@@ -1164,7 +1214,7 @@
                         {
                           "amount": 4000,
                           "category": {
-                            "name": "Fra",
+                            "name": "Fr",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -1192,7 +1242,7 @@
                 {
                   "description": "Annet",
                   "salary": [
-                      {
+                    {
                       "caledarMonth": "Apr-18",
                       "amountDetailCount": 0,
                       "amountDetail": []
@@ -1247,7 +1297,7 @@
                 {
                   "description": "Bil",
                   "salary": [
-                    {
+                   {
                       "caledarMonth": "Apr-18",
                       "amountDetailCount": 0,
                       "amountDetail": []
@@ -1281,7 +1331,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Naturalytelse",
+                            "paymentType": "N",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
@@ -1302,7 +1352,7 @@
                 {
                   "description": "Fa",
                   "salary": [
-                      {
+                    {
                       "caledarMonth": "Apr-18",
                       "amountDetailCount": 0,
                       "amountDetail": []
@@ -1355,7 +1405,7 @@
                   ]
                 },
                 {
-                  "description": "Hy",
+                  "description": "H",
                   "salary": [
                     {
                       "caledarMonth": "Apr-18",
@@ -1410,9 +1460,9 @@
                   ]
                 },
                 {
-                  "description": "Ti",
+                  "description": "Timeloenn",
                   "salary": [
-                      {
+                    {
                       "caledarMonth": "Apr-18",
                       "amountDetailCount": 0,
                       "amountDetail": []
@@ -1442,7 +1492,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": 150000,
+                          "amount": 15000,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
@@ -1473,13 +1523,13 @@
     },
     {
       "employerName": "",
-      "cvrNumber": "911270374",
+      "cvrNumber": "656565656",
       "businessIdentification": [
         {
-          "businessIdentificationCd": "911270404",
+          "businessIdentificationCd": "757575757",
           "subCategory": [
             {
-              "name": "category1",
+              "name": "For",
               "detail": [
                 {
                   "description": "",
@@ -1491,7 +1541,7 @@
                         {
                           "amount": -5012,
                           "category": {
-                            "name": "category1",
+                            "name": "For",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -1508,9 +1558,9 @@
                           "additionalInformation": []
                         },
                         {
-                          "amount": -5012,
+                          "amount": -501,
                           "category": {
-                            "name": "category1",
+                            "name": "For",
                             "incomeTaxRule": "",
                             "paymentType": "",
                             "promEmployerTax": "",
@@ -1543,7 +1593,7 @@
                       "amountDetailCount": 2,
                       "amountDetail": [
                         {
-                          "amount": 20000,
+                          "amount": 200,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
@@ -1585,7 +1635,7 @@
                   ]
                 },
                 {
-                  "description": "HonorarAkkordProsentProvisjon",
+                  "description": "Mon",
                   "salary": [
                     {
                       "caledarMonth": "Jan-19",
@@ -1634,7 +1684,7 @@
                   ]
                 },
                 {
-                  "description": "SkattepliktigPersonalrabatt",
+                  "description": "Sk",
                   "salary": [
                     {
                       "caledarMonth": "Jan-19",
@@ -1645,7 +1695,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Naturalytelse",
+                            "paymentType": "N",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
@@ -1664,7 +1714,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Naturalytelse",
+                            "paymentType": "N",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
