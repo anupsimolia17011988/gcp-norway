@@ -2,7 +2,7 @@
   "returnMessage": "",
   "externalCustomerNumber": "12345555555",
   "customerConsentKey": "2020-03-04-08.56.38.328999",
-  "translationText": "Sk",
+  "translationText": "displayed as part testing",
   "employer": [
     {
       "employerName": "",
@@ -800,7 +800,7 @@
                   ]
                 },
                 {
-                  "description": "Haid desc34",
+                  "description": "need travel",
                   "salary": [
                     {
                       "caledarMonth": "Jan-18",
@@ -1117,7 +1117,7 @@
           "businessIdentificationCd": "989898989",
           "subCategory": [
             {
-              "name": "For",
+              "name": "Formost loop",
               "detail": [
                 {
                   "description": "",
@@ -1180,7 +1180,7 @@
               "name": "Famo desc",
               "detail": [
                 {
-                  "description": "Br",
+                  "description": "Brother hood",
                   "salary": [
                     {
                       "caledarMonth": "Apr-18",
@@ -1237,10 +1237,10 @@
               ]
             },
             {
-              "name": "Lo",
+              "name": "my category",
               "detail": [
                 {
-                  "description": "Annet",
+                  "description": "yet another",
                   "salary": [
                     {
                       "caledarMonth": "Apr-18",
@@ -1276,7 +1276,7 @@
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
-                            "paymentType": "Utgiftsgodtgjoerelse",
+                            "paymentType": "pay type 420",
                             "promEmployerTax": "1",
                             "basisForTaxCalculation": "1",
                             "underenhet": null
@@ -1295,7 +1295,7 @@
                   ]
                 },
                 {
-                  "description": "Bil",
+                  "description": "Biling to check",
                   "salary": [
                    {
                       "caledarMonth": "Apr-18",
@@ -1350,7 +1350,7 @@
                   ]
                 },
                 {
-                  "description": "Fa",
+                  "description": "sal description",
                   "salary": [
                     {
                       "caledarMonth": "Apr-18",
@@ -1405,7 +1405,7 @@
                   ]
                 },
                 {
-                  "description": "H",
+                  "description": "Hent desc for look",
                   "salary": [
                     {
                       "caledarMonth": "Apr-18",
@@ -1492,7 +1492,7 @@
                       "amountDetailCount": 1,
                       "amountDetail": [
                         {
-                          "amount": 15000,
+                          "amount": 85000,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
@@ -1522,14 +1522,14 @@
       "mulitpleBusinessId": false
     },
     {
-      "employerName": "",
+      "employerName": "major hit again",
       "cvrNumber": "656565656",
       "businessIdentification": [
         {
           "businessIdentificationCd": "757575757",
           "subCategory": [
             {
-              "name": "For",
+              "name": "Formost loop test",
               "detail": [
                 {
                   "description": "",
@@ -1583,10 +1583,10 @@
               ]
             },
             {
-              "name": "Lo",
+              "name": "mainly look at alignment",
               "detail": [
                 {
-                  "description": "Fa",
+                  "description": "test again",
                   "salary": [
                     {
                       "caledarMonth": "Jan-19",
@@ -1635,14 +1635,14 @@
                   ]
                 },
                 {
-                  "description": "Mon",
+                  "description": "further testing conducted",
                   "salary": [
                     {
                       "caledarMonth": "Jan-19",
                       "amountDetailCount": 2,
                       "amountDetail": [
                         {
-                          "amount": 15000,
+                          "amount": 75000,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
@@ -1684,14 +1684,14 @@
                   ]
                 },
                 {
-                  "description": "Sk",
+                  "description": "completely used for testing",
                   "salary": [
                     {
                       "caledarMonth": "Jan-19",
                       "amountDetailCount": 2,
                       "amountDetail": [
                         {
-                          "amount": 5000,
+                          "amount": 8800,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
@@ -1710,7 +1710,7 @@
                           "additionalInformation": []
                         },
                         {
-                          "amount": 5000,
+                          "amount": 500,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
@@ -1733,7 +1733,7 @@
                   ]
                 },
                 {
-                  "description": "Tips",
+                  "description": "final description",
                   "salary": [
                     {
                       "caledarMonth": "Jan-19",
@@ -1759,7 +1759,7 @@
                           "additionalInformation": []
                         },
                         {
-                          "amount": 6000,
+                          "amount": 4000,
                           "category": {
                             "name": "In",
                             "incomeTaxRule": "",
